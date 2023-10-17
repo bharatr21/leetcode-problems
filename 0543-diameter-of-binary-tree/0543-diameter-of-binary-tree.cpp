@@ -22,6 +22,7 @@ public:
         if(!root) return 0;
         int left_dia = diameter(root->left);
         int right_dia = diameter(root->right);
+        //Diameter may or may not pass through the root
         return max(max(left_dia, right_dia), height(root->left) + height(root->right));
     }
     int diameterOfBinaryTree(TreeNode* root) {
