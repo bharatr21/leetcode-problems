@@ -1,13 +1,14 @@
 class Solution {
 public:
-    bool isValid(int i, int j, int m, int n)
+    bool isValid(int i, int j, vector<vector<bool>>& vis)
     {
+        int m = vis.size(), n = vis[0].size();
         return ((i >=0 && i < m) && (j >= 0 && j < n));
     }
     void dfs(vector<vector<bool>>& vis, vector<vector<char>>& grid, int i, int j) {
         vector<vector<int>> dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        int m = grid.size(), n = grid[0].size(), k;
-        if(isValid(i, j, m, n) && !vis[i][j] && grid[i][j] == '1')
+        int k;
+        if(isValid(i, j, vis) && !vis[i][j] && grid[i][j] == '1')
         {
             vis[i][j] = true;
             for(k = 0; k < 4; k++)
