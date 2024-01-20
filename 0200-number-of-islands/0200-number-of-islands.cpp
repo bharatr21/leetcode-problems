@@ -1,38 +1,39 @@
 class Solution {
 public:
-    bool isValid(int i, int j, vector<vector<bool>>& vis)
+    bool isValid(vector<vector<char>>& grid, int i, int j)
     {
-        int m = vis.size(), n = vis[0].size();
-        return ((i >=0 && i < m) && (j >= 0 && j < n));
+        int m = grid.size(), n = grid[0].size();
+        return (i >= 0 && i < m) && (j >= 0 && j < n);
     }
-    void dfs(vector<vector<bool>>& vis, vector<vector<char>>& grid, int i, int j) {
+    void dfs(vector<vector<char>>& grid, vector<vector<int>>& vis, int r, int c)
+    {
         vector<vector<int>> dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        int k;
-        if(isValid(i, j, vis) && !vis[i][j] && grid[i][j] == '1')
+        int i;
+        for(i = 0; i < 4; i++)
         {
-            vis[i][j] = true;
-            for(k = 0; k < 4; k++)
+            int dx = dirs[i][0], dy = dirs[i][1];
+            int nr = r + dx, nc = c + dy;
+            if(isValid(grid, nr, nc) && grid[nr][nc] == '1' && !vis[nr][nc])
             {
-                int dx = dirs[k][0];
-                int dy = dirs[k][1];
-                dfs(vis, grid, i + dx, j + dy);
+                vis[nr][nc] = 1;
+                dfs(grid, vis, nr, nc);
             }
         }
     }
-
     int numIslands(vector<vector<char>>& grid) {
         int m = grid.size(), n = grid[0].size(), i, j;
+        vector<vector<int>> vis(m, vector<int>(n, 0));
         int ct = 0;
-        vector<vector<bool>> vis(m, vector<bool>(n, false));
         for(i = 0; i < m; i++)
         {
             for(j = 0; j < n; j++)
             {
-                if(!vis[i][j] && grid[i][j] == '1')
+                if(grid[i][j] == '1' && !vis[i][j])
                 {
+                    vis[i][j] = 1;
                     ct++;
-                    dfs(vis, grid, i, j);
-                }                
+                    dfs(grid, vis, i, j);
+                }
             }
         }
         return ct;
