@@ -34,8 +34,6 @@ public:
                 dfs(i, adj, vis, parent, flag);
             }
         }
-        for(int i = 0; i < n; i++) cout << parent[i] << " ";
-        cout << endl;
         return flag;
     }
 };
