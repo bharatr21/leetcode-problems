@@ -14,18 +14,16 @@ public:
     int height(TreeNode* root)
     {
         if(!root) return 0;
-        int left_height = height(root->left);
-        int right_height = height(root->right);
-        return 1 + max(left_height, right_height);
-    }
-    int diameter(TreeNode* root) {
-        if(!root) return 0;
-        int left_dia = diameter(root->left);
-        int right_dia = diameter(root->right);
-        //Diameter may or may not pass through the root
-        return max(max(left_dia, right_dia), height(root->left) + height(root->right));
+        int lh = height(root->left);
+        int rh = height(root->right);
+        return 1 + max(lh, rh);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        return diameter(root);
+        if(!root) return 0;
+        int ld = diameterOfBinaryTree(root->left);
+        int rd = diameterOfBinaryTree(root->right);
+        int lh = height(root->left);
+        int rh = height(root->right);
+        return max(lh + rh, max(ld, rd));
     }
 };
