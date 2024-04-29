@@ -11,16 +11,18 @@
  */
 class Solution {
 public:
-    bool isIdentical(TreeNode* root1, TreeNode* root2) {
-        if(!root1 && !root2) return true;
-        if((root1 || root2) && (!root1 || !root2)) return false;
-        return (root1->val == root2->val) && isIdentical(root1->left, root2->left) && isIdentical(root1->right, root2->right);
+    bool isSametree(TreeNode* p, TreeNode* q) {
+        if(!p && q || p && !q) return false;
+        if(!p && !q) return true;
+        else return ((p->val == q->val) && isSametree(p->left, q->left) && isSametree(p->right, q->right));
     }
-
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(!subRoot) return true;
         if(!root && subRoot) return false;
-        if(root->val == subRoot->val) return isIdentical(root, subRoot) || isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
-        return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
+        if(!subRoot) return true;
+            return ((root->val == subRoot->val) && 
+                isSametree(root->left, subRoot->left) && 
+                isSametree(root->right, subRoot->right)) ||
+                isSubtree(root->left, subRoot) || 
+                isSubtree(root->right, subRoot);
     }
 };
