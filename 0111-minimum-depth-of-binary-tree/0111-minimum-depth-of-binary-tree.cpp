@@ -18,8 +18,10 @@ public:
     }
     int minD(TreeNode* root) {
         if(isLeaf(root)) return 1;
-        if(!root) return INT_MAX;
-        return 1 + min(minD(root->left), minD(root->right));
+        int depth = INT_MAX - 1;
+        if(root->left) depth = min(depth, minD(root->left));
+        if(root->right) depth = min(depth, minD(root->right));
+        return 1 + depth;
     }
     int minDepth(TreeNode* root) {
         if(!root) return 0;
