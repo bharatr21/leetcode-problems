@@ -2,9 +2,9 @@ class Solution {
 public:
     int findLocal(vector<vector<int>>& grid, int row, int col) {
         int mx = 0, i, j;
-        for(i = row; i <= row + 2; i++)
+        for(i = row; i < row + 3; i++)
         {
-            for(j = col; j <= col + 2; j++)
+            for(j = col; j < col + 3; j++)
             {
                mx = max(mx, grid[i][j]);
             }
