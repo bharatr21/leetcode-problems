@@ -1,19 +1,22 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char, int> mp;
-        int n = s.size(), st = 0, en = 0, mx = 0;
-        while(en < n)
-        {
-            mp[s[en]]++;
-            while(mp[s[en]] > 1) 
-            {
-                mp[s[st]]--;
-                st++;
+        vector<int> hash(128, 0);
+        int start = 0, end = 0, window = 0, ans = 0, n = s.size();
+        while(end < n) {
+            /* First the condition check happens, then the hash[x]++ or hash[x]-- operations, then the actual start and end get inc/decremented */
+            if(hash[s[end]]++ > 0) {
+                window++;
             }
-            mx = max(mx, en - st + 1);
-            en++;
+            end++;
+            while(window > 0) {
+                if(hash[s[start]]-- > 1) {
+                    window--;
+                }
+                start++;
+            }
+            ans = max(ans, end - start);
         }
-        return mx;
+        return ans;
     }
 };
