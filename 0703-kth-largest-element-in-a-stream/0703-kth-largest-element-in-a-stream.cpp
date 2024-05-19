@@ -1,6 +1,6 @@
 class KthLargest {
 public:
-    priority_queue<int, vector<int>, greater<int>> pq;
+    priority_queue<int, vector<int>, greater<int>> pq; // Needed for min-heap (default is max-heap)
     int sz;
     KthLargest(int k, vector<int>& nums) {
         sz = k;
