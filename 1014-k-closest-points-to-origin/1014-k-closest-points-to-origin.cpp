@@ -16,10 +16,7 @@ public:
         priority_queue<vector<int>, vector<vector<int>>, Compare> pq;
         for(vector<int> point: points) {
             pq.push({dist(point), point[0], point[1]});
-            if(pq.size() > k) {
-                auto u = pq.top();
-                pq.pop();
-            }            
+            if(pq.size() > k) pq.pop();            
         }
         while(!pq.empty())
         {
