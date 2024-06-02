@@ -10,6 +10,7 @@
 # Array
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/bharatr21/leetcode-problems/tree/master/1127-last-stone-weight) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 # Hash Table
 |  |
@@ -32,3 +33,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/bharatr21/leetcode-problems/tree/master/1127-last-stone-weight) |
