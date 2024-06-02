@@ -10,6 +10,7 @@
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [1127-last-stone-weight](https://github.com/bharatr21/leetcode-problems/tree/master/1127-last-stone-weight) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 # Hash Table
@@ -37,3 +38,11 @@
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/bharatr21/leetcode-problems/tree/master/1127-last-stone-weight) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0053-maximum-subarray) |
