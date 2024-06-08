@@ -16,6 +16,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0252-meeting-rooms](https://github.com/bharatr21/leetcode-problems/tree/master/0252-meeting-rooms) |
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/bharatr21/leetcode-problems/tree/master/0648-replace-words) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0252-meeting-rooms](https://github.com/bharatr21/leetcode-problems/tree/master/0252-meeting-rooms) |
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0876-hand-of-straights](https://github.com/bharatr21/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
