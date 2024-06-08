@@ -21,6 +21,7 @@
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/bharatr21/leetcode-problems/tree/master/0648-replace-words) |
+| [0739-daily-temperatures](https://github.com/bharatr21/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0876-hand-of-straights](https://github.com/bharatr21/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1044-find-common-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1044-find-common-characters) |
@@ -109,3 +110,11 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0022-generate-parentheses) |
+# Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/bharatr21/leetcode-problems/tree/master/0739-daily-temperatures) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/bharatr21/leetcode-problems/tree/master/0739-daily-temperatures) |
