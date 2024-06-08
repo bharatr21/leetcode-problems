@@ -1,15 +1,20 @@
 class Solution {
 public:
-    bool hasOverlap(vector<int>& a, vector<int>& b) {
-        return !(a[1] <= b[0]);
+    bool isOverlap(int st, int en, vector<int>& interval) {
+        int ist = interval[0], ien = interval[1];
+        return !(st > ien || en < ist || st == ien || ist == en);
     }
     bool canAttendMeetings(vector<vector<int>>& intervals) {
+        int st, en, ist, ien;
         int n = intervals.size(), i;
         if(n <= 1) return true;
         sort(intervals.begin(), intervals.end());
+        st = intervals[0][0];
+        en = intervals[0][1];
         for(i = 1; i < n; i++)
         {
-            if(hasOverlap(intervals[i-1], intervals[i])) return false;   
+            if(isOverlap(st, en, intervals[i])) return false;
+            st = intervals[i][0], en = intervals[i][1];
         }
         return true;
     }
