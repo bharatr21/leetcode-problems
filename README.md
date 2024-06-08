@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
+| [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/bharatr21/leetcode-problems/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/bharatr21/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/bharatr21/leetcode-problems/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/bharatr21/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1044-find-common-characters) |
@@ -84,6 +86,7 @@
 # Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 # Geometry
 |  |
@@ -94,3 +97,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
