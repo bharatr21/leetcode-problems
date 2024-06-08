@@ -4,6 +4,7 @@
 # String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/bharatr21/leetcode-problems/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0409-longest-palindrome) |
@@ -68,6 +69,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 # Greedy
@@ -103,3 +105,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
+# Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0022-generate-parentheses) |
