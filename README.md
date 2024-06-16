@@ -174,3 +174,11 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/bharatr21/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+# Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bharatr21/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+# Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bharatr21/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
