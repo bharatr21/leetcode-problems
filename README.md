@@ -58,6 +58,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/bharatr21/leetcode-problems/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/bharatr21/leetcode-problems/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Design
@@ -65,6 +66,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/bharatr21/leetcode-problems/tree/master/0271-encode-and-decode-strings) |
+| [0295-find-median-from-data-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 # Trie
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/bharatr21/leetcode-problems/tree/master/0502-ipo) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/bharatr21/leetcode-problems/tree/master/1127-last-stone-weight) |
@@ -108,6 +111,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/bharatr21/leetcode-problems/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/bharatr21/leetcode-problems/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/bharatr21/leetcode-problems/tree/master/0876-hand-of-straights) |
@@ -154,3 +158,7 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/bharatr21/leetcode-problems/tree/master/1217-relative-sort-array) |
+# Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
