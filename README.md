@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/bharatr21/leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/bharatr21/leetcode-problems/tree/master/0252-meeting-rooms) |
+| [0330-patching-array](https://github.com/bharatr21/leetcode-problems/tree/master/0330-patching-array) |
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/bharatr21/leetcode-problems/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
@@ -85,6 +86,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/bharatr21/leetcode-problems/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/bharatr21/leetcode-problems/tree/master/0502-ipo) |
