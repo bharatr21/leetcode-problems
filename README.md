@@ -24,6 +24,7 @@
 | [0252-meeting-rooms](https://github.com/bharatr21/leetcode-problems/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/bharatr21/leetcode-problems/tree/master/0271-encode-and-decode-strings) |
+| [0307-range-sum-query-mutable](https://github.com/bharatr21/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [0330-patching-array](https://github.com/bharatr21/leetcode-problems/tree/master/0330-patching-array) |
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/bharatr21/leetcode-problems/tree/master/0502-ipo) |
@@ -67,6 +68,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/bharatr21/leetcode-problems/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/bharatr21/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 # Trie
 |  |
 | ------- |
@@ -162,3 +164,11 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
+# Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/bharatr21/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+# Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/bharatr21/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
