@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/bharatr21/leetcode-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bharatr21/leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/bharatr21/leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -123,6 +124,7 @@
 # Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/bharatr21/leetcode-problems/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 # Geometry
