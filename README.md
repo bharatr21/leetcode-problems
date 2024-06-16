@@ -20,6 +20,7 @@
 | [0053-maximum-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/bharatr21/leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/bharatr21/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/bharatr21/leetcode-problems/tree/master/0252-meeting-rooms) |
 | [0271-encode-and-decode-strings](https://github.com/bharatr21/leetcode-problems/tree/master/0271-encode-and-decode-strings) |
 | [0330-patching-array](https://github.com/bharatr21/leetcode-problems/tree/master/0330-patching-array) |
@@ -125,6 +126,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bharatr21/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 # Backtracking
 |  |
