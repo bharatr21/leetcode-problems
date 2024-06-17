@@ -62,6 +62,7 @@
 | [0253-meeting-rooms-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/bharatr21/leetcode-problems/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Design
 |  |
@@ -126,6 +127,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/bharatr21/leetcode-problems/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 # Geometry
 |  |
@@ -182,3 +184,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bharatr21/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
