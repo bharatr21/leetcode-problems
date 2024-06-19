@@ -36,6 +36,7 @@
 | [0876-hand-of-straights](https://github.com/bharatr21/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1044-find-common-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1044-find-common-characters) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/bharatr21/leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/bharatr21/leetcode-problems/tree/master/1127-last-stone-weight) |
 | [1217-relative-sort-array](https://github.com/bharatr21/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1719-put-boxes-into-the-warehouse-ii) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/bharatr21/leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 # Queue
 |  |
 | ------- |
