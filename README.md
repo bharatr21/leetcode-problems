@@ -39,6 +39,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bharatr21/leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/bharatr21/leetcode-problems/tree/master/1127-last-stone-weight) |
 | [1217-relative-sort-array](https://github.com/bharatr21/leetcode-problems/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bharatr21/leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 # Hash Table
@@ -193,6 +194,7 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bharatr21/leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bharatr21/leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Queue
 |  |
 | ------- |
