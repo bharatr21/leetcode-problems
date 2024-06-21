@@ -21,6 +21,7 @@
 | [0066-plus-one](https://github.com/bharatr21/leetcode-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bharatr21/leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/bharatr21/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bharatr21/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/bharatr21/leetcode-problems/tree/master/0252-meeting-rooms) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/bharatr21/leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0252-meeting-rooms](https://github.com/bharatr21/leetcode-problems/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
@@ -165,6 +167,7 @@
 # Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/bharatr21/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bharatr21/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 # Counting Sort
@@ -206,3 +209,11 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bharatr21/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+# Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
+# Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
