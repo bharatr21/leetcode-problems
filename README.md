@@ -13,6 +13,7 @@
 | [0648-replace-words](https://github.com/bharatr21/leetcode-problems/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2890-count-substrings-without-repeating-character](https://github.com/bharatr21/leetcode-problems/tree/master/2890-count-substrings-without-repeating-character) |
 | [3379-score-of-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/3379-score-of-a-string) |
 # Array
 |  |
@@ -56,6 +57,7 @@
 | [1044-find-common-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/bharatr21/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2890-count-substrings-without-repeating-character](https://github.com/bharatr21/leetcode-problems/tree/master/2890-count-substrings-without-repeating-character) |
 # Counting
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0220-contains-duplicate-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/bharatr21/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bharatr21/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [2890-count-substrings-without-repeating-character](https://github.com/bharatr21/leetcode-problems/tree/master/2890-count-substrings-without-repeating-character) |
 # Counting Sort
 |  |
 | ------- |
