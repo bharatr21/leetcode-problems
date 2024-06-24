@@ -37,6 +37,7 @@
 | [0739-daily-temperatures](https://github.com/bharatr21/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0876-hand-of-straights](https://github.com/bharatr21/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bharatr21/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/bharatr21/leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/bharatr21/leetcode-problems/tree/master/1127-last-stone-weight) |
@@ -154,6 +155,7 @@
 | [0238-product-of-array-except-self](https://github.com/bharatr21/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0253-meeting-rooms-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bharatr21/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Backtracking
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0220-contains-duplicate-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/bharatr21/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bharatr21/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bharatr21/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2890-count-substrings-without-repeating-character](https://github.com/bharatr21/leetcode-problems/tree/master/2890-count-substrings-without-repeating-character) |
 # Counting Sort
 |  |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bharatr21/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bharatr21/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Monotonic Queue
 |  |
 | ------- |
@@ -220,3 +224,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bharatr21/leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
