@@ -30,6 +30,7 @@
 | [0253-meeting-rooms-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/bharatr21/leetcode-problems/tree/master/0271-encode-and-decode-strings) |
 | [0307-range-sum-query-mutable](https://github.com/bharatr21/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/bharatr21/leetcode-problems/tree/master/0330-patching-array) |
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/bharatr21/leetcode-problems/tree/master/0502-ipo) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/0647-palindromic-substrings) |
 # Greedy
@@ -247,3 +249,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
