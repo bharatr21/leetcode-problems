@@ -48,6 +48,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/bharatr21/leetcode-problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/bharatr21/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Hash Table
 |  |
@@ -265,3 +266,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
+# Matrix
+|  |
+| ------- |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/bharatr21/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
