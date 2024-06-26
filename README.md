@@ -105,6 +105,7 @@
 | [0053-maximum-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
+| [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0435-non-overlapping-intervals](https://github.com/bharatr21/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/bharatr21/leetcode-problems/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/bharatr21/leetcode-problems/tree/master/0876-hand-of-straights) |
+| [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sorting
@@ -240,18 +242,22 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
