@@ -9,9 +9,9 @@ public:
             sizes[a]++;
             sizes[b]++;
         }
-        sort(sizes.begin(), sizes.end(), greater<int>());
+        sort(sizes.begin(), sizes.end());
         for(i = 0; i < n; i++) {
-            res += sizes[i] * (n - i);
+            res += sizes[i] * (i + 1);
         }
         return res;
     }
