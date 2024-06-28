@@ -102,6 +102,7 @@
 | [0502-ipo](https://github.com/bharatr21/leetcode-problems/tree/master/0502-ipo) |
 | [1014-k-closest-points-to-origin](https://github.com/bharatr21/leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/bharatr21/leetcode-problems/tree/master/1127-last-stone-weight) |
+| [2379-maximum-total-importance-of-roads](https://github.com/bharatr21/leetcode-problems/tree/master/2379-maximum-total-importance-of-roads) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0876-hand-of-straights](https://github.com/bharatr21/leetcode-problems/tree/master/0876-hand-of-straights) |
 | [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1719-put-boxes-into-the-warehouse-ii) |
+| [2379-maximum-total-importance-of-roads](https://github.com/bharatr21/leetcode-problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sorting
 |  |
@@ -145,6 +147,7 @@
 | [1217-relative-sort-array](https://github.com/bharatr21/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/bharatr21/leetcode-problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1719-put-boxes-into-the-warehouse-ii) |
+| [2379-maximum-total-importance-of-roads](https://github.com/bharatr21/leetcode-problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Math
 |  |
@@ -270,3 +273,7 @@
 |  |
 | ------- |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/bharatr21/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+# Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/bharatr21/leetcode-problems/tree/master/2379-maximum-total-importance-of-roads) |
