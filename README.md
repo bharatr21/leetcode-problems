@@ -248,21 +248,25 @@
 # Tree
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
