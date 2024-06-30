@@ -11,7 +11,7 @@ class Solution {
 public:
     bool exists(TreeNode* root, TreeNode* node) {
         if(!node || !root) return false;
-        if(root == node) return root;
+        if(root == node) return true;
         return (exists(root->left, node) || exists(root->right, node));
     }
     TreeNode* lca(TreeNode* root, TreeNode* p, TreeNode* q) {
