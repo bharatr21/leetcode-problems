@@ -352,12 +352,14 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
 | [1293-three-consecutive-odds](https://github.com/bharatr21/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
