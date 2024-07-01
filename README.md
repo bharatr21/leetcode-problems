@@ -349,4 +349,8 @@
 |  |
 | ------- |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/bharatr21/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
