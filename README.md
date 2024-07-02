@@ -357,6 +357,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/bharatr21/leetcode-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -366,6 +367,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/bharatr21/leetcode-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
