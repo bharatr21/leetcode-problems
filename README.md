@@ -361,6 +361,7 @@
 | [0046-permutations](https://github.com/bharatr21/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -374,6 +375,7 @@
 | [0046-permutations](https://github.com/bharatr21/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -390,4 +392,12 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
