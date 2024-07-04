@@ -21,9 +21,7 @@ public:
                 res = res->next;
                 sum = 0;
             }
-            else {
-                sum += l1->val;
-            }
+            else sum += l1->val;
             l1 = l1->next;
         }
         return dummy->next;
