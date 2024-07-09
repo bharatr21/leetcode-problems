@@ -9,8 +9,8 @@ public:
         end = farr + fwt;
         for(i = 1; i < n; i++) {
             int arr = customers[i][0], wt = customers[i][1];
-            res += max(0, end - arr) + wt;
             end = max(end, arr) + wt;
+            res += (end - arr);
         }
         return (1.0 * res) / n;
     }
