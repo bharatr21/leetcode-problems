@@ -9,23 +9,24 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-// Note: Meta SWE E5 2024 - Phone Screen 
 class Solution {
 public:
     bool isLeaf(TreeNode* node) {
-        return node && (!node->left) && (!node->right);
+        return (node && !node->left && !node->right);
     }
-    int minD(TreeNode* root) {
-        if(isLeaf(root)) return 1;
-        int depth = INT_MAX - 1;
-        if(root->left) depth = min(depth, minD(root->left));
-        if(root->right) depth = min(depth, minD(root->right));
+    int helper(TreeNode* node) {
+        if(!node) return 0;
+        if(isLeaf(node)) return 1;
+        int depth;
+        if(node->left && node->right) {
+            depth = min(helper(node->left), helper(node->right));
+        }
+        else if(node->left) depth = helper(node->left);
+        else depth = helper(node->right);
         return 1 + depth;
     }
     int minDepth(TreeNode* root) {
         if(!root) return 0;
-        if(isLeaf(root)) return 1;
-        return minD(root);
+        return helper(root);
     }
 };
