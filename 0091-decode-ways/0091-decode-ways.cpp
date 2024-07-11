@@ -14,7 +14,16 @@ public:
     }
     int numDecodings(string s) {
         int n = s.size(), i;
-        vector<int> dp(n+1, -1);
-        return helper(dp, s, 0);
+        vector<int> dp(n+1);
+        dp[0] = 1;
+        dp[1] = (s[0] != '0');
+        for(i = 2; i < n+1; i++) {
+            if(s[i-1] != '0') dp[i] = dp[i-1];
+            int two_digits = stoi(s.substr(i-2, 2));
+            if(two_digits >= 10 && two_digits <= 26) {
+                dp[i] += dp[i-2];
+            }
+        }
+        return dp[n];
     }
 };
