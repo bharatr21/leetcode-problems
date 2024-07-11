@@ -368,6 +368,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bharatr21/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/bharatr21/leetcode-problems/tree/master/0051-n-queens) |
@@ -410,6 +411,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## String
@@ -426,6 +428,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/bharatr21/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/bharatr21/leetcode-problems/tree/master/0338-counting-bits) |
