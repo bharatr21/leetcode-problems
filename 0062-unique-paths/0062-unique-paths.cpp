@@ -1,18 +1,20 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        vector<vector<int>> grid(m, vector<int>(n, 0));
+        vector<int> cur(n, 0), prev(n, 0);
         int i, j;
         for(i = 0; i < m; i++)
         {
             for(j = 0; j < n; j++)
             {
-                if(i == 0 || j == 0) {grid[i][j] = 1; continue;}
-                int down = grid[i-1][j];
-                int left = grid[i][j-1];
-                grid[i][j] = down + left;
+                if(j == 0) {cur[j] = 1; continue;}
+                int down = prev[j];
+                int left = cur[j-1];
+                cur[j] = down + left;
+
             }
+            prev = cur;
         }
-        return grid[m-1][n-1];
+        return cur[n-1];
     }
 };
