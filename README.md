@@ -307,6 +307,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bharatr21/leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -378,6 +379,7 @@
 | [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/bharatr21/leetcode-problems/tree/master/0134-gas-station) |
+| [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1293-three-consecutive-odds](https://github.com/bharatr21/leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -445,6 +447,7 @@
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/bharatr21/leetcode-problems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/bharatr21/leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/bharatr21/leetcode-problems/tree/master/0338-counting-bits) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 ## Simulation
