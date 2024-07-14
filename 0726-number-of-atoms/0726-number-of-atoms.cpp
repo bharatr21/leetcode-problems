@@ -1,42 +1,47 @@
 class Solution {
 public:
     string countOfAtoms(string formula) {
-        // Recursively parse the formula
-        unordered_map<string, int> finalMap = parseFormula(formula);
+        // Stack to keep track of the atoms and their counts
+        stack<unordered_map<string, int>> stack;
+        stack.push(unordered_map<string, int>());
 
-        // Sort the final map
-        map<string, int> sortedMap(finalMap.begin(), finalMap.end());
+        // Index to keep track of the current character
+        int index = 0;
 
-        // Generate the answer string
-        string ans;
-        for (auto& [atom, count] : sortedMap) {
-            ans += atom;
-            if (count > 1) {
-                ans += to_string(count);
-            }
-        }
-
-        return ans;
-    }
-
-    // Recursively parse the formula
-    unordered_map<string, int> parseFormula(string& formula) {
-        // Local variable
-        unordered_map<string, int> currMap;
-
-        // Iterate until the right parenthesis or end of the formula
-        while (index < formula.length() && formula[index] != ')') {
-            // If left parenthesis, do recursion
+        // Parse the formula
+        while (index < formula.length()) {
+            // If left parenthesis, insert a new hashmap to the stack. It will
+            // keep track of the atoms and their counts in the nested formula
             if (formula[index] == '(') {
+                stack.push(unordered_map<string, int>());
                 index++;
-                unordered_map<string, int> nestedMap = parseFormula(formula);
-                for (auto& [atom, count] : nestedMap) {
-                    currMap[atom] += count;
+            }
+
+            // If right parenthesis, pop the top element from the stack
+            // Multiply the count with the multiplicity of the nested formula
+            else if (formula[index] == ')') {
+                unordered_map<string, int> currMap = stack.top();
+                stack.pop();
+                index++;
+                string multiplier;
+                while (index < formula.length() && isdigit(formula[index])) {
+                    multiplier += formula[index];
+                    index++;
+                }
+                if (!multiplier.empty()) {
+                    int mult = stoi(multiplier);
+                    for (auto& [atom, count] : currMap) {
+                        currMap[atom] = count * mult;
+                    }
+                }
+
+                for (auto& [atom, count] : currMap) {
+                    stack.top()[atom] += count;
                 }
             }
 
-            // Otherwise, it should be UPPERCASE LETTER
-            // Extract the atom and count in one go.
+            // Otherwise, it must be a UPPERCASE LETTER. Extract the complete
+            // atom with frequency, and update the most recent hashmap
             else {
                 string currAtom;
                 currAtom += formula[index];
@@ -52,33 +57,23 @@ public:
                     index++;
                 }
 
-                if (currCount.empty()) {
-                    currMap[currAtom] += 1;
-                } else {
-                    currMap[currAtom] += stoi(currCount);
-                }
+                int count = currCount.empty() ? 1 : stoi(currCount);
+                stack.top()[currAtom] += count;
             }
         }
 
-        // If the right parenthesis, extract the multiplier
-        // and multiply the count of atoms in the curr_map
-        index++;
-        string multiplier;
-        while (index < formula.length() && isdigit(formula[index])) {
-            multiplier += formula[index];
-            index++;
-        }
-        if (!multiplier.empty()) {
-            int mult = stoi(multiplier);
-            for (auto& [atom, count] : currMap) {
-                currMap[atom] = count * mult;
+        // Sort the final map
+        map<string, int> finalMap(stack.top().begin(), stack.top().end());
+
+        // Generate the answer string
+        string ans;
+        for (auto& [atom, count] : finalMap) {
+            ans += atom;
+            if (count > 1) {
+                ans += to_string(count);
             }
         }
 
-        return currMap;
+        return ans;
     }
-
-private:
-    // Global variable
-    int index = 0;
 };
