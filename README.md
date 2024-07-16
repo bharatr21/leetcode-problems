@@ -299,6 +299,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bharatr21/leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/bharatr21/leetcode-problems/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bharatr21/leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -332,6 +333,7 @@
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/bharatr21/leetcode-problems/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bharatr21/leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bharatr21/leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -352,6 +354,7 @@
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/bharatr21/leetcode-problems/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bharatr21/leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bharatr21/leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -443,6 +446,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bharatr21/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bharatr21/leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Matrix
 |  |
 | ------- |
