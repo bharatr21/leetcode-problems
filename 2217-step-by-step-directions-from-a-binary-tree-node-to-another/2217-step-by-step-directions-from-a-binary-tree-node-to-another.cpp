@@ -49,7 +49,6 @@ public:
         TreeNode* node = lca(root, startValue, destValue);
         markPath(src, node, startValue, true);
         markPath(dest, node, destValue, false);
-        // cout << src << ' ' << dest << endl;
         res += (src + dest);
         return res;
     }
