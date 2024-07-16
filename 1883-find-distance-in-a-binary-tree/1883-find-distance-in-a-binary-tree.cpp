@@ -30,10 +30,8 @@ public:
     int findDistance(TreeNode* root, int p, int q) {
         if(p == q) return 0;
         TreeNode* node = lca(root, p, q);
-        // cout << "LCA value: " << node->val << endl;
         int p_dist = dist(node, p);                      
         int q_dist = dist(node, q);
-        // cout << p_dist << ' ' << q_dist << endl;
         return (p_dist + q_dist);
     }
 };
