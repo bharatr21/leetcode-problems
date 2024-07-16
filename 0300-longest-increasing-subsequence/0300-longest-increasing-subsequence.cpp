@@ -8,7 +8,6 @@ public:
                 res = max(res, 1 + lis(dp, i, nums));
             }
         }
-        cout << endl;
         return (dp[idx] = res);
     }
 
