@@ -16,7 +16,7 @@ public:
         int n = nums.size(), i;
         vector<int> dp(n, -1);
         dp[0] = 1;
-        for(int i = 0; i < n; i++) lis(dp, i, nums);
+        for(int i = 1; i < n; i++) lis(dp, i, nums);
         return *max_element(dp.begin(), dp.end());
     }
 };
