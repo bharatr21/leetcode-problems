@@ -418,6 +418,7 @@
 | ------- |
 | [0078-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/bharatr21/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/bharatr21/leetcode-problems/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
@@ -505,4 +506,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/bharatr21/leetcode-problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
