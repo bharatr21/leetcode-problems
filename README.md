@@ -382,6 +382,7 @@
 | [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/bharatr21/leetcode-problems/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -451,6 +452,7 @@
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/bharatr21/leetcode-problems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/bharatr21/leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/bharatr21/leetcode-problems/tree/master/0338-counting-bits) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
