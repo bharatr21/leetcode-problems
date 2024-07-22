@@ -294,6 +294,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bharatr21/leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -457,6 +458,7 @@
 | [0091-decode-ways](https://github.com/bharatr21/leetcode-problems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/bharatr21/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -517,6 +519,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Memoization
 |  |
 | ------- |
@@ -533,4 +536,8 @@
 |  |
 | ------- |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
