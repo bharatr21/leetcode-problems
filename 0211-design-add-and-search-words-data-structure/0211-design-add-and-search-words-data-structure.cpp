@@ -1,53 +1,50 @@
-class TrieNode {
+class TrieNode {    
 public:
-    unordered_map<char, TrieNode*> children;
     bool end;
+    unordered_map<char, TrieNode*> children;
     TrieNode() {
         end = false;
     }
 };
-
 class WordDictionary {
 public:
     TrieNode* root;
     WordDictionary() {
-        root = new TrieNode();
+        root = new TrieNode();   
     }
     
     void addWord(string word) {
         TrieNode* node = root;
         for(char ch: word) {
-            if(!node->children.count(ch)) {
+            if(node->children.find(ch) == node->children.end()) 
                 node->children[ch] = new TrieNode();
-            }
             node = node->children[ch];
         }
         node->end = true;
     }
     
-    bool search(string word) {
-        TrieNode* node = root;
-        return searchHelper(word, node);
-    }
-
     bool searchHelper(string word, TrieNode* node) {
         int n = word.size(), i;
         for(i = 0; i < n; i++) {
             char ch = word[i];
-            if(!node->children.count(ch)) {
+            if(node->children.find(ch) == node->children.end()) {
                 if(ch == '.') {
-                    for(auto el: node->children) {
-                        TrieNode* child = el.second;
-                        if(searchHelper(word.substr(i + 1), child)) return true;
+                    for(auto u: node->children) {
+                        if(searchHelper(word.substr(i + 1), u.second)) return true;
                     }
                 }
                 return false;
-            } 
-            else {
+            } else {
                 node = node->children[ch];
             }
         }
         return node->end;
+    }
+
+    bool search(string word) {
+        TrieNode* node = root;
+        if(!node) return false;
+        return searchHelper(word, node);
     }
 };
 
