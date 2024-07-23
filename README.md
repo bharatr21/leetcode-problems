@@ -345,6 +345,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
@@ -403,6 +404,7 @@
 | [0134-gas-station](https://github.com/bharatr21/leetcode-problems/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
