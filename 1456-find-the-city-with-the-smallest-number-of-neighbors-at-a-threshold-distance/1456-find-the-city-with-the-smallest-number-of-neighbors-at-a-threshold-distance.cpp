@@ -1,29 +1,28 @@
 class Solution {
 public:
+    // Large value to represent infinity
+    const int INF = 1e9 + 7;
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        // Adjacency list to store the graph
-        vector<vector<pair<int, int>>> adjacencyList(n);
         // Matrix to store shortest path distances from each city
-        vector<vector<int>> shortestPathMatrix(n, vector<int>(n, INT_MAX));
+        vector<vector<int>> shortestPathMatrix(n, vector<int>(n, INF));
 
-        // Initialize adjacency list and shortest path matrix
+        // Initialize shortest path matrix
         for (int i = 0; i < n; i++) {
             shortestPathMatrix[i][i] = 0;  // Distance to itself is zero
         }
 
-        // Populate the adjacency list with edges
+        // Populate the matrix with initial edge weights
         for (const auto& edge : edges) {
             int start = edge[0];
             int end = edge[1];
             int weight = edge[2];
-            adjacencyList[start].emplace_back(end, weight);
-            adjacencyList[end].emplace_back(start,
-                                            weight);  // For undirected graph
+            shortestPathMatrix[start][end] = weight;
+            shortestPathMatrix[end][start] = weight;  // For undirected graph
         }
 
-        // Compute shortest paths from each city using SPFA algorithm
+        // Compute shortest paths from each city using Bellman-Ford algorithm
         for (int i = 0; i < n; i++) {
-            spfa(n, adjacencyList, shortestPathMatrix[i], i);
+            bellmanFord(n, edges, shortestPathMatrix[i], i);
         }
 
         // Find the city with the fewest number of reachable cities within the
@@ -32,35 +31,32 @@ public:
                                           distanceThreshold);
     }
 
-    // SPFA algorithm to find shortest paths from a source city
-    void spfa(int n, const vector<vector<pair<int, int>>>& adjacencyList,
-              vector<int>& shortestPathDistances, int source) {
-        // Queue to process nodes with updated shortest path distances
-        deque<int> queue;
-        vector<int> updateCount(n, 0);
-        queue.push_back(source);
-        fill(shortestPathDistances.begin(), shortestPathDistances.end(),
-             INT_MAX);
+private:
+    // Bellman-Ford algorithm to find shortest paths from a source city
+    void bellmanFord(int n, const vector<vector<int>>& edges,
+                     vector<int>& shortestPathDistances, int source) {
+        // Initialize distances from the source
+        fill(shortestPathDistances.begin(), shortestPathDistances.end(), INF);
         shortestPathDistances[source] = 0;  // Distance to source itself is zero
 
-        // Process nodes in queue
-        while (!queue.empty()) {
-            int currentCity = queue.front();
-            queue.pop_front();
-            for (const auto& [neighborCity, edgeWeight] :
-                 adjacencyList[currentCity]) {
-                if (shortestPathDistances[neighborCity] >
-                    shortestPathDistances[currentCity] + edgeWeight) {
-                    shortestPathDistances[neighborCity] =
-                        shortestPathDistances[currentCity] + edgeWeight;
-                    updateCount[neighborCity]++;
-                    queue.push_back(neighborCity);
-
-                    // Detect negative weight cycles (not expected in this
-                    // problem)
-                    if (updateCount[neighborCity] > n) {
-                        cerr << "Negative weight cycle detected" << endl;
-                    }
+        // Relax edges up to n-1 times
+        for (int i = 1; i < n; i++) {
+            for (const auto& edge : edges) {
+                int start = edge[0];
+                int end = edge[1];
+                int weight = edge[2];
+                // Update shortest path distances if a shorter path is found
+                if (shortestPathDistances[start] != INF &&
+                    shortestPathDistances[start] + weight <
+                        shortestPathDistances[end]) {
+                    shortestPathDistances[end] =
+                        shortestPathDistances[start] + weight;
+                }
+                if (shortestPathDistances[end] != INF &&
+                    shortestPathDistances[end] + weight <
+                        shortestPathDistances[start]) {
+                    shortestPathDistances[start] =
+                        shortestPathDistances[end] + weight;
                 }
             }
         }
