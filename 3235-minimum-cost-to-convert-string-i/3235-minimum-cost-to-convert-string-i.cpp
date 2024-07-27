@@ -2,11 +2,10 @@ class Solution {
 public:
     long long minimumCost(string source, string target, vector<char>& original, vector<char>& changed, vector<int>& cost) {
         long long res = 0;
-        vector<vector<int>> adj(26, vector<int>(26, 10000000));
+        vector<vector<pair<int, int>>> adj(26);
         int n = original.size(), i;
         for(i = 0; i < n; i++) {
-            adj[original[i] - 'a'][changed[i] - 'a'] = 
-            min(adj[original[i] - 'a'][changed[i] - 'a'], cost[i]);
+            adj[original[i] - 'a'].push_back({changed[i] - 'a', cost[i]});
         }
         vector<vector<long long>> minPathCosts;
         for(i = 0; i < 26; i++) {
@@ -20,9 +19,8 @@ public:
                 pq.pop();
                 // if(minCosts[curChar] != -1 && minCosts[curChar] < curCost) continue; 
                 //Why? Duplicates in Priority Queue?
-                for(auto adjChar = 0; adjChar < adj[curChar].size(); adjChar++) {
-                    if(adj[curChar][adjChar] == 10000000) continue;
-                    long long newCost = curCost + adj[curChar][adjChar];
+                for(auto& [adjChar, adjCost]: adj[curChar]) {
+                    long long newCost = curCost + adjCost;
                     if(minCosts[adjChar] == -1 || newCost < minCosts[adjChar]) {
                         minCosts[adjChar] = newCost;
                         pq.push({newCost, adjChar});
