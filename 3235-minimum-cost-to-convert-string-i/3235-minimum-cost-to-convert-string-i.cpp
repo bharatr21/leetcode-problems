@@ -2,38 +2,26 @@ class Solution {
 public:
     long long minimumCost(string source, string target, vector<char>& original, vector<char>& changed, vector<int>& cost) {
         long long res = 0;
-        vector<vector<pair<int, int>>> adj(26);
-        int n = original.size(), i;
+        vector<vector<long long>> minCost(26, vector<long long>(26, INT_MAX));
+        int n = original.size(), i, j, k;
         for(i = 0; i < n; i++) {
-            adj[original[i] - 'a'].push_back({changed[i] - 'a', cost[i]});
+            minCost[original[i] - 'a'][changed[i] - 'a'] = 
+            min(minCost[original[i] - 'a'][changed[i] - 'a'], (long long)cost[i]);
         }
-        vector<vector<long long>> minPathCosts(26, vector<long long>(26));
-        for(i = 0; i < 26; i++) {
-            priority_queue<pair<long long, int>, vector<pair<long long, int>>,
-            greater<pair<long long, int>>> pq;
-            vector<long long> minCosts(26, -1);
-            minCosts[i] = 0;
-            pq.push({0, i});
-            while(!pq.empty()) {
-                auto [curCost, curChar] = pq.top();
-                pq.pop();
-                if(minCosts[curChar] != -1 && minCosts[curChar] < curCost) continue;
-                //Why? Duplicates in Priority Queue? Unnecessary reprocessing?
-                for(auto& [adjChar, adjCost]: adj[curChar]) {
-                    long long newCost = curCost + adjCost;
-                    if(minCosts[adjChar] == -1 || newCost < minCosts[adjChar]) {
-                        minCosts[adjChar] = newCost;
-                        pq.push({newCost, adjChar});
-                    }
+        for(i = 0; i < 26; i++) minCost[i][i] = 0;
+        //Floyd-Warshall
+        for(k = 0; k < 26; k++) {
+            for(i = 0; i < 26; i++) {
+                for(j = 0; j < 26; j++) {
+                    minCost[i][j] = min(minCost[i][j], minCost[i][k] + minCost[k][j]);
                 }
             }
-            minPathCosts[i] = minCosts;
         }
         n = source.size();
         for(i = 0; i < n; i++) {
             if(source[i] != target[i]) {
-                long long finalCost = minPathCosts[source[i] - 'a'][target[i] - 'a'];
-                if(finalCost == -1) return -1;
+                long long finalCost = minCost[source[i] - 'a'][target[i] - 'a'];
+                if(finalCost == INT_MAX) return -1;
                 res += finalCost;
             }
         }
