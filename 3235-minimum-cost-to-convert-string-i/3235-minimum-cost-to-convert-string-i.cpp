@@ -17,7 +17,7 @@ public:
             while(!pq.empty()) {
                 auto [curCost, curChar] = pq.top();
                 pq.pop();
-                // if(minCosts[curChar] != -1 && minCosts[curChar] < curCost) continue; 
+                if(minCosts[curChar] != -1 && minCosts[curChar] < curCost) continue;
                 //Why? Duplicates in Priority Queue?
                 for(auto& [adjChar, adjCost]: adj[curChar]) {
                     long long newCost = curCost + adjCost;
