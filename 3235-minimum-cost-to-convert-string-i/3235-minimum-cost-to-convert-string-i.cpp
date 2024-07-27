@@ -18,7 +18,7 @@ public:
                 auto [curCost, curChar] = pq.top();
                 pq.pop();
                 if(minCosts[curChar] != -1 && minCosts[curChar] < curCost) continue;
-                //Why? Duplicates in Priority Queue?
+                //Why? Duplicates in Priority Queue? Unnecessary reprocessing?
                 for(auto& [adjChar, adjCost]: adj[curChar]) {
                     long long newCost = curCost + adjCost;
                     if(minCosts[adjChar] == -1 || newCost < minCosts[adjChar]) {
