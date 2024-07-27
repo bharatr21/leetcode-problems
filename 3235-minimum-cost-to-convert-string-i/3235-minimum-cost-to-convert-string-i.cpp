@@ -7,7 +7,7 @@ public:
         for(i = 0; i < n; i++) {
             adj[original[i] - 'a'].push_back({changed[i] - 'a', cost[i]});
         }
-        vector<vector<long long>> minPathCosts;
+        vector<vector<long long>> minPathCosts(26, vector<long long>(26));
         for(i = 0; i < 26; i++) {
             priority_queue<pair<long long, int>, vector<pair<long long, int>>,
             greater<pair<long long, int>>> pq;
@@ -27,7 +27,7 @@ public:
                     }
                 }
             }
-            minPathCosts.push_back(minCosts);
+            minPathCosts[i] = minCosts;
         }
         n = source.size();
         for(i = 0; i < n; i++) {
