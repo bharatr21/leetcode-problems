@@ -527,6 +527,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
+| [0796-reaching-points](https://github.com/bharatr21/leetcode-problems/tree/master/0796-reaching-points) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/bharatr21/leetcode-problems/tree/master/2645-pass-the-pillow) |
 ## Queue
