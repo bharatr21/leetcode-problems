@@ -395,6 +395,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0408-valid-word-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0408-valid-word-abbreviation) |
@@ -412,6 +413,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bharatr21/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/bharatr21/leetcode-problems/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
@@ -459,6 +461,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
