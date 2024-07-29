@@ -425,6 +425,7 @@
 | [1293-three-consecutive-odds](https://github.com/bharatr21/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/bharatr21/leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/bharatr21/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bharatr21/leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -513,6 +514,7 @@
 | [0338-counting-bits](https://github.com/bharatr21/leetcode-problems/tree/master/0338-counting-bits) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharatr21/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/bharatr21/leetcode-problems/tree/master/1511-count-number-of-teams) |
 ## Simulation
 |  |
 | ------- |
@@ -573,4 +575,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/bharatr21/leetcode-problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
