@@ -298,6 +298,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bharatr21/leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -314,6 +315,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bharatr21/leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1883-find-distance-in-a-binary-tree) |
@@ -341,6 +343,7 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -367,6 +370,7 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -383,6 +387,7 @@
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
@@ -466,6 +471,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
