@@ -12,16 +12,17 @@ public:
     double probabilityOfHeads(vector<double>& prob, int target) {
         int n = prob.size();
         if(target > n) return 0;
-        vector<vector<double>> dp(n+1, vector<double>(n+1, -1));
+        vector<double> prev(n+1, -1), cur(n+1, -1);
         int cnt, pos;
         for(cnt = 0; cnt <= n; cnt++) {
-            dp[n][cnt] = ((cnt == target) ? 1 : 0);
+            prev[cnt] = ((cnt == target) ? 1 : 0);
         }
         for(pos = n - 1; pos >= 0; pos--) {
             for(cnt = pos; cnt >= 0; cnt--) {
-                dp[pos][cnt] = prob[pos] * dp[pos+1][cnt+1] + (1 - prob[pos]) * dp[pos+1][cnt];
+                cur[cnt] = prob[pos] * prev[cnt+1] + (1 - prob[pos]) * prev[cnt];
             }
+            prev = cur;
         }
-        return dp[0][0];
+        return prev[0];
     }
 };
