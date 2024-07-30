@@ -1,17 +1,17 @@
-struct Comparator {
-    int additional;
-    Comparator(int arg): additional(arg) {}
-    bool operator()(int a, int b) const {
-        return ((abs(a - additional) == abs(b - additional)) ? (a < b) : (abs(a - additional) < abs(b - additional)));
-    }
-};
-
 class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
+        int n = arr.size(), left, right;
         vector<int> res;
-        sort(arr.begin(), arr.end(), Comparator(x));
-        for(int i = 0; i < k; i++) res.push_back(arr[i]);
+        priority_queue<pair<int, int>> pq;
+        for(int el: arr) {
+            pq.push({abs(el - x), el});
+            if(pq.size() > k) pq.pop();
+        }
+        while(!pq.empty()) {
+            res.push_back(pq.top().second);
+            pq.pop();
+        }
         sort(res.begin(), res.end());
         return res;
     }
