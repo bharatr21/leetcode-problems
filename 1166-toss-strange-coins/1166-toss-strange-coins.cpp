@@ -13,6 +13,15 @@ public:
         int n = prob.size();
         if(target > n) return 0;
         vector<vector<double>> dp(n+1, vector<double>(n+1, -1));
-        return probcount(prob, dp, 0, 0, target);
+        int cnt, pos;
+        for(cnt = 0; cnt <= n; cnt++) {
+            dp[n][cnt] = ((cnt == target) ? 1 : 0);
+        }
+        for(pos = n - 1; pos >= 0; pos--) {
+            for(cnt = pos; cnt >= 0; cnt--) {
+                dp[pos][cnt] = prob[pos] * dp[pos+1][cnt+1] + (1 - prob[pos]) * dp[pos+1][cnt];
+            }
+        }
+        return dp[0][0];
     }
 };
