@@ -355,6 +355,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
 ## Recursion
 |  |
@@ -399,6 +400,7 @@
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0408-valid-word-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0408-valid-word-abbreviation) |
+| [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Array
 |  |
@@ -423,6 +425,7 @@
 | [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1166-toss-strange-coins](https://github.com/bharatr21/leetcode-problems/tree/master/1166-toss-strange-coins) |
 | [1293-three-consecutive-odds](https://github.com/bharatr21/leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -464,6 +467,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -574,6 +578,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Shortest Path
 |  |
@@ -595,4 +600,8 @@
 |  |
 | ------- |
 | [1166-toss-strange-coins](https://github.com/bharatr21/leetcode-problems/tree/master/1166-toss-strange-coins) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
