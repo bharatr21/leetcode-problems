@@ -1,14 +1,14 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int n = nums.size(), i, j, res = 0;
-        vector<int> pre(n+1, 0);
-        for(i = 1; i <= n; i++) {
-            pre[i] = pre[i-1] + nums[i-1];
-        }
-        for(i = n; i >= 0; i--) {
-            for(j = i - 1; j >= 0; j--) {
-                if(pre[i] - pre[j] == k) res++;
+        int n = nums.size(), i, j, res = 0, sum = 0;
+        for(i = 0; i < n; i++)
+        {
+            sum = 0;
+            for(j = i; j < n; j++)
+            {
+                sum += nums[j];
+                if(sum == k) {res++;}
             }
         }
         return res;
