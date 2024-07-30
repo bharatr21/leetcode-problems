@@ -481,6 +481,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/bharatr21/leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bharatr21/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/bharatr21/leetcode-problems/tree/master/0091-decode-ways) |
