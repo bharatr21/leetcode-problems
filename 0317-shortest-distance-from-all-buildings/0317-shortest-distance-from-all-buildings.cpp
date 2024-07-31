@@ -58,7 +58,7 @@ public:
         {
             for(int j = 0; j < n; j++)
             {
-                if(distances[i][j] != 0) mn = min(mn, distances[i][j]);
+                mn = min(mn, distances[i][j]);
             } 
         }
         return ((mn >= 1e5) ? -1 : mn);
