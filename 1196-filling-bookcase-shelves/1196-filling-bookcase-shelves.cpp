@@ -1,27 +1,22 @@
 class Solution {
 public:
-    int solve(vector<vector<int>>& dp, vector<vector<int>>& books, int shelfWidth, int idx, int remainingWidth, int maxHeight) {
-        int n = books.size(), res;
-        auto currentBook = books[idx];
-        int maxHeightUpdate = max(maxHeight, currentBook[1]);
-        if(idx == n - 1) {
-            return ((remainingWidth >= currentBook[0]) ? maxHeightUpdate : maxHeight + currentBook[1]);
-        }
-        else if(dp[idx][remainingWidth] != -1) return dp[idx][remainingWidth]; 
-        // Put book in new shelf
-        int keep = maxHeight + solve(dp, books, shelfWidth, idx + 1, shelfWidth - currentBook[0], currentBook[1]);
-        res = keep;
-        if(remainingWidth >= currentBook[0]) {
-            //Put book in existing shelf
-            int not_keep = solve(dp, books, shelfWidth, idx + 1, remainingWidth - currentBook[0], maxHeightUpdate);
-            res = min(res, not_keep);
-        }
-        return (dp[idx][remainingWidth] = res);
-    }
-
     int minHeightShelves(vector<vector<int>>& books, int shelfWidth) {
-        int n = books.size();
-        vector<vector<int>> dp(n, vector<int>(shelfWidth + 1, -1));
-        return solve(dp, books, shelfWidth, 0, shelfWidth, 0);
+        int n = books.size(), i, j;
+        vector<int> dp(n+1, -1);
+        dp[0] = 0;
+        dp[1] = books[0][1];
+        for(i = 1; i <= n; i++) {
+            int remainingWidth = shelfWidth - books[i-1][0];
+            int maxHeight = books[i-1][1];
+            dp[i] = dp[i-1] + maxHeight;
+            j = i - 1;
+            while(j > 0 && remainingWidth >= books[j-1][0]) {
+                remainingWidth -= books[j-1][0];
+                maxHeight = max(maxHeight, books[j-1][1]);
+                dp[i] = min(dp[i], dp[j-1] + maxHeight);
+                j--;
+            }
+        }
+        return dp[n];
     }
 };
