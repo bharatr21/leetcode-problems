@@ -454,6 +454,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bharatr21/leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/bharatr21/leetcode-problems/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/bharatr21/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Backtracking
@@ -520,6 +521,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bharatr21/leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/bharatr21/leetcode-problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/bharatr21/leetcode-problems/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/bharatr21/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Matrix
 |  |
