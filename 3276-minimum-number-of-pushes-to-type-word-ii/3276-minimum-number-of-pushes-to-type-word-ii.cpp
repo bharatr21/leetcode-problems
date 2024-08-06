@@ -11,7 +11,6 @@ public:
         sort(vp.begin(), vp.end(), cmp);
         for(auto el: vp) {
             auto [ch, freq] = el;
-            cout << ch << ' ' << freq << endl;
             ct++;
             res += (ct / 8) * freq;
         }
