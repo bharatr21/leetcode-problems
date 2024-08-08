@@ -444,6 +444,7 @@
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Array
 |  |
 | ------- |
@@ -498,6 +499,7 @@
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/bharatr21/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -581,6 +583,7 @@
 | [0317-shortest-distance-from-all-buildings](https://github.com/bharatr21/leetcode-problems/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0921-spiral-matrix-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Dynamic Programming
 |  |
 | ------- |
