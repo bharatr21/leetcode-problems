@@ -572,6 +572,7 @@
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bharatr21/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -645,6 +646,7 @@
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bharatr21/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
