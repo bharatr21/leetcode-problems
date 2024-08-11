@@ -476,6 +476,7 @@
 | [0152-maximum-product-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bharatr21/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0274-h-index](https://github.com/bharatr21/leetcode-problems/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bharatr21/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/bharatr21/leetcode-problems/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -537,6 +538,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/bharatr21/leetcode-problems/tree/master/0274-h-index) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -741,4 +743,8 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bharatr21/leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/bharatr21/leetcode-problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
