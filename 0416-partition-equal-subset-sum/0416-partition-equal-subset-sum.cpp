@@ -5,7 +5,6 @@ public:
         int sum = accumulate(nums.begin(), nums.end(), 0);
         if(sum % 2) return false;
         int target = sum / 2;
-        // vector<vector<int>> dp(n+1, vector<int>(target+1, 0));
         vector<int> cur(target+1, 0), next(target+1, 0);
         for(int i = 0; i <= n; i++) cur[0] = 1;
         for(int i = 1; i <= target; i++) next[i] = 0;
