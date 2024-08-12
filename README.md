@@ -573,6 +573,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/bharatr21/leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bharatr21/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/bharatr21/leetcode-problems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/bharatr21/leetcode-problems/tree/master/0131-palindrome-partitioning) |
@@ -612,6 +613,7 @@
 | [0045-jump-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bharatr21/leetcode-problems/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
