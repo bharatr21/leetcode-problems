@@ -1,29 +1,26 @@
 class Solution {
 public:
-    void backtrack(vector<vector<int>>& res, vector<int>& candidates, 
-    vector<int>& tmp, int idx, int target) {
-        int n = candidates.size();
-        if(target == 0) {
-            res.push_back(tmp);
+    vector<vector<int>> combinationSum2(vector<int> &candidates, int target) {
+        sort(candidates.begin(), candidates.end());
+        vector<vector<int>> result;
+        vector<int> combination;
+        combination2(result, combination, candidates, target, 0);
+        return result;
+    }
+    void combination2(vector<vector<int>> &res, vector<int> &combination,
+                      vector<int> &candidates, int target, int index) {
+        if (target == 0) {
+            res.push_back(combination);
             return;
         }
-        else if(target < 0) return;
-        for(int i = idx; i < n; i++) {
-            if(i > idx && candidates[i] == candidates[i-1]) continue;
-            tmp.push_back(candidates[i]);
-            backtrack(res, candidates, tmp, i + 1, target - candidates[i]);
-            tmp.pop_back(); //backtracking step
+        for (int i = index; i < candidates.size() && target >= candidates[i];
+             ++i) {
+            if (i == index || candidates[i] != candidates[i - 1]) {
+                combination.push_back(candidates[i]);
+                combination2(res, combination, candidates,
+                             target - candidates[i], i + 1);
+                combination.pop_back();
+            }
         }
-    }
-
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());
-        vector<vector<int>> res;
-        vector<int> tmp;
-        map<int, int> ctr;
-        for(int el: candidates) ctr[el]++;
-        vector<pair<int, int>> counter(ctr.begin(), ctr.end());
-        backtrack(res, candidates, tmp, 0, target);
-        return res;
     }
 };
