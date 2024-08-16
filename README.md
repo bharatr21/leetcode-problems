@@ -494,6 +494,7 @@
 | [0494-target-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0921-spiral-matrix-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0921-spiral-matrix-iii) |
@@ -575,6 +576,7 @@
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/bharatr21/leetcode-problems/tree/master/0134-gas-station) |
+| [0624-maximum-distance-in-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
