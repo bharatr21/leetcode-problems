@@ -425,6 +425,7 @@
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
+| [0264-ugly-number-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -640,6 +641,7 @@
 | [0131-palindrome-partitioning](https://github.com/bharatr21/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bharatr21/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
@@ -671,6 +673,7 @@
 | [0050-powx-n](https://github.com/bharatr21/leetcode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/bharatr21/leetcode-problems/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0796-reaching-points](https://github.com/bharatr21/leetcode-problems/tree/master/0796-reaching-points) |
 | [1166-toss-strange-coins](https://github.com/bharatr21/leetcode-problems/tree/master/1166-toss-strange-coins) |
@@ -714,6 +717,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bharatr21/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
