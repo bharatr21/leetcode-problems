@@ -650,6 +650,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0518-coin-change-ii) |
+| [0650-2-keys-keyboard](https://github.com/bharatr21/leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1166-toss-strange-coins](https://github.com/bharatr21/leetcode-problems/tree/master/1166-toss-strange-coins) |
 | [1196-filling-bookcase-shelves](https://github.com/bharatr21/leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
@@ -675,6 +676,7 @@
 | [0263-ugly-number](https://github.com/bharatr21/leetcode-problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/bharatr21/leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0796-reaching-points](https://github.com/bharatr21/leetcode-problems/tree/master/0796-reaching-points) |
 | [1166-toss-strange-coins](https://github.com/bharatr21/leetcode-problems/tree/master/1166-toss-strange-coins) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
