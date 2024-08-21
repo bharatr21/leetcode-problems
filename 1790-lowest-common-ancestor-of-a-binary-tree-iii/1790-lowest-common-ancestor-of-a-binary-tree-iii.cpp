@@ -13,13 +13,15 @@ class Solution {
 public:
     Node* lowestCommonAncestor(Node* p, Node * q) {
         vector<Node*> ppath, qpath;
-        while(p) {
-            ppath.push_back(p);
-            p = p->parent;
+        Node* tp = p;
+        Node* tq = q;
+        while(tp) {
+            ppath.push_back(tp);
+            tp = tp->parent;
         }
-        while(q) {
-            qpath.push_back(q);
-            q = q->parent;
+        while(tq) {
+            qpath.push_back(tq);
+            tq = tq->parent;
         }
         int m = ppath.size(), n = qpath.size();
         int i = m - 1, j = n - 1;
