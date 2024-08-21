@@ -9,7 +9,6 @@
  *     // Constructor initializes a single integer.
  *     NestedInteger(int value);
  *
-
  *     // Return true if this NestedInteger holds a single integer, rather than a nested list.
  *     bool isInteger() const;
  *
@@ -30,18 +29,19 @@
  */
 class Solution {
 public:
-    int depthHelper(vector<NestedInteger>& nestedList, int depth) {
-        int sum = 0;
-        for(auto &el: nestedList) {
+    int helper(vector<NestedInteger>& nestedList, int depth) {
+        int tot = 0;
+        for(auto el: nestedList) {
             if(el.isInteger()) {
-                sum += el.getInteger() * depth;
-            } else {
-                sum += depthHelper(el.getList(), depth + 1);
+                tot += el.getInteger() * depth;
+            }
+            else {
+                tot += helper(el.getList(), depth + 1);
             }
         }
-        return sum;
+        return tot;
     }
     int depthSum(vector<NestedInteger>& nestedList) {
-        return depthHelper(nestedList, 1);
+        return helper(nestedList, 1);
     }
 };
