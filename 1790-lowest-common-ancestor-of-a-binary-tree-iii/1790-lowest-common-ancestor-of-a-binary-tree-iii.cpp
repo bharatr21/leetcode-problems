@@ -29,6 +29,6 @@ public:
             i--;
             j--;
         }
-        return ppath[i+1];
+        return qpath[j+1];
     }
 };
