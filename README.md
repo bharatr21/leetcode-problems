@@ -688,6 +688,7 @@
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/bharatr21/leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0796-reaching-points](https://github.com/bharatr21/leetcode-problems/tree/master/0796-reaching-points) |
+| [0866-rectangle-overlap](https://github.com/bharatr21/leetcode-problems/tree/master/0866-rectangle-overlap) |
 | [1166-toss-strange-coins](https://github.com/bharatr21/leetcode-problems/tree/master/1166-toss-strange-coins) |
 | [1240-stone-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -809,4 +810,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1240-stone-game-ii) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/bharatr21/leetcode-problems/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
