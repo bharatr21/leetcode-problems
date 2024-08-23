@@ -15,13 +15,12 @@ public:
         if(!root) return 0;
         int left = sumHelper(root->left, low, high);
         int right = sumHelper(root->right, low, high);
-        if(root->val < low) return right; 
-        else if(root->val > high) return left;
-        else return root->val + left + right;
+        if(root->val > high) return left;
+        else if(root->val < low) return right;
+        else return left + root->val + right;
     }
-    
     int rangeSumBST(TreeNode* root, int low, int high) {
         if(!root) return 0;
-        else return sumHelper(root, low, high);
+        return sumHelper(root, low, high);
     }
 };
