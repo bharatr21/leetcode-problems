@@ -292,6 +292,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/bharatr21/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
+| [0725-split-linked-list-in-parts](https://github.com/bharatr21/leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
