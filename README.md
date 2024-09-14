@@ -658,6 +658,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/bharatr21/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/bharatr21/leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bharatr21/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0072-edit-distance) |
