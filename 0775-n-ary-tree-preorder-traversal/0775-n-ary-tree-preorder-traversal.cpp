@@ -20,16 +20,20 @@ public:
 
 class Solution {
 public:
-    void preorderRecur(Node* root, vector<int>& res) {
-        if(!root) return;
-        res.push_back(root->val);
-        for(Node* child: root->children) {
-            preorderRecur(child, res);
-        }
-    }
     vector<int> preorder(Node* root) {
         vector<int> res;
-        preorderRecur(root, res);
+        stack<Node*> st;
+        if(!root) return res;
+        st.push(root);
+        while(!st.empty()) {
+            Node* node = st.top();
+            st.pop();
+            res.push_back(node->val);
+            reverse(node->children.begin(), node->children.end());
+            for(Node* child: node->children) {
+                st.push(child);
+            }
+        }
         return res;
     }
 };
