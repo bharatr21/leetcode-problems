@@ -431,6 +431,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/bharatr21/leetcode-problems/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -685,6 +686,7 @@
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/bharatr21/leetcode-problems/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/bharatr21/leetcode-problems/tree/master/0290-word-pattern) |
 | [0320-generalized-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0320-generalized-abbreviation) |
@@ -743,6 +745,7 @@
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/bharatr21/leetcode-problems/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bharatr21/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -784,6 +787,7 @@
 | [0050-powx-n](https://github.com/bharatr21/leetcode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/bharatr21/leetcode-problems/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/bharatr21/leetcode-problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
@@ -838,6 +842,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
