@@ -686,6 +686,7 @@
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/bharatr21/leetcode-problems/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0214-shortest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/bharatr21/leetcode-problems/tree/master/0290-word-pattern) |
@@ -898,6 +899,7 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 ## Suffix Array
 |  |
@@ -906,6 +908,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 ## Counting
 |  |
@@ -965,4 +968,8 @@
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/bharatr21/leetcode-problems/tree/master/0251-flatten-2d-vector) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
