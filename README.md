@@ -848,6 +848,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/bharatr21/leetcode-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
