@@ -494,6 +494,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bharatr21/leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/bharatr21/leetcode-problems/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bharatr21/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/bharatr21/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
@@ -596,6 +597,7 @@
 | [2502-sort-the-people](https://github.com/bharatr21/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bharatr21/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/bharatr21/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bharatr21/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -715,6 +717,7 @@
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/bharatr21/leetcode-problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/bharatr21/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/bharatr21/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3567-convert-date-to-binary](https://github.com/bharatr21/leetcode-problems/tree/master/3567-convert-date-to-binary) |
@@ -768,6 +771,7 @@
 | [1511-count-number-of-teams](https://github.com/bharatr21/leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bharatr21/leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -841,6 +845,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
