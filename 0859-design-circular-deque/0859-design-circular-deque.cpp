@@ -1,87 +1,55 @@
-struct Node {
-    int val;
-    Node* next;
-    Node* prev;
-    Node(int val, Node* next = NULL, Node* prev = NULL)
-        : val(val), next(next), prev(prev) {}
-};
+
 
 class MyCircularDeque {
 public:
-    Node* head;
-    Node* rear;
+    vector<int> dq;
     int size;
     int cap;
+    int front, rear;
     MyCircularDeque(int k) {
         cap = k;
-        head = NULL;
-        rear = NULL;
+        dq = vector<int>(k);
         size = 0;
+        front = 0;
+        rear = k - 1;
     }
     
     bool insertFront(int value) {
         if(isFull()) return false;
-        if(!head) {
-            head = new Node(value);
-            rear = head;
-        } else {
-            Node* temp = new Node(value);
-            temp->next = head;
-            head->prev = temp;
-            head = temp;
-        }
+        front = (front - 1 + cap) % cap;
+        dq[front] = value;
         size++;
         return true;
     }
     
     bool insertLast(int value) {
         if(isFull()) return false;
-        if(!head) {
-            head = new Node(value);
-            rear = head;
-        } else {
-            Node* temp = new Node(value, NULL, rear);
-            rear->next = temp;
-            rear = temp;
-        }
+        rear = (rear + 1) % cap;
+        dq[rear] = value;
         size++;
         return true;
     }
     
     bool deleteFront() {
         if(isEmpty()) return false;
-        if(size == 1) {
-            head = NULL;
-            rear = NULL;
-        } else {
-            Node* next = head->next;
-            delete head;
-            head = next;
-        }
+        front = (front + 1) % cap;
         size--;
         return true;
     }
     
     bool deleteLast() {
         if(isEmpty()) return false;
-        if(size == 1) {
-            head = NULL;
-            rear = NULL;
-        } else {
-            Node* prev = rear->prev;
-            delete rear;
-            rear = prev;
-        }
+        rear = (rear - 1 + cap) % cap;
         size--;
         return true;
     }
     
     int getFront() {
-        return ((isEmpty()) ? -1 : head->val);
+        return ((isEmpty()) ? -1 : dq[front]);
     }
     
     int getRear() {
-        return ((isEmpty()) ? -1 : rear->val);
+        return ((isEmpty()) ? -1 : dq[rear]);
     }
     
     bool isEmpty() {
