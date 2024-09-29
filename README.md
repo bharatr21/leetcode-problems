@@ -292,6 +292,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/bharatr21/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/bharatr21/leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -341,6 +342,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
@@ -478,6 +480,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
@@ -902,6 +905,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0251-flatten-2d-vector](https://github.com/bharatr21/leetcode-problems/tree/master/0251-flatten-2d-vector) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/bharatr21/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
