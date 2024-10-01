@@ -4,8 +4,7 @@ public:
         map<int, int> mp;
         for(int el: nums) mp[el]++;
         for(auto it = mp.rbegin(); it != mp.rend(); it++) {
-            auto val = *it;
-            if(val.second == 1) return val.first;
+            if(it->second == 1) return it->first;
         }
         return -1;
     }
