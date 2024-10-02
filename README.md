@@ -491,6 +491,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1098-largest-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1098-largest-unique-number) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
+| [1256-rank-transform-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bharatr21/leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bharatr21/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -588,6 +589,7 @@
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
 | [1196-filling-bookcase-shelves](https://github.com/bharatr21/leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/bharatr21/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/bharatr21/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -673,6 +675,7 @@
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1098-largest-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1098-largest-unique-number) |
 | [1165-meeting-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/1165-meeting-scheduler) |
+| [1256-rank-transform-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
