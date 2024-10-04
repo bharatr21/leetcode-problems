@@ -4,12 +4,11 @@
 class Solution {
 public:
     int findCelebrity(int n) {
-        int cand = 0, cur = 1;
-        while(cur < n) {
-            if(knows(cand, cur)) {
-                cand = cur;
+        int cand = 0;
+        for(int i = 1; i < n; i++) {
+            if(knows(cand, i)) {
+                cand = i;
             }
-            cur++;
         }
         for(int i = 0; i < n; i++) {
             if(i != cand)
