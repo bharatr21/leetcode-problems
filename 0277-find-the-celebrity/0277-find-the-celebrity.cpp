@@ -4,19 +4,16 @@
 class Solution {
 public:
     int findCelebrity(int n) {
-        unordered_set<int> st;
         int cand = 0, cur = 1;
         while(cur < n) {
             if(knows(cand, cur)) {
-                st.insert(cand);
                 cand = cur;
-            } else {
-                st.insert(cur);
             }
             cur++;
         }
-        for(auto u: st) {
-            if(knows(cand, u) || !knows(u, cand)) return -1;
+        for(int i = 0; i < n; i++) {
+            if(i != cand)
+            if(knows(cand, i) || !knows(i, cand)) return -1;
         }
         return cand;
     }
