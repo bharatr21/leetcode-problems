@@ -632,6 +632,7 @@
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/bharatr21/leetcode-problems/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 | [3519-find-the-number-of-winning-players](https://github.com/bharatr21/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatr21/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -847,6 +848,7 @@
 | [2645-pass-the-pillow](https://github.com/bharatr21/leetcode-problems/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3567-convert-date-to-binary](https://github.com/bharatr21/leetcode-problems/tree/master/3567-convert-date-to-binary) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatr21/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Queue
 |  |
 | ------- |
