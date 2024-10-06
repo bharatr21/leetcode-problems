@@ -534,6 +534,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/bharatr21/leetcode-problems/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1923-sentence-similarity-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bharatr21/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Array
@@ -615,6 +616,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/bharatr21/leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bharatr21/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/bharatr21/leetcode-problems/tree/master/1803-average-waiting-time) |
+| [1923-sentence-similarity-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bharatr21/leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -751,6 +753,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bharatr21/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bharatr21/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bharatr21/leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
