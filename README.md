@@ -535,6 +535,7 @@
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/bharatr21/leetcode-problems/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1923-sentence-similarity-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bharatr21/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Array
@@ -712,6 +713,7 @@
 | [0890-lemonade-change](https://github.com/bharatr21/leetcode-problems/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2756-buy-two-chocolates](https://github.com/bharatr21/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/bharatr21/leetcode-problems/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
@@ -755,6 +757,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bharatr21/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bharatr21/leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/bharatr21/leetcode-problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -882,6 +885,7 @@
 | [1720-crawler-log-folder](https://github.com/bharatr21/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
 ## Combinatorics
 |  |
