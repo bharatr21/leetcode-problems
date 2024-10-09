@@ -712,6 +712,7 @@
 | [0179-largest-number](https://github.com/bharatr21/leetcode-problems/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bharatr21/leetcode-problems/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -746,6 +747,7 @@
 | [0664-strange-printer](https://github.com/bharatr21/leetcode-problems/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bharatr21/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
@@ -881,6 +883,7 @@
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bharatr21/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
