@@ -442,6 +442,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
+| [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Tree
 |  |
@@ -750,6 +751,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
+| [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -884,6 +886,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bharatr21/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
