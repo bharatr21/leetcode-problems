@@ -443,6 +443,7 @@
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
 | [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/bharatr21/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Tree
 |  |
@@ -756,6 +757,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bharatr21/leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/bharatr21/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/bharatr21/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bharatr21/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -833,6 +835,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/bharatr21/leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/bharatr21/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0921-spiral-matrix-iii) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/bharatr21/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/bharatr21/leetcode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
