@@ -436,6 +436,7 @@
 | [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bharatr21/leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
@@ -542,6 +543,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1165-meeting-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/1165-meeting-scheduler) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/bharatr21/leetcode-problems/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1923-sentence-similarity-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
@@ -622,6 +624,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bharatr21/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bharatr21/leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/bharatr21/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/bharatr21/leetcode-problems/tree/master/1720-crawler-log-folder) |
@@ -915,6 +918,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bharatr21/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/bharatr21/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1096,4 +1100,8 @@
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/bharatr21/leetcode-problems/tree/master/0277-find-the-celebrity) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
