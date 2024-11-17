@@ -3,59 +3,40 @@ public:
     int shortestSubarray(vector<int>& nums, int k) {
         int n = nums.size();
 
-        // Stack-like list to store cumulative sums and their indices
-        vector<pair<long long, int>> cumulativeSumStack;
-        cumulativeSumStack.emplace_back(0LL, -1);
-
-        long long runningCumulativeSum = 0;
+        // Initialize result to the maximum possible integer value
         int shortestSubarrayLength = INT_MAX;
 
+        long long cumulativeSum = 0;
+
+        // Min-heap to store cumulative sum and its corresponding index
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>,
+                       greater<>>
+            prefixSumHeap;
+
+        // Iterate through the array
         for (int i = 0; i < n; i++) {
             // Update cumulative sum
-            runningCumulativeSum += nums[i];
+            cumulativeSum += nums[i];
 
-            // Remove entries from stack that are larger than current cumulative
-            // sum
-            while (!cumulativeSumStack.empty() &&
-                   runningCumulativeSum <= cumulativeSumStack.back().first) {
-                cumulativeSumStack.pop_back();
+            // If cumulative sum is already >= k, update shortest length
+            if (cumulativeSum >= k) {
+                shortestSubarrayLength = min(shortestSubarrayLength, i + 1);
             }
 
-            // Add current cumulative sum and index to stack
-            cumulativeSumStack.emplace_back(runningCumulativeSum, i);
-
-            int candidateIndex = findCandidateIndex(cumulativeSumStack,
-                                                    runningCumulativeSum - k);
-
-            // If a valid candidate is found, update the shortest subarray
-            // length
-            if (candidateIndex != -1) {
+            // Remove subarrays from heap that can form a valid subarray
+            while (!prefixSumHeap.empty() &&
+                   cumulativeSum - prefixSumHeap.top().first >= k) {
+                // Update shortest subarray length
                 shortestSubarrayLength =
-                    min(shortestSubarrayLength,
-                        i - cumulativeSumStack[candidateIndex].second);
+                    min(shortestSubarrayLength, i - prefixSumHeap.top().second);
+                prefixSumHeap.pop();
             }
+
+            // Add current cumulative sum and index to heap
+            prefixSumHeap.emplace(cumulativeSum, i);
         }
 
         // Return -1 if no valid subarray found
         return shortestSubarrayLength == INT_MAX ? -1 : shortestSubarrayLength;
-    }
-
-private:
-    // Binary search to find the largest index where cumulative sum is <= target
-    int findCandidateIndex(const vector<pair<long long, int>>& nums,
-                           long long target) {
-        int left = 0, right = nums.size() - 1;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if (nums[mid].first <= target) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
-        }
-
-        return right;
     }
 };
