@@ -23,9 +23,6 @@ public:
             mp[candies[sr]]++;
             sr++;
         }
-        // for(auto el: st) cout << el << ' ';
-        // cout << endl;
-        // cout << sr << ' ' << en << endl;
         return res;
     }
 };
