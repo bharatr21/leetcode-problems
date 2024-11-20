@@ -519,6 +519,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/bharatr21/leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/bharatr21/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bharatr21/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/bharatr21/leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
@@ -797,6 +798,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bharatr21/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/bharatr21/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/bharatr21/leetcode-problems/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/bharatr21/leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/bharatr21/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -1005,6 +1007,7 @@
 | [1755-defuse-the-bomb](https://github.com/bharatr21/leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/bharatr21/leetcode-problems/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/bharatr21/leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/bharatr21/leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
