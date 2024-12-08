@@ -3,7 +3,6 @@ public:
     int minOperations(vector<int>& nums, int k) {
         unordered_map<int, int> mp;
         int res = 0;
-        bool flag = false;
         for (int el : nums)
             mp[el]++;
         for (auto u : mp) {
