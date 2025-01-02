@@ -640,6 +640,7 @@
 | [1293-three-consecutive-odds](https://github.com/bharatr21/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/bharatr21/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1345-perform-string-shifts](https://github.com/bharatr21/leetcode-problems/tree/master/1345-perform-string-shifts) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bharatr21/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -811,6 +812,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1345-perform-string-shifts](https://github.com/bharatr21/leetcode-problems/tree/master/1345-perform-string-shifts) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bharatr21/leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -934,6 +936,7 @@
 | [0912-random-pick-with-weight](https://github.com/bharatr21/leetcode-problems/tree/master/0912-random-pick-with-weight) |
 | [1166-toss-strange-coins](https://github.com/bharatr21/leetcode-problems/tree/master/1166-toss-strange-coins) |
 | [1240-stone-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1240-stone-game-ii) |
+| [1345-perform-string-shifts](https://github.com/bharatr21/leetcode-problems/tree/master/1345-perform-string-shifts) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/bharatr21/leetcode-problems/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/bharatr21/leetcode-problems/tree/master/2155-find-missing-observations) |
