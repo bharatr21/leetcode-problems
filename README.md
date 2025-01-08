@@ -690,6 +690,7 @@
 | [2868-continuous-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/bharatr21/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bharatr21/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/bharatr21/leetcode-problems/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
@@ -846,6 +847,7 @@
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bharatr21/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/bharatr21/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3451-string-compression-iii) |
 | [3567-convert-date-to-binary](https://github.com/bharatr21/leetcode-problems/tree/master/3567-convert-date-to-binary) |
@@ -997,6 +999,7 @@
 | [2009-longest-word-with-all-prefixes](https://github.com/bharatr21/leetcode-problems/tree/master/2009-longest-word-with-all-prefixes) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bharatr21/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/bharatr21/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
@@ -1084,6 +1087,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/bharatr21/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Suffix Array
 |  |
 | ------- |
@@ -1093,6 +1097,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/bharatr21/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -1163,6 +1168,7 @@
 | [0214-shortest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/bharatr21/leetcode-problems/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/bharatr21/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
 |  |
 | ------- |
