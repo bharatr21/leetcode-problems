@@ -1,17 +1,37 @@
+class Trie {
+    struct Node {
+        vector<Node*> links;
+        int ct;
+        Node(): links(26, NULL), ct(0) {}
+    };
+    Node* root;
+    public:
+        Trie() {root = new Node(); }
+        void addWord(string& word) {
+            Node* curr = root;
+            for(char c: word) {
+                if(!curr->links[c - 'a'])
+                curr->links[c - 'a'] = new Node();
+                curr = curr->links[c - 'a'];
+                curr->ct++;
+            }
+        }
+        int countPref(string& pref) {
+            Node* curr = root;
+            for(char c: pref) {
+                if(!curr->links[c - 'a']) return 0;
+                curr = curr->links[c - 'a'];
+            }
+            return curr->ct;
+        }
+};
 class Solution {
 public:
-    bool containsPref(string s, string pref) {
-        int m = pref.size();
-        for(int i = 0; i < m; i++) {
-            if(s[i] != pref[i]) return false;
-        }
-        return true;
-    }
     int prefixCount(vector<string>& words, string pref) {
-        int res = 0;
-        for(string word: words) {
-            if(containsPref(word, pref)) res++;
+        Trie trie;
+        for(string& word: words) {
+            trie.addWord(word);
         }
-        return res;
+        return trie.countPref(pref);
     }
 };
