@@ -361,6 +361,7 @@
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bharatr21/leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bharatr21/leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bharatr21/leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -376,6 +377,7 @@
 | [1325-path-with-maximum-probability](https://github.com/bharatr21/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bharatr21/leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharatr21/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bharatr21/leetcode-problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bharatr21/leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
@@ -646,6 +648,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1345-perform-string-shifts](https://github.com/bharatr21/leetcode-problems/tree/master/1345-perform-string-shifts) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bharatr21/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/bharatr21/leetcode-problems/tree/master/1511-count-number-of-teams) |
@@ -871,6 +874,7 @@
 | [0921-spiral-matrix-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bharatr21/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bharatr21/leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/bharatr21/leetcode-problems/tree/master/1972-rotating-the-box) |
@@ -1030,6 +1034,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1325-path-with-maximum-probability](https://github.com/bharatr21/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bharatr21/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2868-continuous-subarrays) |
@@ -1038,6 +1043,7 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/bharatr21/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharatr21/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bharatr21/leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
