@@ -324,6 +324,7 @@
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
@@ -357,6 +358,7 @@
 | [0339-nested-list-weight-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0364-nested-list-weight-sum-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
@@ -392,6 +394,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -628,6 +631,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/bharatr21/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
+| [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/bharatr21/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/bharatr21/leetcode-problems/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -876,6 +880,7 @@
 | [0221-maximal-square](https://github.com/bharatr21/leetcode-problems/tree/master/0221-maximal-square) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/bharatr21/leetcode-problems/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0407-trapping-rain-water-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bharatr21/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
