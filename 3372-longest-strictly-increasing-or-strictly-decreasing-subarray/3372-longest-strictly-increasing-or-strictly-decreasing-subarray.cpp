@@ -18,7 +18,6 @@ public:
         for(int i = 0; i < n; i++) {
             for(int j = n - 1; j >= i; j--) {
                 if(isMonotonic(nums, i, j)) {
-                    // cout << '(' << i << ',' << j << ')' << endl;
                     mx = max(mx, j - i + 1);
                 }
             }
