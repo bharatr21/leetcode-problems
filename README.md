@@ -536,6 +536,7 @@
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/bharatr21/leetcode-problems/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bharatr21/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/bharatr21/leetcode-problems/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
@@ -851,6 +852,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/bharatr21/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bharatr21/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bharatr21/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bharatr21/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1139,6 +1141,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/bharatr21/leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bharatr21/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bharatr21/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bharatr21/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/bharatr21/leetcode-problems/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
