@@ -2,8 +2,7 @@ class Solution {
 public:
     vector<int> queryResults(int limit, vector<vector<int>>& queries) {
         vector<int> res;
-        map<int, int> freq;
-        unordered_map<int, int> balls;
+        unordered_map<int, int> freq, balls;
         int n = queries.size();
         for(int i = 0; i < n; i++) {
             int x = queries[i][0], y = queries[i][1];
