@@ -882,6 +882,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bharatr21/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/bharatr21/leetcode-problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3451-string-compression-iii) |
 | [3567-convert-date-to-binary](https://github.com/bharatr21/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 ## Matrix
@@ -965,6 +966,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bharatr21/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bharatr21/leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/bharatr21/leetcode-problems/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -1023,6 +1025,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/bharatr21/leetcode-problems/tree/master/3447-clear-digits) |
 ## Combinatorics
 |  |
 | ------- |
