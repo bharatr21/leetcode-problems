@@ -538,6 +538,7 @@
 | [1883-find-distance-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1883-find-distance-in-a-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bharatr21/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/bharatr21/leetcode-problems/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/bharatr21/leetcode-problems/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
@@ -683,6 +684,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/bharatr21/leetcode-problems/tree/master/1972-rotating-the-box) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2045-cutting-ribbons](https://github.com/bharatr21/leetcode-problems/tree/master/2045-cutting-ribbons) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bharatr21/leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -1111,6 +1113,7 @@
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/bharatr21/leetcode-problems/tree/master/1755-defuse-the-bomb) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/bharatr21/leetcode-problems/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/bharatr21/leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
