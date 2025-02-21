@@ -330,6 +330,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bharatr21/leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -362,6 +363,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bharatr21/leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -419,6 +421,7 @@
 | [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -483,6 +486,7 @@
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
 | [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -525,6 +529,7 @@
 | [1149-intersection-of-three-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
 | [1256-rank-transform-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bharatr21/leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/bharatr21/leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -1102,6 +1107,7 @@
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/bharatr21/leetcode-problems/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bharatr21/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/bharatr21/leetcode-problems/tree/master/2434-design-a-number-container-system) |
