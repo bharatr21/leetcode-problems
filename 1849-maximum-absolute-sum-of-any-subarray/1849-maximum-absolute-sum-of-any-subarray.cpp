@@ -2,11 +2,13 @@ class Solution {
 public:
     int kadane(vector<int>& nums, bool mini) {
         int n = nums.size(), res = nums[0], peak = nums[0];
-        for(int i = 1; i < n; i++) {
-            if(mini) {
+        if(mini) {
+            for(int i = 1; i < n; i++) {
                 peak = min(peak + nums[i], nums[i]);
                 res = min(peak, res);
-            }  else {
+            } 
+        } else {
+            for(int i = 1; i < n; i++) {
                 peak = max(peak + nums[i], nums[i]);
                 res = max(peak, res);
             }
