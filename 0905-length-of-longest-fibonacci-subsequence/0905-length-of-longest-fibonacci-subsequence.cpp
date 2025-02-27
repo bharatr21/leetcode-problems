@@ -1,19 +1,5 @@
 class Solution {
 public:
-    int buildFibo(int a, int b, unordered_set<int>& s, set<pair<int, int>>& vis) {
-        vis.insert({a, b});
-        int res = 2;
-        int c = a + b;
-        while(s.count(c)) {
-            res++;
-            vis.insert({b, c});
-            a = b;
-            b = c;
-            c = a + b;
-        }
-        return ((res < 3) ? 0 : res);
-    }
-
     int lenLongestFibSubseq(vector<int>& arr) {
         int n = arr.size(), mx = 2;
         vector<vector<int>> dp(n, vector<int>(n, 0));
