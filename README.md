@@ -873,6 +873,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1170-shortest-common-supersequence](https://github.com/bharatr21/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
 | [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
@@ -973,6 +974,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1166-toss-strange-coins](https://github.com/bharatr21/leetcode-problems/tree/master/1166-toss-strange-coins) |
+| [1170-shortest-common-supersequence](https://github.com/bharatr21/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/bharatr21/leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
