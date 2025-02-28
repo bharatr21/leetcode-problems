@@ -519,6 +519,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
+| [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bharatr21/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
@@ -643,6 +644,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0487-max-consecutive-ones-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/bharatr21/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -861,6 +863,7 @@
 | [0290-word-pattern](https://github.com/bharatr21/leetcode-problems/tree/master/0290-word-pattern) |
 | [0320-generalized-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0320-generalized-abbreviation) |
 | [0408-valid-word-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0408-valid-word-abbreviation) |
+| [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/bharatr21/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/bharatr21/leetcode-problems/tree/master/0567-permutation-in-string) |
