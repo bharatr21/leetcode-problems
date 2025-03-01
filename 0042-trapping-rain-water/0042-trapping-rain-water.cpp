@@ -2,13 +2,18 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         int n = height.size(), res = 0;
-        vector<int> lmax(n, 0), rmax(n, 0);
-        lmax[0] = height[0];
-        rmax[n-1] = height[n-1];
-        for(int i = 1; i < n; i++) lmax[i] = max(lmax[i-1], height[i]);
-        for(int i = n - 2; i >= 0; i--) rmax[i] = max(rmax[i+1], height[i]);
-        for(int i = 0; i < n; i++) {
-            res += max(0, min(lmax[i], rmax[i]) - height[i]);
+        int lh = height[0], rh = height[n-1];
+        int i = 0, j = n - 1;
+        while(i <= j) {
+            if(lh <= rh) {
+                res += max(0, (lh - height[i]));
+                lh = max(lh, height[i]);
+                i++;
+            } else {
+                res += max(0, (rh - height[j]));
+                rh = max(rh, height[j]);
+                j--;
+            }
         }
         return res;
     }
