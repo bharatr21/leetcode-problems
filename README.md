@@ -532,6 +532,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1074-high-five](https://github.com/bharatr21/leetcode-problems/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1098-largest-unique-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bharatr21/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
@@ -669,6 +670,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1074-high-five](https://github.com/bharatr21/leetcode-problems/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1098-largest-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1098-largest-unique-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bharatr21/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -805,6 +807,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1074-high-five](https://github.com/bharatr21/leetcode-problems/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1098-largest-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1098-largest-unique-number) |
 | [1165-meeting-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/1165-meeting-scheduler) |
@@ -1118,6 +1121,7 @@
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1074-high-five](https://github.com/bharatr21/leetcode-problems/tree/master/1074-high-five) |
 | [1325-path-with-maximum-probability](https://github.com/bharatr21/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
