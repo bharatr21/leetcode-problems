@@ -580,6 +580,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bharatr21/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bharatr21/leetcode-problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/bharatr21/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/bharatr21/leetcode-problems/tree/master/0202-happy-number) |
@@ -610,6 +611,7 @@
 | [0027-remove-element](https://github.com/bharatr21/leetcode-problems/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/bharatr21/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bharatr21/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0047-permutations-ii) |
@@ -950,6 +952,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bharatr21/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
@@ -1055,6 +1058,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bharatr21/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
@@ -1306,6 +1310,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bharatr21/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Queue
 |  |
