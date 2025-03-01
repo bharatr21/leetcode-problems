@@ -517,6 +517,7 @@
 | [0290-word-pattern](https://github.com/bharatr21/leetcode-problems/tree/master/0290-word-pattern) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
@@ -869,6 +870,7 @@
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/bharatr21/leetcode-problems/tree/master/0290-word-pattern) |
 | [0320-generalized-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0320-generalized-abbreviation) |
+| [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0408-valid-word-abbreviation) |
 | [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/bharatr21/leetcode-problems/tree/master/0539-minimum-time-difference) |
@@ -1054,6 +1056,7 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/bharatr21/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1220,6 +1223,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bharatr21/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/bharatr21/leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
