@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> highFive(vector<vector<int>>& items) {
-        unordered_map<int, vector<int>> store;
+        map<int, vector<int>> store;
         for(vector<int> item: items) {
             store[item[0]].push_back(item[1]);
         }
@@ -14,7 +14,6 @@ public:
             }
             score /= 5;
             res.push_back({u.first, score});
-            sort(res.begin(), res.end());
         }
         return res;
     }
