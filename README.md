@@ -506,6 +506,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bharatr21/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bharatr21/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/bharatr21/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/bharatr21/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
@@ -859,6 +860,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bharatr21/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/bharatr21/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/bharatr21/leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bharatr21/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -1178,6 +1180,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bharatr21/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0487-max-consecutive-ones-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0567-permutation-in-string](https://github.com/bharatr21/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
