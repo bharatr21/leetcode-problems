@@ -6,12 +6,12 @@ public:
         while(st < n && en < n) {
             hash[s[en]]++;
             if(hash[s[en]] > 1) d++;
-            en++;
             while(d) {
                 if(--hash[s[st]] == 1) d--;
                 st++;
             }
-            res = max(res, en - st);
+            res = max(res, en - st + 1);
+            en++;
         }
         return res;
     }
