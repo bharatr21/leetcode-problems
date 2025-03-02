@@ -630,6 +630,7 @@
 | [0049-group-anagrams](https://github.com/bharatr21/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bharatr21/leetcode-problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/bharatr21/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
@@ -961,6 +962,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/bharatr21/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/bharatr21/leetcode-problems/tree/master/0221-maximal-square) |
@@ -988,6 +990,7 @@
 | [0045-jump-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bharatr21/leetcode-problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/bharatr21/leetcode-problems/tree/master/0097-interleaving-string) |
