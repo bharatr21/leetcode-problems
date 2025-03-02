@@ -508,6 +508,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatr21/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bharatr21/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/bharatr21/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bharatr21/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/bharatr21/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
@@ -621,6 +622,7 @@
 | [0045-jump-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bharatr21/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/bharatr21/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bharatr21/leetcode-problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/bharatr21/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -805,6 +807,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bharatr21/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/bharatr21/leetcode-problems/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/bharatr21/leetcode-problems/tree/master/0274-h-index) |
@@ -864,6 +867,7 @@
 | [0006-zigzag-conversion](https://github.com/bharatr21/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/bharatr21/leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bharatr21/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/bharatr21/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/bharatr21/leetcode-problems/tree/master/0091-decode-ways) |
