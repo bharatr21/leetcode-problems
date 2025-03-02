@@ -1,18 +1,11 @@
 class Solution {
 public:
     int findTheWinner(int n, int k) {
-        // Initialize vector of N friends, labeled from 1-N
-        vector<int> circle;
-        int i;
-        for (i = 1; i <= n; i++) {
-            circle.push_back(i);
+        int ans = 0;
+        for (int i = 2; i <= n; i++) {
+            ans = (ans + k) % i;
         }
-        i = 0;
-        while(circle.size() > 1) {
-            int cur = 1;
-            i = (i + k - 1) % circle.size();
-            circle.erase(circle.begin() + i);
-        }
-        return circle.front();
+        // add 1 to convert back to 1 indexing
+        return ans + 1;
     }
 };
