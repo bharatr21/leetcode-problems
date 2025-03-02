@@ -763,6 +763,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/bharatr21/leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatr21/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3780-permutations-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3780-permutations-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -782,6 +783,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bharatr21/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2823-the-knights-tour](https://github.com/bharatr21/leetcode-problems/tree/master/2823-the-knights-tour) |
+| [3780-permutations-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3780-permutations-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
