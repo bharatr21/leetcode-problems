@@ -13,14 +13,10 @@ public:
     int getDecimalValue(ListNode* head) {
         vector<bool> v;
         ListNode* node = head;
+        int res = 0;
         while(node) {
-            v.push_back(node->val);
+            res = (res << 1) | (node->val);
             node = node->next;
-        }
-        int n = v.size(), pow = 1, res = 0;
-        for(int i = n - 1; i >= 0; i--) {
-            res += v[i] * pow;
-            pow <<= 1;
         }
         return res;
     }
