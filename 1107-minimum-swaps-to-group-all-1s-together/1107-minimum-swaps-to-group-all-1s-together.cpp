@@ -10,6 +10,7 @@ public:
             if(!data[i]) n0++;
         }
         res = min(res, n0);
+        //Sliding window part, removing (i-k) and adding i
         for(int i = k; i < n; i++) {
             if(!data[i-k]) n0--;
             if(!data[i]) n0++;
