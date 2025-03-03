@@ -613,6 +613,7 @@
 | [1923-sentence-similarity-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/bharatr21/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bharatr21/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bharatr21/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bharatr21/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -741,6 +742,7 @@
 | [2169-simple-bank-system](https://github.com/bharatr21/leetcode-problems/tree/master/2169-simple-bank-system) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/bharatr21/leetcode-problems/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bharatr21/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bharatr21/leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
@@ -1049,6 +1051,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/bharatr21/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/bharatr21/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2169-simple-bank-system](https://github.com/bharatr21/leetcode-problems/tree/master/2169-simple-bank-system) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bharatr21/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bharatr21/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/bharatr21/leetcode-problems/tree/master/2645-pass-the-pillow) |
