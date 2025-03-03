@@ -751,6 +751,7 @@
 | [2502-sort-the-people](https://github.com/bharatr21/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bharatr21/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/bharatr21/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bharatr21/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/bharatr21/leetcode-problems/tree/master/2674-make-the-prefix-sum-non-negative) |
@@ -1096,6 +1097,7 @@
 | [0859-design-circular-deque](https://github.com/bharatr21/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/bharatr21/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
@@ -1219,6 +1221,7 @@
 | [2003-distinct-numbers-in-each-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/bharatr21/leetcode-problems/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/bharatr21/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/bharatr21/leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bharatr21/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1365,5 +1368,6 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/bharatr21/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
