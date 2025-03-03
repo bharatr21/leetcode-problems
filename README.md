@@ -691,6 +691,7 @@
 | [1074-high-five](https://github.com/bharatr21/leetcode-problems/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1098-largest-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1098-largest-unique-number) |
+| [1107-minimum-swaps-to-group-all-1s-together](https://github.com/bharatr21/leetcode-problems/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bharatr21/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1165-meeting-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/1165-meeting-scheduler) |
@@ -1220,6 +1221,7 @@
 | [0567-permutation-in-string](https://github.com/bharatr21/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1107-minimum-swaps-to-group-all-1s-together](https://github.com/bharatr21/leetcode-problems/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1755-defuse-the-bomb](https://github.com/bharatr21/leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/bharatr21/leetcode-problems/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
