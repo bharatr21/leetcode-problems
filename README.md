@@ -579,6 +579,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bharatr21/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
+| [3254-number-of-divisible-triplet-sums](https://github.com/bharatr21/leetcode-problems/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bharatr21/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -770,6 +771,7 @@
 | [2868-continuous-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
+| [3254-number-of-divisible-triplet-sums](https://github.com/bharatr21/leetcode-problems/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bharatr21/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
