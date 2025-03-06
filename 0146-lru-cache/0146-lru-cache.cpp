@@ -1,7 +1,6 @@
 class LRUCache {
 public:
-    deque<int> dq;
-    unordered_map<int, list<pair<int, int>>::iterator> mp;
+    map<int, list<pair<int, int>>::iterator> mp;
     list<pair<int, int>> lru;
     int cap;
     LRUCache(int capacity) {
@@ -10,29 +9,28 @@ public:
     
     int get(int key) {
         auto it = mp.find(key);
-        if(it == mp.end()) return -1;
-        int value = it->second->second;
-        lru.erase(it->second);
-        lru.push_front({key, value});
-        mp.erase(it);
-        mp[key] = lru.begin();
-        return value;
+        if(it != mp.end()) {
+            auto listpos = it->second;
+            int val = listpos->second;
+            lru.erase(listpos);
+            lru.push_front({key, val});
+            mp[key] = lru.begin();
+            return val;
+        } else return -1;
     }
     
     void put(int key, int value) {
         auto it = mp.find(key);
         if(it != mp.end()) {
-            lru.erase(it->second);
-            mp.erase(it);
+            auto listpos = it->second;
+            lru.erase(listpos);
         }
         lru.push_front({key, value});
         mp[key] = lru.begin();
-
-        if(mp.size() > cap) {
-            auto it2 = lru.rbegin();
-            auto it = mp.find(it2->first);
-            mp.erase(it);
+        if(lru.size() > cap) {
+            auto [key, val] = lru.back();
             lru.pop_back();
+            mp.erase(key);
         }
     }
 };
