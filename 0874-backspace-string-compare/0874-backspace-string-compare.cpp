@@ -11,14 +11,14 @@ public:
             if(ch == '#' && !st.empty()) st.pop();
             else if(ch != '#') st.push(ch); 
         }
-        while(!ss.empty()) {
-            res += ss.top();
-            ss.pop();
-        }
-        while(!st.empty()) {
-            ret += st.top();
-            st.pop();
-        }
-        return (res == ret);
+        // while(!ss.empty()) {
+        //     res += ss.top();
+        //     ss.pop();
+        // }
+        // while(!st.empty()) {
+        //     ret += st.top();
+        //     st.pop();
+        // }
+        return (ss == st);
     }
 };
