@@ -607,6 +607,7 @@
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0874-backspace-string-compare](https://github.com/bharatr21/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1165-meeting-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/1165-meeting-scheduler) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -917,6 +918,7 @@
 | [0680-valid-palindrome-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/bharatr21/leetcode-problems/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/bharatr21/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bharatr21/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1046,6 +1048,7 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bharatr21/leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0874-backspace-string-compare](https://github.com/bharatr21/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/bharatr21/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [1119-robot-bounded-in-circle](https://github.com/bharatr21/leetcode-problems/tree/master/1119-robot-bounded-in-circle) |
@@ -1124,6 +1127,7 @@
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/bharatr21/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
