@@ -1104,6 +1104,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/bharatr21/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/bharatr21/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/bharatr21/leetcode-problems/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/bharatr21/leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1349,6 +1350,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/bharatr21/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
