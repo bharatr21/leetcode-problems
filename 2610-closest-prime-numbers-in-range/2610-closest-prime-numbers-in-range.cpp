@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<int> closestPrimes(int left, int right) {
         vector<int> primes;
+        // Sieve of Erastothenes
         array<bool, 1000001> vis;
         vis.fill(true);
         vis[0] = false;
