@@ -465,6 +465,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bharatr21/leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2045-cutting-ribbons](https://github.com/bharatr21/leetcode-problems/tree/master/2045-cutting-ribbons) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharatr21/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bharatr21/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Recursion
 |  |
@@ -764,6 +765,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/bharatr21/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bharatr21/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharatr21/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/bharatr21/leetcode-problems/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2685-first-completely-painted-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bharatr21/leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1316,6 +1318,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bharatr21/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharatr21/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bharatr21/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
