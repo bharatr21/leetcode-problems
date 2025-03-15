@@ -1,17 +1,17 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int n = nums.size(), i, j;
-        vector<int> minJ(n, 10005);
-        minJ[n-1] = 0;
-        for(i = n-2; i>=0; i--)
-        {
-            int furthest = min(n-1, i+nums[i]);
-            for(j = i; j <= furthest; j++)
-            {
-                minJ[i] = min(1 + minJ[j], minJ[i]);
+        int n = nums.size();
+        vector<int> dp(n, n);
+        dp[n-1] = 0;
+        for(int i = n - 2; i >= 0; i--) {
+            if(i + nums[i] >= n - 1) dp[i] = 1;
+            else {
+                for(int j = i; j <= i + nums[i]; j++) {
+                    dp[i] = min(dp[i], 1 + dp[j]);
+                }
             }
         }
-        return minJ[0];
+        return dp[0];
     }
 };
