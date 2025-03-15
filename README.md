@@ -673,6 +673,7 @@
 | [0414-third-maximum-number](https://github.com/bharatr21/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/bharatr21/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
