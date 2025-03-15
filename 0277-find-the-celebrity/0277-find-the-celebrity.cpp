@@ -5,15 +5,18 @@ class Solution {
 public:
     int findCelebrity(int n) {
         int cand = 0;
-        for(int i = 1; i < n; i++) {
+        for(int i = 0; i < n; i++) {
             if(knows(cand, i)) {
                 cand = i;
             }
         }
+        return (isCeleb(cand, n) ? cand : -1);
+    }
+    bool isCeleb(int cand, int n) {
         for(int i = 0; i < n; i++) {
-            if(i != cand)
-            if(knows(cand, i) || !knows(i, cand)) return -1;
+            if(i == cand) continue;
+            if(knows(cand, i) || !knows(i, cand)) return false;
         }
-        return cand;
+        return true;
     }
 };
