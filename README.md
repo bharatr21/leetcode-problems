@@ -590,6 +590,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bharatr21/leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3474-better-compression-of-string](https://github.com/bharatr21/leetcode-problems/tree/master/3474-better-compression-of-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bharatr21/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/bharatr21/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -873,6 +874,7 @@
 | [2756-buy-two-chocolates](https://github.com/bharatr21/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3474-better-compression-of-string](https://github.com/bharatr21/leetcode-problems/tree/master/3474-better-compression-of-string) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/bharatr21/leetcode-problems/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Greedy
 |  |
@@ -991,6 +993,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/bharatr21/leetcode-problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3451-string-compression-iii) |
+| [3474-better-compression-of-string](https://github.com/bharatr21/leetcode-problems/tree/master/3474-better-compression-of-string) |
 | [3567-convert-date-to-binary](https://github.com/bharatr21/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
@@ -1333,6 +1336,7 @@
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bharatr21/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3474-better-compression-of-string](https://github.com/bharatr21/leetcode-problems/tree/master/3474-better-compression-of-string) |
 | [3519-find-the-number-of-winning-players](https://github.com/bharatr21/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Merge Sort
 |  |
