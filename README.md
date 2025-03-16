@@ -470,6 +470,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2045-cutting-ribbons](https://github.com/bharatr21/leetcode-problems/tree/master/2045-cutting-ribbons) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharatr21/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/bharatr21/leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/bharatr21/leetcode-problems/tree/master/2690-house-robber-iv) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bharatr21/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Recursion
@@ -781,6 +782,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bharatr21/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharatr21/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/bharatr21/leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/bharatr21/leetcode-problems/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2685-first-completely-painted-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/bharatr21/leetcode-problems/tree/master/2690-house-robber-iv) |
