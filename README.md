@@ -524,6 +524,7 @@
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bharatr21/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/bharatr21/leetcode-problems/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0266-palindrome-permutation](https://github.com/bharatr21/leetcode-problems/tree/master/0266-palindrome-permutation) |
@@ -925,6 +926,7 @@
 | [0115-distinct-subsequences](https://github.com/bharatr21/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/bharatr21/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bharatr21/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/bharatr21/leetcode-problems/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0214-shortest-palindrome) |
@@ -1111,6 +1113,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/bharatr21/leetcode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bharatr21/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/bharatr21/leetcode-problems/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/bharatr21/leetcode-problems/tree/master/0263-ugly-number) |
