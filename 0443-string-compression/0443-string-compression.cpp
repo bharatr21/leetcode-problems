@@ -3,7 +3,7 @@ public:
     int compress(vector<char>& chars) {
         int i = 0, res = 0, n = chars.size();
         while(i < n) {
-            int rl = 1;
+            int rl = 1; //Run-length
             while(i + rl < n && chars[i + rl] == chars[i]) rl++;
             chars[res++] = chars[i];
             if(rl > 1) {
