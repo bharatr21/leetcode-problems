@@ -1,23 +1,18 @@
 class Solution {
 public:
     string smallestNumber(string pattern) {
-        string result;
-        stack<int> numStack;
-
-        // Iterate through the pattern
-        for (int index = 0; index <= pattern.size(); index++) {
-            // Push the next number onto the stack
-            numStack.push(index + 1);
-
-            // If 'I' is encountered or we reach the end, pop all stack elements
-            if (index == pattern.size() || pattern[index] == 'I') {
-                while (!numStack.empty()) {
-                    result += to_string(numStack.top());
-                    numStack.pop();
+        int n = pattern.size();
+        stack<int> st;
+        string res;
+        for(int i = 0; i <= n; i++) {
+            st.push(i + 1);
+            if(i == n || pattern[i] == 'I') {
+                while(!st.empty()) {
+                    res += to_string(st.top());
+                    st.pop();
                 }
             }
         }
-
-        return result;
+        return res;
     }
 };
