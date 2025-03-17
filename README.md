@@ -539,6 +539,7 @@
 | [0398-random-pick-index](https://github.com/bharatr21/leetcode-problems/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/bharatr21/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bharatr21/leetcode-problems/tree/master/0567-permutation-in-string) |
@@ -697,6 +698,7 @@
 | [0485-max-consecutive-ones](https://github.com/bharatr21/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/bharatr21/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/bharatr21/leetcode-problems/tree/master/0539-minimum-time-difference) |
@@ -1193,6 +1195,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0364-nested-list-weight-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0364-nested-list-weight-sum-ii) |
+| [0496-next-greater-element-i](https://github.com/bharatr21/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1464,6 +1467,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bharatr21/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/bharatr21/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Queue
 |  |
