@@ -444,6 +444,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bharatr21/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -645,6 +646,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/bharatr21/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bharatr21/leetcode-problems/tree/master/0027-remove-element) |
@@ -1233,6 +1235,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/bharatr21/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/bharatr21/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
