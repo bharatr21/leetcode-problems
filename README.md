@@ -464,6 +464,7 @@
 | [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/bharatr21/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bharatr21/leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -729,6 +730,7 @@
 | [1325-path-with-maximum-probability](https://github.com/bharatr21/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1345-perform-string-shifts](https://github.com/bharatr21/leetcode-problems/tree/master/1345-perform-string-shifts) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/bharatr21/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -875,6 +877,7 @@
 | [1165-meeting-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/1165-meeting-scheduler) |
 | [1256-rank-transform-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/bharatr21/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -1080,6 +1083,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/bharatr21/leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/1250-longest-common-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/bharatr21/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharatr21/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/bharatr21/leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bharatr21/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
