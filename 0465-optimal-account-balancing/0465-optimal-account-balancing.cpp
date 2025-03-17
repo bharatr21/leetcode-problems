@@ -11,7 +11,7 @@ public:
             if(debts[idx] * debts[nxt] < 0) {
                 debts[nxt] += debts[idx];
                 min_trans = min(min_trans, 1 + settle(idx + 1, debts));
-                debts[nxt] -= debts[idx];
+                debts[nxt] -= debts[idx]; //Trigger backtracking
             }
         }
         return min_trans;
