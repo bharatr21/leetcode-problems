@@ -657,6 +657,7 @@
 | [0049-group-anagrams](https://github.com/bharatr21/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bharatr21/leetcode-problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/bharatr21/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0078-subsets) |
@@ -1025,6 +1026,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/bharatr21/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
@@ -1102,6 +1104,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bharatr21/leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/bharatr21/leetcode-problems/tree/master/0874-backspace-string-compare) |
