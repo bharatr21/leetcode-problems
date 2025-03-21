@@ -1,31 +1,34 @@
 class Solution {
 public:
-    void backtrack(vector<string>& res, string tmp, string digits, unordered_map<char, vector<string>>& mp, int idx) {
+    void backtrack(string digits, int idx, vector<string>& res, string tmp, unordered_map<char, vector<char>>& digitMap) {
         if(idx == digits.size()) {
-            res.push_back(tmp);
+            if(!tmp.empty()) res.push_back(tmp);
             return;
         }
-        for(string d: mp[digits[idx]]) {
-            tmp += d;
-            backtrack(res, tmp, digits, mp, idx + 1);
-            tmp.erase(idx);
+        else {
+            while(!digitMap.count(digits[idx])) idx++;
+            if(idx == digits.size()) return;
+            for(char c: digitMap[digits[idx]]) {
+                tmp += c;
+                backtrack(digits, idx + 1, res, tmp, digitMap);
+                tmp.pop_back();
+            }
         }
     }
+
     vector<string> letterCombinations(string digits) {
-        if(digits.size() == 0) return {};
         vector<string> res;
+        unordered_map<char, vector<char>> digitMap;
+        digitMap['2'] = {'a', 'b', 'c'};
+        digitMap['3'] = {'d', 'e', 'f'};
+        digitMap['4'] = {'g', 'h', 'i'};
+        digitMap['5'] = {'j', 'k', 'l'};
+        digitMap['6'] = {'m', 'n', 'o'};
+        digitMap['7'] = {'p', 'q', 'r', 's'};
+        digitMap['8'] = {'t', 'u', 'v'};
+        digitMap['9'] = {'w', 'x', 'y', 'z'};
         string tmp;
-        unordered_map<char, vector<string>> mp = {
-            {'2', {"a", "b", "c"}},
-            {'3', {"d", "e", "f"}},
-            {'4', {"g", "h", "i"}},
-            {'5', {"j", "k", "l"}},
-            {'6', {"m", "n", "o"}},
-            {'7', {"p", "q", "r", "s"}},
-            {'8', {"t", "u", "v"}},
-            {'9', {"w", "x", "y", "z"}}
-        };
-        backtrack(res, tmp, digits, mp, 0);
+        backtrack(digits, 0, res, tmp, digitMap);
         return res;
     }
 };
