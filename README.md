@@ -395,6 +395,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bharatr21/leetcode-problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bharatr21/leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bharatr21/leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -403,6 +404,7 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bharatr21/leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bharatr21/leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
 ## Union Find
 |  |
@@ -592,6 +594,7 @@
 | [2003-distinct-numbers-in-each-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/bharatr21/leetcode-problems/tree/master/2169-simple-bank-system) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bharatr21/leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/bharatr21/leetcode-problems/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/bharatr21/leetcode-problems/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bharatr21/leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -800,6 +803,7 @@
 | [2155-find-missing-observations](https://github.com/bharatr21/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/bharatr21/leetcode-problems/tree/master/2169-simple-bank-system) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bharatr21/leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/bharatr21/leetcode-problems/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bharatr21/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1041,6 +1045,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bharatr21/leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bharatr21/leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/bharatr21/leetcode-problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/bharatr21/leetcode-problems/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
