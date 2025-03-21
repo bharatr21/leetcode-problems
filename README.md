@@ -322,6 +322,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0364-nested-list-weight-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0364-nested-list-weight-sum-ii) |
 | [0386-lexicographical-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0386-lexicographical-numbers) |
+| [0565-array-nesting](https://github.com/bharatr21/leetcode-problems/tree/master/0565-array-nesting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -710,6 +711,7 @@
 | [0518-coin-change-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/bharatr21/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0565-array-nesting](https://github.com/bharatr21/leetcode-problems/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
