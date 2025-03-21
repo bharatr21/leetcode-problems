@@ -29,31 +29,30 @@
  */
 class Solution {
 public:
-    int maxDepth(vector<NestedInteger>& nestedList, int depth, int mxd) {
-        mxd = max(depth, mxd);
-        for(auto el: nestedList) {
-            if(!el.isInteger()) {
-                if(el.getList().size()) {
-                    mxd = maxDepth(el.getList(), depth+1, mxd);
-                }
+    int findMaxDepth(int depth, vector<NestedInteger>& nestedList) {
+        int res = depth;
+        for(auto ni: nestedList) {
+            if(!ni.isInteger()) {
+                res = max(res, findMaxDepth(depth + 1, ni.getList()));
             }
         }
-        return mxd;
+        return res;
     }
 
-    int depthHelper(vector<NestedInteger>& nestedList, int depth, int maxDepth) {
-        int tot = 0;
-        for(auto el: nestedList) {
-            if(el.isInteger()) {
-                tot += el.getInteger() * (maxDepth - depth + 1);
+    int depthSum(int maxDepth, int depth, vector<NestedInteger>& nestedList) {
+        int res = 0;
+        for(auto ni: nestedList) {
+            if(ni.isInteger()) {
+                res += ni.getInteger() * (maxDepth - depth + 1);
+            } else {
+                res += depthSum(maxDepth, depth + 1, ni.getList());
             }
-            tot += depthHelper(el.getList(), depth+1, maxDepth);
         }
-        return tot;
+        return res;
     }
 
     int depthSumInverse(vector<NestedInteger>& nestedList) {
-        int mxd = maxDepth(nestedList, 1, 1);
-        return depthHelper(nestedList, 1, mxd);
+        int maxDepth = findMaxDepth(1, nestedList);
+        return depthSum(maxDepth, 1, nestedList);
     }
 };
