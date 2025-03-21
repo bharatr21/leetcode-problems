@@ -1184,6 +1184,7 @@
 | [0264-ugly-number-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bharatr21/leetcode-problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0319-bulb-switcher](https://github.com/bharatr21/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bharatr21/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/bharatr21/leetcode-problems/tree/master/0398-random-pick-index) |
 | [0539-minimum-time-difference](https://github.com/bharatr21/leetcode-problems/tree/master/0539-minimum-time-difference) |
@@ -1480,6 +1481,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/bharatr21/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bharatr21/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Iterator
 |  |
