@@ -468,6 +468,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/bharatr21/leetcode-problems/tree/master/0912-random-pick-with-weight) |
 | [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
+| [1046-max-consecutive-ones-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bharatr21/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -734,6 +735,7 @@
 | [0952-word-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/bharatr21/leetcode-problems/tree/master/0979-di-string-match) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1046-max-consecutive-ones-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1074-high-five](https://github.com/bharatr21/leetcode-problems/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1098-largest-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1098-largest-unique-number) |
@@ -1335,6 +1337,7 @@
 | [0567-permutation-in-string](https://github.com/bharatr21/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/bharatr21/leetcode-problems/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1755-defuse-the-bomb](https://github.com/bharatr21/leetcode-problems/tree/master/1755-defuse-the-bomb) |
@@ -1358,6 +1361,7 @@
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/bharatr21/leetcode-problems/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bharatr21/leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
