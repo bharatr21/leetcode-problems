@@ -5,20 +5,20 @@ public:
         for(char ch: s) {
             switch(ch) {
                 case '{':
-                case '[':
-                case '(': {st.push(ch); break;}
+                case '(':
+                case '[': {st.push(ch); break;}
                 case '}': {
                     if(st.empty() || st.top() != '{') return false;
                     st.pop();
                     break;
                 }
-                case ']': {
-                    if(st.empty() || st.top() != '[') return false;
+                case ')': {
+                    if(st.empty() || st.top() != '(') return false;
                     st.pop();
                     break;
                 }
-                case ')': {
-                    if(st.empty() || st.top() != '(') return false;
+                case ']': {
+                    if(st.empty() || st.top() != '[') return false;
                     st.pop();
                     break;
                 }
