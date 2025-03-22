@@ -627,6 +627,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bharatr21/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/bharatr21/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -860,6 +861,7 @@
 | [3519-find-the-number-of-winning-players](https://github.com/bharatr21/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/bharatr21/leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatr21/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3780-permutations-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3780-permutations-iii) |
 ## Backtracking
@@ -1445,6 +1447,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3474-better-compression-of-string](https://github.com/bharatr21/leetcode-problems/tree/master/3474-better-compression-of-string) |
 | [3519-find-the-number-of-winning-players](https://github.com/bharatr21/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1543,4 +1546,8 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/bharatr21/leetcode-problems/tree/master/0398-random-pick-index) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
