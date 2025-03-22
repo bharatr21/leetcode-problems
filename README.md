@@ -349,6 +349,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bharatr21/leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -383,6 +384,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/bharatr21/leetcode-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -398,6 +400,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bharatr21/leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
@@ -416,6 +419,7 @@
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bharatr21/leetcode-problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Tree
 |  |
