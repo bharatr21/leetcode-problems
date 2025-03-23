@@ -1563,4 +1563,8 @@
 |  |
 | ------- |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/bharatr21/leetcode-problems/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
