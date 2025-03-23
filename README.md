@@ -1566,5 +1566,6 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/bharatr21/leetcode-problems/tree/master/0197-rising-temperature) |
 | [1801-average-time-of-process-per-machine](https://github.com/bharatr21/leetcode-problems/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
