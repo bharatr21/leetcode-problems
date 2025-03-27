@@ -1246,6 +1246,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/bharatr21/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-convert-date-to-binary](https://github.com/bharatr21/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatr21/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3817-maximum-containers-on-a-ship](https://github.com/bharatr21/leetcode-problems/tree/master/3817-maximum-containers-on-a-ship) |
 ## Queue
 |  |
 | ------- |
