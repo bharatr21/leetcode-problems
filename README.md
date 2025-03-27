@@ -622,6 +622,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bharatr21/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/bharatr21/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/bharatr21/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/bharatr21/leetcode-problems/tree/master/3254-number-of-divisible-triplet-sums) |
@@ -853,6 +854,7 @@
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [2880-find-the-closest-marked-node](https://github.com/bharatr21/leetcode-problems/tree/master/2880-find-the-closest-marked-node) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/bharatr21/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/bharatr21/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
@@ -954,6 +956,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bharatr21/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2756-buy-two-chocolates](https://github.com/bharatr21/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/bharatr21/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3474-better-compression-of-string](https://github.com/bharatr21/leetcode-problems/tree/master/3474-better-compression-of-string) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/bharatr21/leetcode-problems/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
