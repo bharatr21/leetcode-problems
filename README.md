@@ -351,6 +351,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
+| [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -386,6 +387,7 @@
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/bharatr21/leetcode-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
+| [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
 ## Graph
 |  |
 | ------- |
@@ -406,6 +408,7 @@
 | [2880-find-the-closest-marked-node](https://github.com/bharatr21/leetcode-problems/tree/master/2880-find-the-closest-marked-node) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bharatr21/leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -425,6 +428,7 @@
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
 ## Tree
 |  |
 | ------- |
@@ -635,6 +639,7 @@
 | [3519-find-the-number-of-winning-players](https://github.com/bharatr21/leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -875,6 +880,7 @@
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatr21/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3780-permutations-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3780-permutations-iii) |
+| [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
 ## Backtracking
 |  |
 | ------- |
