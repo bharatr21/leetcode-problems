@@ -13,23 +13,23 @@ class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         vector<vector<int>> res;
-        queue<pair<TreeNode*, pair<int, int>>> q;
-        map<int, vector<pair<int, int>>> mp;
         if(!root) return res;
-        q.push({root, {0, 0}});
+        map<int, vector<pair<int, int>>> mp;
+        queue<tuple<TreeNode*, int, int>> q;
+        q.push({root, 0, 0});
         while(!q.empty()) {
-            auto [node, level] = q.front();
-            auto [col, row] = level;
+            auto [node, row, col] = q.front();
             mp[col].push_back({row, node->val});
             q.pop();
-            if(node->left) q.push({node->left, {col - 1, row + 1}});
-            if(node->right) q.push({node->right, {col + 1, row + 1}});
+            if(node->left) q.push({node->left, row+1, col-1});
+            if(node->right) q.push({node->right, row+1, col+1});
         }
-        for(auto u: mp) {
-            sort(u.second.begin(), u.second.end());
-            vector<int> tmp;
-            for(auto it: u.second) tmp.push_back(it.second);
+        vector<int> tmp;
+        for(auto& item: mp) {
+            sort(item.second.begin(), item.second.end());
+            for(auto& el: item.second) tmp.push_back(el.second);
             res.push_back(tmp);
+            tmp.clear();
         }
         return res;
     }
