@@ -386,6 +386,7 @@
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bharatr21/leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/bharatr21/leetcode-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
@@ -427,6 +428,7 @@
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bharatr21/leetcode-problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
@@ -683,6 +685,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/bharatr21/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bharatr21/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bharatr21/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Array
@@ -850,6 +853,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/bharatr21/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bharatr21/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharatr21/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bharatr21/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/bharatr21/leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
@@ -968,6 +972,7 @@
 | [2502-sort-the-people](https://github.com/bharatr21/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bharatr21/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bharatr21/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2756-buy-two-chocolates](https://github.com/bharatr21/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
@@ -1134,6 +1139,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/bharatr21/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2823-the-knights-tour](https://github.com/bharatr21/leetcode-problems/tree/master/2823-the-knights-tour) |
 | [3227-find-missing-and-repeated-values](https://github.com/bharatr21/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -1353,6 +1359,7 @@
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2434-design-a-number-container-system](https://github.com/bharatr21/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/bharatr21/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/bharatr21/leetcode-problems/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bharatr21/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2868-continuous-subarrays) |
