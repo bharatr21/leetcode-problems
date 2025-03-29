@@ -491,6 +491,7 @@
 | [0912-random-pick-with-weight](https://github.com/bharatr21/leetcode-problems/tree/master/0912-random-pick-with-weight) |
 | [0975-range-sum-of-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1051-shortest-way-to-form-string](https://github.com/bharatr21/leetcode-problems/tree/master/1051-shortest-way-to-form-string) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bharatr21/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -673,6 +674,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/bharatr21/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/bharatr21/leetcode-problems/tree/master/0979-di-string-match) |
+| [1051-shortest-way-to-form-string](https://github.com/bharatr21/leetcode-problems/tree/master/1051-shortest-way-to-form-string) |
 | [1165-meeting-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/1165-meeting-scheduler) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -998,6 +1000,7 @@
 | [0890-lemonade-change](https://github.com/bharatr21/leetcode-problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/bharatr21/leetcode-problems/tree/master/0979-di-string-match) |
+| [1051-shortest-way-to-form-string](https://github.com/bharatr21/leetcode-problems/tree/master/1051-shortest-way-to-form-string) |
 | [1252-break-a-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/1252-break-a-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/bharatr21/leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -1061,6 +1064,7 @@
 | [0952-word-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/bharatr21/leetcode-problems/tree/master/0979-di-string-match) |
+| [1051-shortest-way-to-form-string](https://github.com/bharatr21/leetcode-problems/tree/master/1051-shortest-way-to-form-string) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
