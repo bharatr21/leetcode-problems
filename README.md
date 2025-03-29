@@ -581,6 +581,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/bharatr21/leetcode-problems/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/bharatr21/leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/bharatr21/leetcode-problems/tree/master/0817-design-hashmap) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -674,6 +675,7 @@
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/bharatr21/leetcode-problems/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/bharatr21/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/bharatr21/leetcode-problems/tree/master/0979-di-string-match) |
 | [1051-shortest-way-to-form-string](https://github.com/bharatr21/leetcode-problems/tree/master/1051-shortest-way-to-form-string) |
@@ -1000,6 +1002,7 @@
 | [0605-can-place-flowers](https://github.com/bharatr21/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/bharatr21/leetcode-problems/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/bharatr21/leetcode-problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bharatr21/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/bharatr21/leetcode-problems/tree/master/0979-di-string-match) |
@@ -1061,6 +1064,7 @@
 | [0664-strange-printer](https://github.com/bharatr21/leetcode-problems/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/bharatr21/leetcode-problems/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/bharatr21/leetcode-problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/bharatr21/leetcode-problems/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/bharatr21/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bharatr21/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
