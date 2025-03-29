@@ -1,15 +1,23 @@
 class Solution {
 public:
-    bool checkValidString(string s) {
-        int n = s.size(), i;
-        int lo = 0, hi = 0;
-        for(char ch: s)
-        {
-            lo += ((ch == '(') ? 1: -1);
-            hi += ((ch != ')') ? 1: -1);
-            if(hi < 0) break;
-            lo = max(lo, 0);
+    bool isValidString(int idx, int open, string s, vector<vector<int>>& dp) {
+        if(idx == s.size()) return (open == 0);
+        if(dp[idx][open] != -1) return dp[idx][open];
+        bool res = false;
+        if(s[idx] == '*') {
+            res = res | isValidString(idx+1, open+1, s, dp);
+            if(open) res = res | isValidString(idx+1, open-1, s, dp);
+            res = res | isValidString(idx+1, open, s, dp);
+        } else if(s[idx] == '(') {
+            res = isValidString(idx+1, open+1, s, dp);
+        } else if(open) {
+            res = isValidString(idx+1, open-1, s, dp);
         }
-        return (lo == 0);
+        return (dp[idx][open] = res);
+    }
+    bool checkValidString(string s) {
+        int n = s.size();
+        vector<vector<int>> dp(n, vector<int>(n, -1));
+        return isValidString(0, 0, s, dp);
     }
 };
