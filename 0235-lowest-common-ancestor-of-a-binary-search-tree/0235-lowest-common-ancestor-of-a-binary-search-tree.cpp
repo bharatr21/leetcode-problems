@@ -13,10 +13,9 @@ public:
     TreeNode* lca(TreeNode* node, TreeNode* p, TreeNode* q) {
         if(!node) return NULL;
         if(node == p || node == q) return node;
-        TreeNode* left = lca(node->left, p, q);
-        TreeNode* right = lca(node->right, p, q);
-        if(left && right) return node;
-        return ((left) ? left : right);
+        if(min(p->val, q->val) >= node->val) return lca(node->right, p, q);
+        else if(max(p->val, q->val) <= node->val) return lca(node->left, p, q);
+        else return node;
     }
 
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
