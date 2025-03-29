@@ -916,6 +916,7 @@
 | [0351-android-unlock-patterns](https://github.com/bharatr21/leetcode-problems/tree/master/0351-android-unlock-patterns) |
 | [0465-optimal-account-balancing](https://github.com/bharatr21/leetcode-problems/tree/master/0465-optimal-account-balancing) |
 | [0494-target-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0494-target-sum) |
+| [0865-robot-room-cleaner](https://github.com/bharatr21/leetcode-problems/tree/master/0865-robot-room-cleaner) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bharatr21/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2823-the-knights-tour](https://github.com/bharatr21/leetcode-problems/tree/master/2823-the-knights-tour) |
@@ -1594,6 +1595,7 @@
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/bharatr21/leetcode-problems/tree/master/0277-find-the-celebrity) |
+| [0865-robot-room-cleaner](https://github.com/bharatr21/leetcode-problems/tree/master/0865-robot-room-cleaner) |
 ## Monotonic Stack
 |  |
 | ------- |
