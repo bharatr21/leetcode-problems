@@ -11,7 +11,6 @@ public:
             auto [sum, i, j] = pq.top();
             res.push_back({nums1[i], nums2[j]});
             pq.pop();
-            cout << i << ' ' << j << endl;
             if(i + 1 < m && vis.find({i+1, j}) == vis.end()) {
                 pq.push({nums1[i+1] + nums2[j], i+1, j});
                 vis.insert({i+1, j});
