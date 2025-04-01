@@ -422,6 +422,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bharatr21/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/bharatr21/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -555,6 +556,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bharatr21/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/bharatr21/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bharatr21/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/bharatr21/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/bharatr21/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
@@ -721,6 +723,7 @@
 | [0118-pascals-triangle](https://github.com/bharatr21/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/bharatr21/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/bharatr21/leetcode-problems/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0152-maximum-product-subarray) |
