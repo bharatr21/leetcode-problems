@@ -286,6 +286,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bharatr21/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/bharatr21/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
@@ -510,6 +511,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/bharatr21/leetcode-problems/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1267,6 +1269,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bharatr21/leetcode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bharatr21/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
