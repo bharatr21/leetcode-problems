@@ -7,7 +7,7 @@ public:
         if(tmp == INT_MIN) return 0;
         tmp = abs(tmp);
         while(tmp) {
-            if(res * 10L >= INT_MAX) return 0;
+            if(res > INT_MAX / 10 || (res == INT_MAX / 10 && tmp % 10 >= 7)) return 0;
             res = res * 10 + (tmp % 10);
             tmp = tmp / 10;
         }
