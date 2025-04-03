@@ -743,6 +743,7 @@
 | [0179-largest-number](https://github.com/bharatr21/leetcode-problems/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/bharatr21/leetcode-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bharatr21/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/bharatr21/leetcode-problems/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/bharatr21/leetcode-problems/tree/master/0221-maximal-square) |
 | [0243-shortest-word-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0244-shortest-word-distance-ii) |
@@ -1299,6 +1300,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/bharatr21/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/bharatr21/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/bharatr21/leetcode-problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/bharatr21/leetcode-problems/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/bharatr21/leetcode-problems/tree/master/0263-ugly-number) |
@@ -1624,6 +1626,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bharatr21/leetcode-problems/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/bharatr21/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bharatr21/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1684,6 +1687,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bharatr21/leetcode-problems/tree/master/0204-count-primes) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Database
 |  |
