@@ -502,6 +502,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bharatr21/leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bharatr21/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2045-cutting-ribbons](https://github.com/bharatr21/leetcode-problems/tree/master/2045-cutting-ribbons) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharatr21/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -849,6 +850,7 @@
 | [1923-sentence-similarity-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bharatr21/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/bharatr21/leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1004,6 +1006,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharatr21/leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bharatr21/leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bharatr21/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/bharatr21/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1044,6 +1047,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bharatr21/leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bharatr21/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-maximum-matrix-sum](https://github.com/bharatr21/leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bharatr21/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2354-minimum-health-to-beat-game](https://github.com/bharatr21/leetcode-problems/tree/master/2354-minimum-health-to-beat-game) |
@@ -1492,6 +1496,7 @@
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/bharatr21/leetcode-problems/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1755-defuse-the-bomb](https://github.com/bharatr21/leetcode-problems/tree/master/1755-defuse-the-bomb) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bharatr21/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/bharatr21/leetcode-problems/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -1522,6 +1527,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bharatr21/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/bharatr21/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bharatr21/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bharatr21/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2465-shifting-letters-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bharatr21/leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
