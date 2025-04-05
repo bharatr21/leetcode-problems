@@ -7,22 +7,21 @@ public:
     }
     
     void push(int x) {
-        q1.push(x);
-        tope = x;        
+        q2.push(x);
+        tope = x;
+        while(!q1.empty()) {
+            q2.push(q1.front());
+            q1.pop();
+        }
+        swap(q1, q2);
     }
     
     int pop() {
-        if(q2.empty()) {
-            while(q1.size() > 1) {
-                tope = q1.front();
-                q2.push(q1.front());
-                q1.pop();
-            }
-        }
         int el = q1.front();
         q1.pop();
-        swap(q1, q2);
+        if(!q1.empty()) tope = q1.front();
         return el;
+
     }
     
     int top() {
