@@ -11,37 +11,29 @@
  */
 class Solution {
 public:
-    TreeNode* lca(TreeNode* root, TreeNode* p, TreeNode* q) {
+    TreeNode* lca(TreeNode* root, vector<TreeNode*> nodes) {
         if(!root) return root;
-        if(!p) return q;
-        if(!q) return p;
-        if(root == p || root == q) return root;
-        TreeNode* left = lca(root->left, p, q);
-        TreeNode* right = lca(root->right, p, q);
+        for(auto& node: nodes) {
+            if(root == node) return root;
+        }
+        TreeNode* left = lca(root->left, nodes);
+        TreeNode* right = lca(root->right, nodes);
         if(left && right) return root;
-        else return ((left) ? left : right);
+        return ((left) ? left : right);
     }
-
-    void helper(vector<vector<TreeNode*>>& depths, int d, TreeNode* node) {
-        if(depths.size() <= d) depths.resize(d + 1);
-        depths[d].push_back(node);
-        if(node->left) helper(depths, d+1, node->left);
-        if(node->right) helper(depths, d+1, node->right);
+    void helper(TreeNode* root, int depth, vector<vector<TreeNode*>>& nodes) {
+        if(nodes.size() <= depth) nodes.resize(depth + 1);
+        nodes[depth].push_back(root);
+        if(root->left) helper(root->left, depth+1, nodes);
+        if(root->right) helper(root->right, depth+1, nodes);
     }
-
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        vector<vector<TreeNode*>> depths;
+        vector<vector<TreeNode*>> nodes;
         if(!root) return root;
-        helper(depths, 0, root);
-        int n = depths.size();
+        helper(root, 0, nodes);
+        int n = nodes.size();
         if(n <= 1) return root;
-        TreeNode* node;
-        if(depths[n-1].size() >= 2) {
-            node = lca(root, depths[n-1][0], depths[n-1][1]);
-            for(int i = 2; i < depths[n-1].size(); i++) {
-                node = lca(root, node, depths[n-1][i]);
-            }
-        } else node = depths[n-1][0];
-        return node;
+        vector<TreeNode*> tmp = nodes[n-1];
+        return lca(root, tmp);
     }
 };
