@@ -36,12 +36,6 @@ public:
         int n = depths.size();
         if(n <= 1) return root;
         TreeNode* node;
-        // for(auto& d: depths) {
-        //     for(auto& nd: d) {
-        //         cout << nd->val << ' ';
-        //     }
-        //     cout << endl;
-        // }
         if(depths[n-1].size() >= 2) {
             node = lca(root, depths[n-1][0], depths[n-1][1]);
             for(int i = 2; i < depths[n-1].size(); i++) {
