@@ -1359,6 +1359,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/bharatr21/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bharatr21/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -1375,6 +1376,7 @@
 | [0042-trapping-rain-water](https://github.com/bharatr21/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/bharatr21/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/bharatr21/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
@@ -1477,6 +1479,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/bharatr21/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bharatr21/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0244-shortest-word-distance-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/bharatr21/leetcode-problems/tree/master/0251-flatten-2d-vector) |
