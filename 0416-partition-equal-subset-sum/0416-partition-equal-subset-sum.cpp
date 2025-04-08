@@ -1,20 +1,20 @@
 class Solution {
 public:
-    bool subset(int idx, int tgt, vector<int>& nums, vector<vector<int>>& dp) {
-        int n = nums.size();
-        if(tgt == 0) return true;
-        else if(idx == n || tgt < 0) return false;
-        else if(dp[idx][tgt] != -1) return dp[idx][tgt];
-        bool pick = subset(idx + 1, tgt - nums[idx], nums, dp);
-        bool notPick = subset(idx + 1, tgt, nums, dp);
-        return dp[idx][tgt] = (pick || notPick);
-    }
-
     bool canPartition(vector<int>& nums) {
         int sum = accumulate(nums.begin(), nums.end(), 0);
         if(sum % 2) return false;
         int tgt = sum / 2, n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(sum + 1, -1));
-        return subset(0, tgt, nums, dp);
+        vector<vector<bool>> dp(n + 1, vector<bool>(tgt + 1, false));
+        for(int i = 0; i < n; i++) dp[i][0] = true;
+        for(int i = 1; i <= tgt; i++) dp[n-1][i] = false;
+        for(int i = n - 2; i >= 0; i--)
+        {
+            for(int j = 1; j <= tgt; j++) 
+            {
+                dp[i][j] = dp[i][j] | dp[i+1][j];
+                if(nums[i+1] <= j) dp[i][j] = dp[i][j] | dp[i+1][j - nums[i+1]];
+            }
+        }
+        return dp[0][tgt];
     }
 };
