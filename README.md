@@ -756,6 +756,7 @@
 | [0200-number-of-islands](https://github.com/bharatr21/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/bharatr21/leetcode-problems/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/bharatr21/leetcode-problems/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/bharatr21/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0243-shortest-word-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/bharatr21/leetcode-problems/tree/master/0251-flatten-2d-vector) |
@@ -1546,6 +1547,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bharatr21/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
