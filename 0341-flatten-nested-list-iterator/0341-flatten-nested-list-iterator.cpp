@@ -18,28 +18,28 @@
 
 class NestedIterator {
 public:
-    void flatten(vector<int>& flat, vector<NestedInteger> &nestedList) {
+    vector<int> flat;
+    int cur;
+    void flatten(vector<NestedInteger> &nestedList, vector<int>& flat) {
         for(NestedInteger ni: nestedList) {
-            if(ni.isInteger()) {
-                flat.push_back(ni.getInteger());
-            } else {
-                flatten(flat, ni.getList());
+            if(ni.isInteger()) flat.push_back(ni.getInteger());
+            else {
+                flatten(ni.getList(), flat);
             }
         }
     }
-    vector<int> flat;
-    int pos;
-    NestedIterator(vector<NestedInteger> &nestedList) {      
-        flatten(flat, nestedList);
-        pos = 0;
+    
+    NestedIterator(vector<NestedInteger> &nestedList) {
+        flatten(nestedList, flat);
+        cur = 0;
     }
     
     int next() {
-        return flat[pos++];
+        return flat[cur++];
     }
     
     bool hasNext() {
-        return (pos < flat.size());
+        return (cur < flat.size());
     }
 };
 
