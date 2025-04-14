@@ -967,6 +967,7 @@
 | [0079-word-search](https://github.com/bharatr21/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/bharatr21/leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0254-factor-combinations](https://github.com/bharatr21/leetcode-problems/tree/master/0254-factor-combinations) |
 | [0320-generalized-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0320-generalized-abbreviation) |
 | [0351-android-unlock-patterns](https://github.com/bharatr21/leetcode-problems/tree/master/0351-android-unlock-patterns) |
 | [0465-optimal-account-balancing](https://github.com/bharatr21/leetcode-problems/tree/master/0465-optimal-account-balancing) |
