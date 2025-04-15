@@ -518,6 +518,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bharatr21/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2045-cutting-ribbons](https://github.com/bharatr21/leetcode-problems/tree/master/2045-cutting-ribbons) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharatr21/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bharatr21/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/bharatr21/leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
@@ -893,6 +894,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/bharatr21/leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bharatr21/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bharatr21/leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1465,6 +1467,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/bharatr21/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/bharatr21/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1531,6 +1534,7 @@
 | ------- |
 | [1511-count-number-of-teams](https://github.com/bharatr21/leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1903-design-most-recently-used-queue](https://github.com/bharatr21/leetcode-problems/tree/master/1903-design-most-recently-used-queue) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -1637,6 +1641,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bharatr21/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bitmask
 |  |
 | ------- |
@@ -1705,6 +1710,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/bharatr21/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1712,6 +1718,7 @@
 | [0729-my-calendar-i](https://github.com/bharatr21/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [1903-design-most-recently-used-queue](https://github.com/bharatr21/leetcode-problems/tree/master/1903-design-most-recently-used-queue) |
+| [2280-count-good-triplets-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/bharatr21/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2868-continuous-subarrays) |
 ## Interactive
