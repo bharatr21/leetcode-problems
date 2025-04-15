@@ -29,19 +29,16 @@
  */
 class Solution {
 public:
-    int depthHelper(int depth, vector<NestedInteger>& nestedList) {
+    int helper(vector<NestedInteger>& nestedList, int depth) {
         int res = 0;
-        for(auto ni: nestedList) {
-            if(ni.isInteger()) {
-                res += ni.getInteger() * depth;
-            } else {
-                res += depthHelper(depth + 1, ni.getList());
-            }
+        for(NestedInteger ni: nestedList) {
+            if(ni.isInteger()) res += (ni.getInteger() * depth);
+            else res += helper(ni.getList(), depth + 1);
         }
         return res;
     }
-
+    
     int depthSum(vector<NestedInteger>& nestedList) {
-        return depthHelper(1, nestedList);    
+        return helper(nestedList, 1);
     }
 };
