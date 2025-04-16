@@ -595,6 +595,7 @@
 | [0268-missing-number](https://github.com/bharatr21/leetcode-problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bharatr21/leetcode-problems/tree/master/0290-word-pattern) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bharatr21/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -784,6 +785,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bharatr21/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/bharatr21/leetcode-problems/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0360-sort-transformed-array](https://github.com/bharatr21/leetcode-problems/tree/master/0360-sort-transformed-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bharatr21/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -1579,6 +1581,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bharatr21/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
