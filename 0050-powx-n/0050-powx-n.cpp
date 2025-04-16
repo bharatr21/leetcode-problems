@@ -1,14 +1,30 @@
 class Solution {
 public:
-    double myPow(double x, int n) {
-        int sign = ((n < 0) ? -1 : 1);
-        double res = 1, ans = 1, temp = x;
-        n = abs(n);
-        while(n) {
-            if(n & 1) res = res * temp;
-            temp = temp * temp;
-            n = n >> 1;
+    double binaryExp(double x, long long n) {
+        if (n == 0) {
+            return 1;
         }
-        return ((sign == -1) ? (1.0 / res): res);
+
+        // Handle case where, n < 0.
+        if (n < 0) {
+            n = -1 * n;
+            x = 1.0 / x;
+        }
+
+        // Perform Binary Exponentiation.
+        double result = 1;
+        while (n) {
+            // If 'n' is odd we multiply result with 'x' and reduce 'n' by '1'.
+            if (n % 2 == 1) {
+                result = result * x;
+                n -= 1;
+            }
+            // We square 'x' and reduce 'n' by half, x^n => (x^2)^(n/2).
+            x = x * x;
+            n = n / 2;
+        }
+        return result;
     }
+
+    double myPow(double x, int n) { return binaryExp(x, (long long)n); }
 };
