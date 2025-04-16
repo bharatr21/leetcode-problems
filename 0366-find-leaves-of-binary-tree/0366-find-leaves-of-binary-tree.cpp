@@ -16,7 +16,7 @@ public:
         int leftHeight = heightHelper(heights, node->left);
         int rightHeight = heightHelper(heights, node->right);
         int curHeight = 1 + max(leftHeight, rightHeight);
-        if(heights.size() == curHeight) heights.resize(curHeight + 1);
+        if(heights.size() == curHeight) heights.push_back({});
         heights[curHeight].push_back(node->val);
         return curHeight;
     }
