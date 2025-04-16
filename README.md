@@ -383,6 +383,7 @@
 | [0364-nested-list-weight-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0364-nested-list-weight-sum-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0833-bus-routes](https://github.com/bharatr21/leetcode-problems/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -612,6 +613,7 @@
 | [0778-reorganize-string](https://github.com/bharatr21/leetcode-problems/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/bharatr21/leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/bharatr21/leetcode-problems/tree/master/0817-design-hashmap) |
+| [0833-bus-routes](https://github.com/bharatr21/leetcode-problems/tree/master/0833-bus-routes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/bharatr21/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bharatr21/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -814,6 +816,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bharatr21/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0816-design-hashset](https://github.com/bharatr21/leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/bharatr21/leetcode-problems/tree/master/0817-design-hashmap) |
+| [0833-bus-routes](https://github.com/bharatr21/leetcode-problems/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/bharatr21/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/bharatr21/leetcode-problems/tree/master/0890-lemonade-change) |
