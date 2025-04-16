@@ -488,6 +488,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bharatr21/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -739,6 +740,7 @@
 | [0018-4sum](https://github.com/bharatr21/leetcode-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bharatr21/leetcode-problems/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bharatr21/leetcode-problems/tree/master/0041-first-missing-positive) |
