@@ -1,38 +1,43 @@
 class MaxStack {
 public:
-    int cnt;
-    set<pair<int, int>> stk;
-    set<pair<int, int>> val;
+    stack<pair<int, int>> st;
+    priority_queue<pair<int, int>> pq;
+    unordered_set<int> removed;
+    int ct;
     MaxStack() {
-        cnt = 0;
+        ct = 0;
     }
     
     void push(int x) {
-        stk.insert({cnt, x});
-        val.insert({x, cnt});
-        cnt++;
+        st.push({x, ct});
+        pq.push({x, ct});
+        ct++;
     }
     
     int pop() {
-        auto [cnt, x] = *stk.rbegin();
-        stk.erase({cnt, x});
-        val.erase({x, cnt});
-        return x;
+        while(removed.count(st.top().second)) st.pop();
+        auto [el, ct] = st.top();
+        st.pop();
+        removed.insert(ct);
+        return el;
     }
     
     int top() {
-        return stk.rbegin()->second;
+        while(removed.count(st.top().second)) st.pop();
+        return st.top().first;
     }
     
     int peekMax() {
-        return val.rbegin()->first;
+        while(removed.count(pq.top().second)) pq.pop();
+        return pq.top().first;
     }
     
     int popMax() {
-        auto [cnt, x] = *val.rbegin();
-        val.erase({cnt, x});
-        stk.erase({x, cnt});
-        return cnt;
+        while(removed.count(pq.top().second)) pq.pop();
+        auto [el, ct] = pq.top();
+        pq.pop();
+        removed.insert(ct);
+        return el;
     }
 };
 
