@@ -1,101 +1,75 @@
-class Node {
-    public:
-        int freq;
-        Node* prev;
-        Node* next;
-        unordered_set<string> keys;
-        Node(int val): freq(val), prev(NULL), next(NULL) {}
-};
-
 class AllOne {
+    struct Node {
+        int freq;
+        unordered_set<string> keys;
+    };
+    list<Node> freqList;
+    unordered_map<string, list<Node>::iterator> key2it;
 public:
-    Node* head;
-    Node* tail;
-    unordered_map<string, Node*> mp;
     AllOne() {
-        head = new Node(0);
-        tail = new Node(0);
-        head->next = tail;
-        tail->prev = head;
+        
     }
     
     void inc(string key) {
-        if(mp.count(key)) {
-            Node* node = mp[key];
-            int freq = node->freq;
-            node->keys.erase(key);
-            Node* nextNode = node->next;
-            if(nextNode == tail || nextNode->freq != freq + 1) {
-                Node* temp = new Node(freq + 1);
-                temp->keys.insert(key);
-                temp->prev = node;
-                temp->next = nextNode;
-                node->next = temp;
-                nextNode->prev = temp;
-                mp[key] = temp;
-            } else {
-                nextNode->keys.insert(key);
-                mp[key] = nextNode;
-            }
-            if(node->keys.empty()) removeNode(node);
-        } else {
-            Node* first = head->next;
-            if(first == tail || first->freq > 1) {
-                Node* temp = new Node(1);
-                temp->keys.insert(key);
-                temp->prev = head;
-                temp->next = first;
-                head->next = temp;
-                first->prev = temp;
-                mp[key] = temp;
-            } else {
-                first->keys.insert(key);
-                mp[key] = first;
-            }
+        // Find current node (or create a frequency-0 dummy)
+        auto it = key2it.count(key)
+                  ? key2it[key]
+                  : freqList.insert(freqList.begin(), Node{0, {}});
+        int f = it->freq;
+        auto next = std::next(it);
+
+        // Ensure the next node has freq = f+1
+        if (next == freqList.end() || next->freq != f + 1) {
+            next = freqList.insert(next, Node{f + 1, {}});
+        }
+
+        // Move key to next node
+        next->keys.insert(key);
+        key2it[key] = next;
+        
+        // Remove from old node; if empty, erase it
+        if (it->keys.erase(key), it->keys.empty()) {
+            freqList.erase(it);
         }
     }
     
     void dec(string key) {
-        if(!mp.count(key)) return;
-        Node* node = mp[key];
-        int freq = node->freq;
-        node->keys.erase(key);
-        if(freq == 1) mp.erase(key);
-        else {
-            Node* prevNode = node->prev;
-            if(prevNode == head || prevNode->freq != freq - 1) {
-                Node* temp = new Node(freq - 1);
-                temp->keys.insert(key);
-                temp->prev = prevNode;
-                temp->next = node;
-                prevNode->next = temp;
-                node->prev = temp;
-                mp[key] = temp;
-            } else {
-                prevNode->keys.insert(key);
-                mp[key] = prevNode;
+        auto mapIt = key2it.find(key);
+        if (mapIt == key2it.end()) return;  // Key not present
+
+        auto nodeIt = mapIt->second;
+        int f = nodeIt->freq;
+        nodeIt->keys.erase(key);
+
+        if (f > 1) {
+            auto prev = (nodeIt == freqList.begin())
+                        ? freqList.end()
+                        : std::prev(nodeIt);
+            // Ensure the previous node has freq = f-1
+            if (prev == freqList.end() || prev->freq != f - 1) {
+                prev = freqList.insert(nodeIt, Node{f - 1, {}});
             }
+            prev->keys.insert(key);
+            key2it[key] = prev;
+        } else {
+            // Frequency hits zero: remove key entirely
+            key2it.erase(mapIt);
         }
-        if(node->keys.empty()) removeNode(node);
+
+        // If old node is empty now, erase it
+        if (nodeIt->keys.empty()) {
+            freqList.erase(nodeIt);
+        }
     }
     
     string getMaxKey() {
-        return ((tail->prev == head) ? "" : *(tail->prev->keys.begin()));   
+        if (freqList.empty()) return "";
+        return *freqList.back().keys.begin();
     }
     
     string getMinKey() {
-        return ((head->next == tail) ? "" : *(head->next->keys.begin()));
-    }
-
-private:
-    void removeNode(Node* node) {
-        Node* prevNode = node->prev;
-        Node* nextNode = node->next;
-
-        prevNode->next = nextNode;  // Link previous node to next node
-        nextNode->prev = prevNode;  // Link next node to previous node
-
-        delete node;  // Free the memory of the removed node
+        if (freqList.empty()) return "";
+        return *freqList.front().keys.begin();
     }
 };
 
