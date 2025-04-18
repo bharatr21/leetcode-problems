@@ -23,11 +23,11 @@ public:
             tq = tq->parent;
         }
         int m = ppath.size(), n = qpath.size();
-        int i = 0, j = 0;
-        while(ppath[i] != qpath[j] && i < m && j < n) {
-            if(m - i > n - j) i++;
-            else j++;
+        int i = m - 1, j = n - 1;
+        while(i >= 0 && j >= 0 && ppath[i] == qpath[j]) {
+            i--;
+            j--;
         }
-        return ppath[i];
+        return ppath[i+1];
     }
 };
