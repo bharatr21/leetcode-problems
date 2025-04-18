@@ -16,7 +16,7 @@ public:
         int lefth = height(res, node->left);
         int righth = height(res, node->right);
         int curh = 1 + max(lefth, righth);
-        if(res.size() == curh) res.resize(curh + 1);
+        if(res.size() == curh) res.push_back({});
         res[curh].push_back(node->val);
         return curh;
     }
