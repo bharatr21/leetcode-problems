@@ -1,36 +1,37 @@
 class LRUCache {
 public:
-    map<int, list<pair<int, int>>::iterator> mp;
-    list<pair<int, int>> lru;
+    unordered_map<int, list<pair<int, int>>::iterator> lru;
+    list<pair<int, int>> cache;
     int cap;
     LRUCache(int capacity) {
         cap = capacity;
     }
     
     int get(int key) {
-        auto it = mp.find(key);
-        if(it != mp.end()) {
-            auto listpos = it->second;
-            int val = listpos->second;
-            lru.erase(listpos);
-            lru.push_front({key, val});
-            mp[key] = lru.begin();
+        if(lru.count(key)) {
+            auto it = lru[key];
+            int val = it->second;
+            lru.erase(key);
+            cache.erase(it);
+            cache.push_front({key, val});
+            lru[key] = cache.begin();
             return val;
-        } else return -1;
-    }
-    
-    void put(int key, int value) {
-        auto it = mp.find(key);
-        if(it != mp.end()) {
-            auto listpos = it->second;
-            lru.erase(listpos);
         }
-        lru.push_front({key, value});
-        mp[key] = lru.begin();
-        if(lru.size() > cap) {
-            auto [key, val] = lru.back();
-            lru.pop_back();
-            mp.erase(key);
+        return -1;
+    }
+
+    void put(int key, int value) {
+        if(lru.count(key)) {
+            auto it = lru[key];
+            lru.erase(key);
+            cache.erase(it);
+        }
+        cache.push_front({key, value});
+        lru[key] = cache.begin();
+        if(cache.size() > cap) {
+            auto [key, val] = cache.back();
+            cache.pop_back();
+            lru.erase(key);
         }
     }
 };
