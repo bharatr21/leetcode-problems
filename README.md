@@ -1317,6 +1317,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/bharatr21/leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bharatr21/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/bharatr21/leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bharatr21/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Simulation
@@ -1394,6 +1395,7 @@
 | [2155-find-missing-observations](https://github.com/bharatr21/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/bharatr21/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/bharatr21/leetcode-problems/tree/master/2645-pass-the-pillow) |
@@ -1467,6 +1469,7 @@
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bharatr21/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/bharatr21/leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 ## Trie
 |  |
@@ -1713,6 +1716,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bharatr21/leetcode-problems/tree/master/0204-count-primes) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/bharatr21/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bharatr21/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
