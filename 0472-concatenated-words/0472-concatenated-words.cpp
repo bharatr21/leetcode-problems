@@ -4,7 +4,7 @@ public:
         vector<string> res;
         unordered_set<string> seen;
         sort(words.begin(), words.end(), [](string& s1, string& s2) {return s1.size() < s2.size();});
-        for(auto& word: words) {
+        for(string& word: words) {
             int n = word.size();
             vector<bool> dp(n+1, false);
             dp[0] = true;
