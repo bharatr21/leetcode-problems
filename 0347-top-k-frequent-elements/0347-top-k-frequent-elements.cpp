@@ -12,14 +12,16 @@ public:
         {
             mp[n]++;
         }
+        priority_queue<pair<int, int>> pq;
         for(auto u: mp)
         {
-            p.push_back({u.first, u.second});
+            pq.push({u.second, u.first});
         }
-        sort(p.begin(), p.end(), cmp);
         for(i = 0; i < k; i++)
         {
-            res.push_back(p[i].first);
+            auto [freq, el] = pq.top();
+            pq.pop();
+            res.push_back(el);
         }
         return res;
     }
