@@ -1,8 +1,5 @@
 class Solution {
 public:
-    static bool cmp(pair<int, int> &p1, pair<int, int> &p2) {
-        return p1.second > p2.second;
-    }
     vector<int> topKFrequent(vector<int>& nums, int k) {
         vector<int> res;
         unordered_map<int, int> mp;
