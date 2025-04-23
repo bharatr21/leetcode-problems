@@ -1,26 +1,25 @@
 class Solution {
 public:
-    int getMaxProfit(int idx, vector<vector<int>>& jobs, vector<int>& start, vector<int>& dp) {
-        int maxProfit = 0;
-        int n = start.size();
-        if(idx == n) return 0;
+    int solve(int idx, int n, vector<vector<int>>& info, vector<int>& startTime, vector<int>& dp) {
+        if(idx >= n) return 0;
+        if(idx == n-1) return (dp[n-1] = info[n-1][2]);
         if(dp[idx] != -1) return dp[idx];
-        int nextIdx = lower_bound(start.begin(), start.end(), jobs[idx][1]) - start.begin();
-        maxProfit = max(getMaxProfit(idx + 1, jobs, start, dp),
-        jobs[idx][2] + getMaxProfit(nextIdx, jobs, start, dp));
-        return (dp[idx] = maxProfit);
+        int res = 0;
+        int nextIdx = lower_bound(startTime.begin(), startTime.end(), info[idx][1]) - startTime.begin();
+        res = max(res, solve(idx + 1, n, info, startTime, dp));
+        res = max(res, info[idx][2] + solve(nextIdx, n, info, startTime, dp));
+        return (dp[idx] = res);
     }
     int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
-        int n = profit.size();
-        vector<vector<int>> jobs;
-        vector<int> sortedStart = startTime;
+        vector<vector<int>> info;
+        int n = startTime.size();
         for(int i = 0; i < n; i++) {
-            jobs.push_back({startTime[i], endTime[i], profit[i]});
+            info.push_back({startTime[i], endTime[i], profit[i]});
         }
-        sort(jobs.begin(), jobs.end());
-        sort(sortedStart.begin(), sortedStart.end());
-        vector<int> dp(n+1, -1);
-        getMaxProfit(0, jobs, sortedStart, dp);
+        vector<int> dp(n + 1, -1);
+        sort(startTime.begin(), startTime.end());
+        sort(info.begin(), info.end());
+        solve(0, n, info, startTime, dp);
         return dp[0];
     }
 };
