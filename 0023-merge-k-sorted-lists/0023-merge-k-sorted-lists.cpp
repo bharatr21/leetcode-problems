@@ -29,7 +29,7 @@ public:
             if(mn < 10001) {
                 node->next = new ListNode(mn);
                 node = node->next;
-                if(ptr != -1 && lists[ptr]) lists[ptr] = lists[ptr]->next;
+                if(lists[ptr]) lists[ptr] = lists[ptr]->next;
             }
         }
         return head->next;
