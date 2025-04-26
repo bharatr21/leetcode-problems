@@ -1,43 +1,26 @@
 class Solution {
 public:
-    bool isAdjacent(string word1, string word2) {
-        int n = word1.size(), res = 0;
+    bool hasEdge(string w1, string w2, int n) {
+        int diff = 0;
         for(int i = 0; i < n; i++) {
-            res += (word1[i] != word2[i]);
+            if(w1[i] != w2[i]) diff++;
         }
-        return (res == 1);
+        return (diff == 1);
     }
-    
+
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        int n = wordList.size();
-        unordered_map<string, vector<string>> adj;
-        for(int i = 0; i < n; i++) {
-            for(int j = i + 1; j < n; j++) {
-                string w1 = wordList[i], w2 = wordList[j];
-                if(isAdjacent(w1, w2)) {
-                    adj[w1].push_back(w2);
-                    adj[w2].push_back(w1);
-                }
-            }
-        }
-        if(find(wordList.begin(), wordList.end(), beginWord) == wordList.end()) {
-            for(int i = 0; i < n; i++) {
-                string w = wordList[i];
-                if(isAdjacent(beginWord, w)) adj[beginWord].push_back(w);
-            }
-        }
-        
-        unordered_set<string> seen;
+        int n = beginWord.size();
         queue<pair<string, int>> q;
+        unordered_set<string> seen; // Visited Set
         q.push({beginWord, 1});
         while(!q.empty()) {
-            auto [word, depth] = q.front();
+            auto [curWord, depth] = q.front();
             q.pop();
-            if(seen.count(word)) continue;
-            seen.insert(word);
-            for(string nextWord: adj[word]) {
-                if(nextWord == endWord) return (depth + 1);
-                q.push({nextWord, depth + 1});
+            if(!seen.empty() && seen.count(curWord)) continue;
+            if(curWord == endWord) return depth;
+            seen.insert(curWord);
+            for(string& word: wordList) {
+                if(hasEdge(curWord, word, n) && !seen.count(word)) q.push({word, depth + 1}); 
             }
         }
         return 0;
