@@ -389,6 +389,7 @@
 | [0339-nested-list-weight-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0364-nested-list-weight-sum-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/bharatr21/leetcode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0833-bus-routes](https://github.com/bharatr21/leetcode-problems/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
@@ -620,6 +621,7 @@
 | [0398-random-pick-index](https://github.com/bharatr21/leetcode-problems/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/bharatr21/leetcode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bharatr21/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
@@ -1176,6 +1178,7 @@
 | [0320-generalized-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0320-generalized-abbreviation) |
 | [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0408-valid-word-abbreviation) |
+| [0433-minimum-genetic-mutation](https://github.com/bharatr21/leetcode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/bharatr21/leetcode-problems/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/bharatr21/leetcode-problems/tree/master/0472-concatenated-words) |
 | [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
