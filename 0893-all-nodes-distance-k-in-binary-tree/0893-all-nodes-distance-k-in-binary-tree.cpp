@@ -9,17 +9,17 @@
  */
 class Solution {
 public:
-    void traverse(TreeNode* root, unordered_map<int, vector<int>>& adj) {
+    void buildGraph(TreeNode* root, unordered_map<int, vector<int>>& adj) {
         if(!root) return;
         if(root->left) {
             adj[root->left->val].push_back(root->val);
             adj[root->val].push_back(root->left->val);
-            traverse(root->left, adj);
+            buildGraph(root->left, adj);
         }
         if(root->right) {
             adj[root->right->val].push_back(root->val);
             adj[root->val].push_back(root->right->val);
-            traverse(root->right, adj);
+            buildGraph(root->right, adj);
         }
     }
 
@@ -27,7 +27,7 @@ public:
         unordered_map<int, vector<int>> adj;
         vector<int> res;
         if(!root || !target) return res;
-        traverse(root, adj);
+        buildGraph(root, adj);
         queue<pair<int, int>> q;
         unordered_set<int> seen;
         q.push({target->val, 0});
