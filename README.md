@@ -997,6 +997,7 @@
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatr21/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/bharatr21/leetcode-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3780-permutations-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3780-permutations-iii) |
 | [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
 ## Backtracking
