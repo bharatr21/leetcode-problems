@@ -13,7 +13,7 @@ public:
         if(!store.count(key)) return "";
         auto it = store[key].upper_bound(timestamp);
         if(it == store[key].begin()) return "";
-        else return prev(it)->second;
+        return prev(it)->second;
     }
 };
 
