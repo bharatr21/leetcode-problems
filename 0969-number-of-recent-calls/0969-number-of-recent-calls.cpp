@@ -1,15 +1,14 @@
 class RecentCounter {
 public:
-    vector<int> v;
+    list<int> data;
     RecentCounter() {
         
     }
     
     int ping(int t) {
-        v.push_back(t);
-        auto ub = upper_bound(v.begin(), v.end(), t - 3000);
-        if(ub == v.begin()) return v.size();
-        else return ((*prev(ub) == t - 3000) ? (v.size() - (prev(ub) - v.begin())) : (v.size() - 1 - (prev(ub) - v.begin())));
+        data.push_back(t);
+        while(data.front() < t - 3000) data.pop_front();
+        return data.size();
     }
 };
 
