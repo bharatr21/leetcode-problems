@@ -625,6 +625,7 @@
 | [0266-palindrome-permutation](https://github.com/bharatr21/leetcode-problems/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/bharatr21/leetcode-problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bharatr21/leetcode-problems/tree/master/0290-word-pattern) |
+| [0311-sparse-matrix-multiplication](https://github.com/bharatr21/leetcode-problems/tree/master/0311-sparse-matrix-multiplication) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -828,6 +829,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/bharatr21/leetcode-problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bharatr21/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0311-sparse-matrix-multiplication](https://github.com/bharatr21/leetcode-problems/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/bharatr21/leetcode-problems/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/bharatr21/leetcode-problems/tree/master/0322-coin-change) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0325-maximum-size-subarray-sum-equals-k) |
@@ -1291,6 +1293,7 @@
 | [0200-number-of-islands](https://github.com/bharatr21/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/bharatr21/leetcode-problems/tree/master/0221-maximal-square) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/bharatr21/leetcode-problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0311-sparse-matrix-multiplication](https://github.com/bharatr21/leetcode-problems/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/bharatr21/leetcode-problems/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0407-trapping-rain-water-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/bharatr21/leetcode-problems/tree/master/0419-battleships-in-a-board) |
