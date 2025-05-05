@@ -1364,6 +1364,7 @@
 | [0650-2-keys-keyboard](https://github.com/bharatr21/leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/bharatr21/leetcode-problems/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/bharatr21/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+| [0806-domino-and-tromino-tiling](https://github.com/bharatr21/leetcode-problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/bharatr21/leetcode-problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
