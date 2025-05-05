@@ -295,6 +295,7 @@
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0460-lfu-cache) |
 | [0716-max-stack](https://github.com/bharatr21/leetcode-problems/tree/master/0716-max-stack) |
 | [0725-split-linked-list-in-parts](https://github.com/bharatr21/leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -374,6 +375,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0460-lfu-cache) |
 | [0716-max-stack](https://github.com/bharatr21/leetcode-problems/tree/master/0716-max-stack) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -638,6 +640,7 @@
 | [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/bharatr21/leetcode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/bharatr21/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -1617,6 +1620,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bharatr21/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0460-lfu-cache) |
 | [0716-max-stack](https://github.com/bharatr21/leetcode-problems/tree/master/0716-max-stack) |
 | [0729-my-calendar-i](https://github.com/bharatr21/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
