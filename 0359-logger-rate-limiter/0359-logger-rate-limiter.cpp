@@ -6,9 +6,7 @@ public:
     }
     
     bool shouldPrintMessage(int timestamp, string message) {
-        if(mp.find(message) != mp.end() && abs(mp[message] - timestamp) < 10) {
-            return false;
-        }
+        if(mp.count(message) && timestamp - mp[message] < 10) return false;
         else {
             mp[message] = timestamp;
             return true;
