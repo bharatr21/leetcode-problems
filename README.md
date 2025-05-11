@@ -525,6 +525,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/bharatr21/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/bharatr21/leetcode-problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0362-design-hit-counter](https://github.com/bharatr21/leetcode-problems/tree/master/0362-design-hit-counter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -848,6 +849,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0360-sort-transformed-array](https://github.com/bharatr21/leetcode-problems/tree/master/0360-sort-transformed-array) |
+| [0362-design-hit-counter](https://github.com/bharatr21/leetcode-problems/tree/master/0362-design-hit-counter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bharatr21/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bharatr21/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
@@ -1492,6 +1494,7 @@
 | [0225-implement-stack-using-queues](https://github.com/bharatr21/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bharatr21/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0362-design-hit-counter](https://github.com/bharatr21/leetcode-problems/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/bharatr21/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1626,6 +1629,7 @@
 | [0251-flatten-2d-vector](https://github.com/bharatr21/leetcode-problems/tree/master/0251-flatten-2d-vector) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0359-logger-rate-limiter](https://github.com/bharatr21/leetcode-problems/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/bharatr21/leetcode-problems/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bharatr21/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0460-lfu-cache) |
@@ -1786,6 +1790,7 @@
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/bharatr21/leetcode-problems/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/bharatr21/leetcode-problems/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/bharatr21/leetcode-problems/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
