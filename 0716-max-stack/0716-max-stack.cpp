@@ -14,23 +14,23 @@ public:
     }
     
     int pop() {
-        auto [ct, x] = *st.rbegin();
-        st.erase(prev(st.end()));
+        auto [ct, x] = *(--st.end());
+        st.erase(--st.end());
         val.erase(val.find({x, ct}));
         return x;
     }
     
     int top() {
-        return st.rbegin()->second;
+        return (*(--st.end())).second;
     }
     
     int peekMax() {
-        return val.rbegin()->first;
+        return (*(--val.end())).first;
     }
     
     int popMax() {
-        auto [x, ct] = *val.rbegin();
-        val.erase(prev(val.end()));
+        auto [x, ct] = *(--val.end());
+        val.erase(--val.end());
         st.erase(st.find({ct, x}));
         return x;
     }
