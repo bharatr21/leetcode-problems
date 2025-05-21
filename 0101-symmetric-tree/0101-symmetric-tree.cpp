@@ -20,6 +20,6 @@ public:
     }
     bool isSymmetric(TreeNode* root) {
         if(!root) return true;
-        return helper(root, root);
+        return helper(root->left, root->right);
     }
 };
