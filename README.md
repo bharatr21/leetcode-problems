@@ -481,6 +481,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -521,6 +522,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bharatr21/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0173-binary-search-tree-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/bharatr21/leetcode-problems/tree/master/0268-missing-number) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -583,6 +585,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -1519,6 +1522,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bharatr21/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/bharatr21/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/bharatr21/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
@@ -1629,6 +1633,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/bharatr21/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bharatr21/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
@@ -1836,6 +1841,7 @@
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0251-flatten-2d-vector](https://github.com/bharatr21/leetcode-problems/tree/master/0251-flatten-2d-vector) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 ## String Matching
