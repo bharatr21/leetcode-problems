@@ -689,6 +689,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/bharatr21/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
+| [1366-first-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1366-first-unique-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bharatr21/leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/bharatr21/leetcode-problems/tree/master/1500-count-largest-group) |
@@ -925,6 +926,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1345-perform-string-shifts](https://github.com/bharatr21/leetcode-problems/tree/master/1345-perform-string-shifts) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bharatr21/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1366-first-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1366-first-unique-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1516,6 +1518,7 @@
 | [0859-design-circular-deque](https://github.com/bharatr21/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bharatr21/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/bharatr21/leetcode-problems/tree/master/0969-number-of-recent-calls) |
+| [1366-first-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1366-first-unique-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bharatr21/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bharatr21/leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/bharatr21/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1662,6 +1665,7 @@
 | [0859-design-circular-deque](https://github.com/bharatr21/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/bharatr21/leetcode-problems/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/bharatr21/leetcode-problems/tree/master/1023-time-based-key-value-store) |
+| [1366-first-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1366-first-unique-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bharatr21/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1814,6 +1818,7 @@
 | [0362-design-hit-counter](https://github.com/bharatr21/leetcode-problems/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bharatr21/leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/bharatr21/leetcode-problems/tree/master/0969-number-of-recent-calls) |
+| [1366-first-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1366-first-unique-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/bharatr21/leetcode-problems/tree/master/1582-design-browser-history) |
 ## Game Theory
