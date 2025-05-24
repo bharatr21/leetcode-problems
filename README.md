@@ -1485,6 +1485,7 @@
 | [0796-reaching-points](https://github.com/bharatr21/leetcode-problems/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/bharatr21/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0866-rectangle-overlap](https://github.com/bharatr21/leetcode-problems/tree/master/0866-rectangle-overlap) |
+| [0903-implement-rand10-using-rand7](https://github.com/bharatr21/leetcode-problems/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/bharatr21/leetcode-problems/tree/master/0912-random-pick-with-weight) |
 | [1119-robot-bounded-in-circle](https://github.com/bharatr21/leetcode-problems/tree/master/1119-robot-bounded-in-circle) |
 | [1166-toss-strange-coins](https://github.com/bharatr21/leetcode-problems/tree/master/1166-toss-strange-coins) |
@@ -1691,6 +1692,7 @@
 ## Probability and Statistics
 |  |
 | ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/bharatr21/leetcode-problems/tree/master/0903-implement-rand10-using-rand7) |
 | [1166-toss-strange-coins](https://github.com/bharatr21/leetcode-problems/tree/master/1166-toss-strange-coins) |
 ## Sliding Window
 |  |
@@ -1843,6 +1845,7 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/bharatr21/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/bharatr21/leetcode-problems/tree/master/0398-random-pick-index) |
+| [0903-implement-rand10-using-rand7](https://github.com/bharatr21/leetcode-problems/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/bharatr21/leetcode-problems/tree/master/0912-random-pick-with-weight) |
 ## Eulerian Circuit
 |  |
@@ -1941,4 +1944,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/bharatr21/leetcode-problems/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
