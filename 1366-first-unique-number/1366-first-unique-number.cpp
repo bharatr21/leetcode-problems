@@ -1,22 +1,28 @@
 class FirstUnique {
 public:
-    unordered_map<int, int> fre;
+    unordered_map<int, bool> uniq;
     queue<int> q;
     FirstUnique(vector<int>& nums) {
         for(int n: nums) {
-            fre[n]++;
-            q.push(n);
+            if(!uniq.count(n)) {
+                uniq[n] = true;
+                q.push(n);
+            }
+            else if(uniq[n]) uniq[n] = false;
         }
     }
     
     int showFirstUnique() {
-        while(!q.empty() && fre[q.front()] > 1) q.pop();
-        return (q.empty() ? -1: q.front());
+        while(!q.empty() && uniq.count(q.front()) && !uniq[q.front()]) q.pop();
+        return (q.empty() ? -1 : q.front());
     }
     
     void add(int value) {
-        fre[value]++;
-        q.push(value);
+        if(!uniq.count(value)) {
+            uniq[value] = true;
+            q.push(value);
+        }
+        else if(uniq[value]) uniq[value] = false;
     }
 };
 
