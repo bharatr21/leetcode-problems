@@ -372,6 +372,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
 ## Doubly-Linked List
 |  |
@@ -423,6 +424,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
 ## Graph
 |  |
@@ -519,6 +521,7 @@
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/bharatr21/leetcode-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/bharatr21/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
