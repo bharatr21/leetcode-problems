@@ -638,6 +638,7 @@
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/bharatr21/leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bharatr21/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/bharatr21/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/bharatr21/leetcode-problems/tree/master/0202-happy-number) |
@@ -835,6 +836,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/bharatr21/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/bharatr21/leetcode-problems/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/bharatr21/leetcode-problems/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/bharatr21/leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bharatr21/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -1466,6 +1468,7 @@
 | [0012-integer-to-roman](https://github.com/bharatr21/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/bharatr21/leetcode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/bharatr21/leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bharatr21/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bharatr21/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/bharatr21/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
@@ -1843,6 +1846,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/bharatr21/leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [0866-rectangle-overlap](https://github.com/bharatr21/leetcode-problems/tree/master/0866-rectangle-overlap) |
 ## Randomized
 |  |
