@@ -1518,6 +1518,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bharatr21/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/bharatr21/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3216-distribute-candies-among-children-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3216-distribute-candies-among-children-iii) |
 | [3227-find-missing-and-repeated-values](https://github.com/bharatr21/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bharatr21/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/bharatr21/leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
@@ -1592,6 +1593,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bharatr21/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3216-distribute-candies-among-children-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3216-distribute-candies-among-children-iii) |
 | [3548-find-the-count-of-good-integers](https://github.com/bharatr21/leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 ## Trie
 |  |
