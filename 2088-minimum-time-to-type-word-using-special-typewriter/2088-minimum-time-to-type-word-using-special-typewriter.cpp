@@ -5,7 +5,7 @@ public:
         char cur = 'a';
         for(char ch: word) {
             int diff = abs(cur - ch);
-            res += min(diff, 26 - diff) + 1;
+            res += min(diff + 1, 27 - diff);
             cur = ch;
         }
         return res;
