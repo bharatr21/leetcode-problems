@@ -1,26 +1,26 @@
 class Solution {
 public:
-    bool hasEdge(string w1, string w2, int n) {
-        int diff = 0;
+    bool diff(string s1, string s2) {
+        int n = s1.size(), res = 0;
+        if(s2.size() != n) return false;
         for(int i = 0; i < n; i++) {
-            if(w1[i] != w2[i]) diff++;
+            if(s1[i] != s2[i]) res++;
         }
-        return (diff == 1);
+        return (res == 1);
     }
 
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        int n = beginWord.size();
         queue<pair<string, int>> q;
-        unordered_set<string> seen; // Visited Set
+        unordered_set<string> vis;
         q.push({beginWord, 1});
         while(!q.empty()) {
-            auto [curWord, depth] = q.front();
+            auto [curWord, level] = q.front();
             q.pop();
-            if(!seen.empty() && seen.count(curWord)) continue;
-            if(curWord == endWord) return depth;
-            seen.insert(curWord);
-            for(string& word: wordList) {
-                if(hasEdge(curWord, word, n) && !seen.count(word)) q.push({word, depth + 1}); 
+            if(curWord == endWord) return level;
+            if(vis.count(curWord)) continue;
+            vis.insert(curWord);
+            for(string word: wordList) {
+                if(diff(curWord, word)) q.push({word, level + 1});
             }
         }
         return 0;
