@@ -350,6 +350,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bharatr21/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/bharatr21/leetcode-problems/tree/master/0565-array-nesting) |
+| [0572-subtree-of-another-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -515,6 +516,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0366-find-leaves-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -628,6 +630,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -1827,6 +1830,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/bharatr21/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/bharatr21/leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/bharatr21/leetcode-problems/tree/master/0817-design-hashmap) |
 | [1060-longest-repeating-substring](https://github.com/bharatr21/leetcode-problems/tree/master/1060-longest-repeating-substring) |
@@ -1931,6 +1935,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/bharatr21/leetcode-problems/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
