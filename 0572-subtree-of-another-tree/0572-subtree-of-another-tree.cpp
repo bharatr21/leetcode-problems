@@ -11,18 +11,20 @@
  */
 class Solution {
 public:
-    bool isSametree(TreeNode* p, TreeNode* q) {
-        if(!p && q || p && !q) return false;
+    bool isSame(TreeNode* p, TreeNode* q) {
         if(!p && !q) return true;
-        else return ((p->val == q->val) && isSametree(p->left, q->left) && isSametree(p->right, q->right));
+        if(!p || !q) return false;
+        return (p->val == q->val) && isSame(p->left, q->left) && isSame(p->right, q->right);
     }
+
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(!root && subRoot) return false;
+        bool val;
         if(!subRoot) return true;
-            return ((root->val == subRoot->val) && 
-                isSametree(root->left, subRoot->left) && 
-                isSametree(root->right, subRoot->right)) ||
-                isSubtree(root->left, subRoot) || 
-                isSubtree(root->right, subRoot);
+        if(!root && subRoot) return false;
+        val = isSubtree(root->left, subRoot);
+        val = val || isSubtree(root->right, subRoot);
+        if (root->val == subRoot->val) return val || isSame(root, subRoot);
+        return val;
+
     }
 };
