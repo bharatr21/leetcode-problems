@@ -10,22 +10,21 @@
 class Solution {
 public:
     bool exists(TreeNode* root, TreeNode* node) {
-        if(!node || !root) return false;
         if(root == node) return true;
-        return (exists(root->left, node) || exists(root->right, node));
+        if(!root) return false;
+        return exists(root->left, node) || exists(root->right, node);
     }
     TreeNode* lca(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root == p || root == q) return root;
-        if(!root) return NULL;
+        if(!root || root == p || root == q) return root;
         if(!p) return q;
         if(!q) return p;
-        TreeNode* left = lca(root->left, p, q);
-        TreeNode* right = lca(root->right, p, q);
-        if(left && right) return root;
-        return ((left) ? left : right);
+        TreeNode* llca = lca(root->left, p, q);
+        TreeNode* rlca = lca(root->right, p, q);
+        if(llca && rlca) return root;
+        return ((llca) ? llca : rlca);
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(!root || !exists(root, p) || !exists(root, q)) return NULL;
+        if(!root || !exists(root, p) || !exists(root, q)) return nullptr;
         return lca(root, p, q);
     }
 };
