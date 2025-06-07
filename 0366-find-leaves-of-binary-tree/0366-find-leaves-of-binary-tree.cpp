@@ -11,20 +11,27 @@
  */
 class Solution {
 public:
-    int height(vector<vector<int>>& res, TreeNode* node) {
-        if(!node) return -1;
-        int lefth = height(res, node->left);
-        int righth = height(res, node->right);
-        int curh = 1 + max(lefth, righth);
-        if(res.size() == curh) res.push_back({});
-        res[curh].push_back(node->val);
-        return curh;
+    int getHeight(TreeNode* node, vector<vector<int>>& heights) {
+        if(!node) {
+            heights[0].push_back(-1);
+            return 0;
+        }
+        int lh = getHeight(node->left, heights);
+        int rh = getHeight(node->right, heights);
+        int resh = 1 + max(lh, rh);
+        if(heights.size() <= resh) heights.resize(resh + 1);
+        heights[resh].push_back(node->val);
+        return resh;
     }
-
     vector<vector<int>> findLeaves(TreeNode* root) {
-        vector<vector<int>> res;
+        vector<vector<int>> res, heights;
+        heights.push_back({});
         if(!root) return res;
-        height(res, root);
+        getHeight(root, heights);
+        int n = heights.size();
+        for(int i = 1; i < n; i++) {
+            res.push_back(heights[i]);
+        }
         return res;
     }
 };
