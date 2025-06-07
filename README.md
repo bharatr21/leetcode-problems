@@ -345,6 +345,7 @@
 | [0386-lexicographical-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/bharatr21/leetcode-problems/tree/master/0419-battleships-in-a-board) |
 | [0472-concatenated-words](https://github.com/bharatr21/leetcode-problems/tree/master/0472-concatenated-words) |
+| [0543-diameter-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bharatr21/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/bharatr21/leetcode-problems/tree/master/0565-array-nesting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -508,6 +509,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0366-find-leaves-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0366-find-leaves-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -618,6 +620,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0366-find-leaves-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
