@@ -14,11 +14,10 @@ public:
         if(!root || root == p || root == q) return root;
         if(!p) return q;
         if(!q) return p;
-        TreeNode* llca = lca(root->left, p, q);
-        TreeNode* rlca = lca(root->right, p, q);
-        if(llca && rlca) return root;
-        else return ((llca) ? llca : rlca);
-
+        TreeNode *left = root->left, *right = root->right;
+        if(root->val > max(p->val, q->val)) return lca(root->left, p, q);
+        else if(root->val < min(p->val, q->val)) return lca(root->right, p, q);
+        return root;
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         if(!root) return root;
