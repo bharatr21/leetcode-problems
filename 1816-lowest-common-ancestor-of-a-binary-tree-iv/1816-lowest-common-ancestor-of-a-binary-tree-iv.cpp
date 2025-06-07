@@ -12,17 +12,18 @@
 class Solution {
 public:
     TreeNode* lca(TreeNode* root, vector<TreeNode*> &nodes) {
-        if(!root) return NULL;
-        for(auto node: nodes) {
+        if(!root) return root;
+        for(TreeNode* node: nodes) {
             if(root == node) return root;
         }
-        TreeNode* left = lca(root->left, nodes);
-        TreeNode* right = lca(root->right, nodes);
-        if(left && right) return root;
-        return ((left) ? left: right);
+        TreeNode* llca = lca(root->left, nodes);
+        TreeNode* rlca = lca(root->right, nodes);
+        if(llca && rlca) return root;
+        return ((llca) ? llca : rlca);
     }
+    
     TreeNode* lowestCommonAncestor(TreeNode* root, vector<TreeNode*> &nodes) {
-        if(!root) return NULL;
+        if(!root) return root;
         return lca(root, nodes);
     }
 };
