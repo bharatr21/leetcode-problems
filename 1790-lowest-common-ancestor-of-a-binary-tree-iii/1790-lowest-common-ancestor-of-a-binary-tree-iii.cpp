@@ -12,15 +12,15 @@ public:
 class Solution {
 public:
     Node* lowestCommonAncestor(Node* p, Node * q) {
+        Node *pp = p, *qq = q;
         vector<Node*> ppath, qpath;
-        Node *tp = p, *tq = q;
-        while(tp) {
-            ppath.push_back(tp);
-            tp = tp->parent;
+        while(pp) {
+            ppath.push_back(pp);
+            pp = pp->parent;
         }
-        while(tq) {
-            qpath.push_back(tq);
-            tq = tq->parent;
+        while(qq) {
+            qpath.push_back(qq);
+            qq = qq->parent;
         }
         int m = ppath.size(), n = qpath.size();
         int i = m - 1, j = n - 1;
@@ -28,6 +28,6 @@ public:
             i--;
             j--;
         }
-        return ppath[i+1];
+        return qpath[j+1];
     }
 };
