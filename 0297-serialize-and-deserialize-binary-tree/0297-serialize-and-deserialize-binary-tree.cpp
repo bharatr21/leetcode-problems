@@ -1,9 +1,6 @@
-#include <string>
-#include <sstream>
-
 class Codec {
 public:
-    void serialrecur(TreeNode* root, std::stringstream& ss) {
+    void serialrecur(TreeNode* root, stringstream& ss) {
         if (!root) {
             ss << "null,";
             return;
@@ -13,24 +10,24 @@ public:
         serialrecur(root->right, ss);
     }
 
-    std::string serialize(TreeNode* root) {
-        std::stringstream ss;
+    string serialize(TreeNode* root) {
+        stringstream ss;
         serialrecur(root, ss);
         return ss.str();
     }
 
-    TreeNode* deserialrecur(std::stringstream& ss) {
-        std::string token;
-        if (!std::getline(ss, token, ',')) return nullptr;
+    TreeNode* deserialrecur(stringstream& ss) {
+        string token;
+        if (!getline(ss, token, ',')) return nullptr;
         if (token == "null") return nullptr;
-        TreeNode* node = new TreeNode(std::stoi(token));
+        TreeNode* node = new TreeNode(stoi(token));
         node->left = deserialrecur(ss);
         node->right = deserialrecur(ss);
         return node;
     }
 
-    TreeNode* deserialize(const std::string& data) {
-        std::stringstream ss(data);
+    TreeNode* deserialize(const string& data) {
+        stringstream ss(data);
         return deserialrecur(ss);
     }
 };
