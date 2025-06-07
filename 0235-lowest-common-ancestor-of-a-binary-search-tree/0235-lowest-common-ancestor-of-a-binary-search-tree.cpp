@@ -11,8 +11,7 @@
 class Solution {
 public:
     TreeNode* lca(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root == p || root == q) return root;
-        if(!root) return root;
+        if(!root || root == p || root == q) return root;
         if(!p) return q;
         if(!q) return p;
         TreeNode* llca = lca(root->left, p, q);
