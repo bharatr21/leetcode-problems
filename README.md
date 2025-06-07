@@ -330,6 +330,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0269-alien-dictionary](https://github.com/bharatr21/leetcode-problems/tree/master/0269-alien-dictionary) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/bharatr21/leetcode-problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/bharatr21/leetcode-problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -395,6 +396,7 @@
 | [0200-number-of-islands](https://github.com/bharatr21/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/bharatr21/leetcode-problems/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/bharatr21/leetcode-problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/bharatr21/leetcode-problems/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -493,6 +495,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0366-find-leaves-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0366-find-leaves-of-binary-tree) |
@@ -599,6 +602,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0366-find-leaves-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1253,6 +1257,7 @@
 | [0269-alien-dictionary](https://github.com/bharatr21/leetcode-problems/tree/master/0269-alien-dictionary) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/bharatr21/leetcode-problems/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0320-generalized-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0320-generalized-abbreviation) |
 | [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0408-valid-word-abbreviation) |
@@ -1685,6 +1690,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/bharatr21/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0244-shortest-word-distance-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/bharatr21/leetcode-problems/tree/master/0251-flatten-2d-vector) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0359-logger-rate-limiter](https://github.com/bharatr21/leetcode-problems/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/bharatr21/leetcode-problems/tree/master/0362-design-hit-counter) |
