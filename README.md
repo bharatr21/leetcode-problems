@@ -308,6 +308,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/bharatr21/leetcode-problems/tree/master/1582-design-browser-history) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/bharatr21/leetcode-problems/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
+| [1905-design-authentication-manager](https://github.com/bharatr21/leetcode-problems/tree/master/1905-design-authentication-manager) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bharatr21/leetcode-problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bharatr21/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -384,6 +385,7 @@
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/bharatr21/leetcode-problems/tree/master/1582-design-browser-history) |
+| [1905-design-authentication-manager](https://github.com/bharatr21/leetcode-problems/tree/master/1905-design-authentication-manager) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -713,6 +715,7 @@
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/bharatr21/leetcode-problems/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1883-find-distance-in-a-binary-tree) |
 | [1903-design-most-recently-used-queue](https://github.com/bharatr21/leetcode-problems/tree/master/1903-design-most-recently-used-queue) |
+| [1905-design-authentication-manager](https://github.com/bharatr21/leetcode-problems/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bharatr21/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
@@ -1703,6 +1706,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/bharatr21/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/bharatr21/leetcode-problems/tree/master/1582-design-browser-history) |
 | [1903-design-most-recently-used-queue](https://github.com/bharatr21/leetcode-problems/tree/master/1903-design-most-recently-used-queue) |
+| [1905-design-authentication-manager](https://github.com/bharatr21/leetcode-problems/tree/master/1905-design-authentication-manager) |
 | [2169-simple-bank-system](https://github.com/bharatr21/leetcode-problems/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/bharatr21/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 ## Binary Indexed Tree
