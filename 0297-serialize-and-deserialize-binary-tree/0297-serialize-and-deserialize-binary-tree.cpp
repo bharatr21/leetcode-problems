@@ -1,50 +1,36 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
+#include <string>
+#include <sstream>
+
 class Codec {
 public:
-    void serialrecur(TreeNode* root, string& res) {
-        if(!root) {res += "null,"; return;}
-        res += to_string(root->val) + ',';
-        serialrecur(root->left, res);
-        serialrecur(root->right, res);
-    }
-    // Encodes a tree to a single string.
-    string serialize(TreeNode* root) {
-        string res;
-        serialrecur(root, res);
-        return res;
+    void serialrecur(TreeNode* root, std::stringstream& ss) {
+        if (!root) {
+            ss << "null,";
+            return;
+        }
+        ss << root->val << ',';
+        serialrecur(root->left, ss);
+        serialrecur(root->right, ss);
     }
 
-    TreeNode* deserialrecur(vector<string>& tree, int& idx) {
-        if(tree[idx] == "null") {
-            idx++;
-            return nullptr;
-        }
-        TreeNode* node = new TreeNode(stoi(tree[idx++]));
-        node->left = deserialrecur(tree, idx);
-        node->right = deserialrecur(tree, idx);
+    std::string serialize(TreeNode* root) {
+        std::stringstream ss;
+        serialrecur(root, ss);
+        return ss.str();
+    }
+
+    TreeNode* deserialrecur(std::stringstream& ss) {
+        std::string token;
+        if (!std::getline(ss, token, ',')) return nullptr;
+        if (token == "null") return nullptr;
+        TreeNode* node = new TreeNode(std::stoi(token));
+        node->left = deserialrecur(ss);
+        node->right = deserialrecur(ss);
         return node;
     }
-    // Decodes your encoded data to tree.
-    TreeNode* deserialize(string data) {
-        vector<string> tree;
-        stringstream ss(data);
-        string tmp;
-        while(getline(ss, tmp, ',')) {
-            tree.push_back(tmp);
-        }
-        int idx = 0;
-        return deserialrecur(tree, idx);
+
+    TreeNode* deserialize(const std::string& data) {
+        std::stringstream ss(data);
+        return deserialrecur(ss);
     }
 };
-
-// Your Codec object will be instantiated and called as such:
-// Codec ser, deser;
-// TreeNode* ans = deser.deserialize(ser.serialize(root));
