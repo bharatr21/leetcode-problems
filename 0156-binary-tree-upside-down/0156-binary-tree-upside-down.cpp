@@ -11,15 +11,17 @@
  */
 class Solution {
 public:
-    TreeNode* flip(TreeNode* root, TreeNode* parent, TreeNode* sibling) {
-        if(!root) return parent;
-        TreeNode* lnode = root->left;
-        TreeNode* rnode = root->right;
-        root->left = sibling;
-        root->right = parent;
-        return flip(lnode, root, rnode);
-    }
     TreeNode* upsideDownBinaryTree(TreeNode* root) {
-        return flip(root, NULL, NULL);
+        if(!root) return root;
+        TreeNode* lnode = root->left;
+        TreeNode* r = upsideDownBinaryTree(lnode);
+        if(lnode) {
+            TreeNode* rnode = root->right;
+            lnode->left = rnode;
+            lnode->right = root;
+            root->left = nullptr;
+            root->right = nullptr;
+        }
+        return ((r) ? r : root);
     }
 };
