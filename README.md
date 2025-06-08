@@ -355,6 +355,7 @@
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/bharatr21/leetcode-problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/bharatr21/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/bharatr21/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -422,6 +423,7 @@
 | [0547-number-of-provinces](https://github.com/bharatr21/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/bharatr21/leetcode-problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/bharatr21/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/bharatr21/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0833-bus-routes](https://github.com/bharatr21/leetcode-problems/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
@@ -488,6 +490,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/bharatr21/leetcode-problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/bharatr21/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bharatr21/leetcode-problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/bharatr21/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/bharatr21/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -938,6 +941,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/bharatr21/leetcode-problems/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
+| [0695-max-area-of-island](https://github.com/bharatr21/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/bharatr21/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/bharatr21/leetcode-problems/tree/master/0729-my-calendar-i) |
@@ -1401,6 +1405,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/bharatr21/leetcode-problems/tree/master/0419-battleships-in-a-board) |
 | [0566-reshape-the-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/bharatr21/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
