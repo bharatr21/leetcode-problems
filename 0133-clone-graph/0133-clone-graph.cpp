@@ -21,26 +21,20 @@ public:
 
 class Solution {
 public:
-    void dfs(Node* node, unordered_map<Node*, Node*>& vis) {
-        Node* clone = new Node(node->val);
-        vis[node] = clone;
-        for(auto neighbor: node->neighbors)
-        {
-            if(vis.find(neighbor) != vis.end())
-            {
-                clone->neighbors.push_back(vis[neighbor]);
-            }
-            else
-            {
-                dfs(neighbor, vis);
-                clone->neighbors.push_back(vis[neighbor]);
-            }
+    void helper(Node* node, unordered_map<Node*, Node*>& vis) {
+        if(!node || vis.count(node)) return;
+        Node* tmp = new Node(node->val);
+        vis[node] = tmp;
+        for(Node* neigh: node->neighbors) {
+            helper(neigh, vis);
+            tmp->neighbors.push_back(vis[neigh]);
         }
     }
+
     Node* cloneGraph(Node* node) {
-        if(!node) return NULL;
+        if(!node) return nullptr;
         unordered_map<Node*, Node*> vis;
-        dfs(node, vis);
+        helper(node, vis);
         return vis[node];
     }
 };
