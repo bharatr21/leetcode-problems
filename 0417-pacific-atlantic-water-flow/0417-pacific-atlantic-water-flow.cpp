@@ -1,62 +1,56 @@
 class Solution {
 public:
-    bool isValid(int i, int j, int m, int n) {
-        return (0 <= i && i < m) && (0 <= j && j < n);
-    }
-    void reachable(queue<pair<int, int>> &q, vector<vector<int>>& vis, 
-    vector<vector<int>>& heights) {
-        vector<vector<int>> dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        int m = heights.size(), n = heights[0].size();
-        while(!q.empty())
-        {
-            auto [x, y] = q.front();
-            // cout << "(" << x << ", " << y << ")";
-            // cout << "(" << heights[x][y] << ", " << y << ")";
-            q.pop();
-            for(int k = 0; k < 4; k++)
-            {
-                int nx = x + dirs[k][0];
-                int ny = y + dirs[k][1];
-                if(isValid(nx, ny, m, n) && !vis[nx][ny] && (heights[nx][ny] >= heights[x][y]))
-                {
-                    vis[nx][ny] = 1;
-                    q.push({nx, ny});
-                }
-            }
-        }
-    }
+    bool isValid(int x, int y, int m, int n) {return (x >= 0 && x < m && y >= 0 && y < n);}
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
-        int m = heights.size(), n = heights[0].size(), i, j;
-        vector<vector<int>> pvis(m, vector<int>(n, 0));
-        vector<vector<int>> avis(m, vector<int>(n, 0));
         vector<vector<int>> res;
+        int m = heights.size(), n = heights[0].size();
+        vector<vector<bool>> pvis(m, vector<bool>(n, false)), avis(m, vector<bool>(n, false));
+        vector<pair<int, int>> dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
         queue<pair<int, int>> pq, aq;
-        for(i = 0; i < m; i++)
-        {
-            for(j = 0; j < n; j++)
-            {
-                if(i == 0 || j == 0)
-                {
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(i == 0 || j == 0) {
+                    pvis[i][j] = true;
                     pq.push({i, j});
-                    pvis[i][j] = 1;
                 }
-                if(i == m - 1 || j == n - 1)
-                {
+                if(i == m - 1 || j == n - 1) {
+                    avis[i][j] = true;
                     aq.push({i, j});
-                    avis[i][j] = 1;
                 }
             }
         }
-        reachable(pq, pvis, heights);
-        reachable(aq, avis, heights);
-        for(i = 0; i < m; i++)
-        {
-            for(j = 0; j < n; j++)
-            {
-                if(pvis[i][j] && avis[i][j])
-                {
-                    res.push_back({i, j});
+
+        while(!pq.empty()) {
+            auto [r, c] = pq.front();
+            pvis[r][c] = true;
+            pq.pop();
+            for(int i = 0; i < 4; i++) {
+                auto [dr, dc] = dirs[i];
+                int nr = r + dr, nc = c + dc;
+            if(isValid(nr, nc, m, n) && !pvis[nr][nc] && heights[nr][nc] >= heights[r][c]) {
+
+                    pq.push({nr, nc});
                 }
+            }
+        }
+
+        while(!aq.empty()) {
+            auto [r, c] = aq.front();
+            avis[r][c] = true;
+            aq.pop();
+            for(int i = 0; i < 4; i++) {
+                auto [dr, dc] = dirs[i];
+                int nr = r + dr, nc = c + dc;
+            if(isValid(nr, nc, m, n) && !avis[nr][nc] && heights[nr][nc] >= heights[r][c]) {
+
+                    aq.push({nr, nc});
+                }
+            }
+        }
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(pvis[i][j] && avis[i][j]) res.push_back({i, j});
             }
         }
         return res;
