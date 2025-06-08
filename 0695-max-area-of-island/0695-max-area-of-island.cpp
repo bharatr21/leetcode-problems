@@ -1,41 +1,32 @@
 class Solution {
 public:
-    bool isValid(int i, int j, int m, int n)
-    {
-        return (0 <= i && i < m) && (0 <= j && j < n);
+    bool isValid(int x, int y, int m, int n) {
+        return (x >= 0 && x < m && y >= 0 && y < n);
     }
+    int dfs(int x, int y, vector<vector<int>>& grid, vector<vector<bool>>& vis) {
+        int m = grid.size(), n = grid[0].size();
+        int sz = 1;
+        vis[x][y] = true;
+        vector<pair<int, int>> dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+        for(int i = 0; i < 4; i++) {
+            auto [dx, dy] = dirs[i];
+            int nx = x + dx, ny = y + dy;
+            if(isValid(nx, ny, m, n) && grid[nx][ny] && !vis[nx][ny]) sz += dfs(nx, ny, grid, vis);
+        }
+        return sz;
+    }
+
     int maxAreaOfIsland(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size(), i, j;
-        int mx = 0, ct = 0;
-        vector<vector<int>> vis(m, vector<int>(n, 0));
-        queue<pair<int, int>> q;
-        for(i = 0; i < m; i++)
-        {
-            for(j = 0; j < n; j++)
-            {
-                if(!vis[i][j] && grid[i][j] == 1)
-                {
-                    q.push({i, j});
-                    ct = 0;
-                    while(!q.empty())
-                    {
-                        vector<vector<int>> dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-                        auto [x, y] = q.front();
-                        q.pop();    
-                        if(isValid(x, y, m, n) && !vis[x][y] && grid[x][y] == 1)
-                        {
-                            ct++;
-                            vis[x][y] = 1;
-                            for(int k = 0; k < 4; k++)
-                            {
-                                q.push({x + dirs[k][0], y + dirs[k][1]});
-                            }
-                        }
-                    }
-                    mx = max(mx, ct);
+        int m = grid.size(), n = grid[0].size();
+        vector<vector<bool>> vis(m, vector<bool>(n, false));
+        int res = 0;
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(grid[i][j] && !vis[i][j]) {
+                    res = max(res, dfs(i, j, grid, vis));
                 }
             }
         }
-        return mx;       
+        return res;
     }
 };
