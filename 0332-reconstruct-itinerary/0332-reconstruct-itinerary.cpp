@@ -4,7 +4,7 @@ public:
         while(!adj[src].empty()) {
             auto dst = adj[src].back();
             adj[src].pop_back();
-            dfs(dst, adj, res); 
+            dfs(dst, adj, res);
         }
         res.push_back(src);
     }
@@ -12,13 +12,13 @@ public:
     vector<string> findItinerary(vector<vector<string>>& tickets) {
         vector<string> res;
         unordered_map<string, vector<string>> adj;
-        for(vector<string> v: tickets) {
-            string src = v[0], dst = v[1];
+        int n = tickets.size();
+        for(vector<string>& e: tickets) {
+            string src = e[0], dst = e[1];
             adj[src].push_back(dst);
         }
-        for(auto it: adj) {
-            sort(adj[it.first].begin(), adj[it.first].end(), greater<string>());
-        }
+        for(auto item: adj)
+        sort(adj[item.first].begin(), adj[item.first].end(), greater<string>());
         dfs("JFK", adj, res);
         reverse(res.begin(), res.end());
         return res;
