@@ -534,6 +534,7 @@
 | [0226-invert-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -581,6 +582,7 @@
 | [0162-find-peak-element](https://github.com/bharatr21/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0268-missing-number](https://github.com/bharatr21/leetcode-problems/tree/master/0268-missing-number) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0275-h-index-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0275-h-index-ii) |
@@ -628,6 +630,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/bharatr21/leetcode-problems/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
 | [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -650,6 +653,7 @@
 | [0226-invert-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -914,6 +918,7 @@
 | [0243-shortest-word-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/bharatr21/leetcode-problems/tree/master/0251-flatten-2d-vector) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0256-paint-house](https://github.com/bharatr21/leetcode-problems/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0265-paint-house-ii) |
 | [0268-missing-number](https://github.com/bharatr21/leetcode-problems/tree/master/0268-missing-number) |
@@ -1635,6 +1640,7 @@
 | [0225-implement-stack-using-queues](https://github.com/bharatr21/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/bharatr21/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0364-nested-list-weight-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0364-nested-list-weight-sum-ii) |
@@ -2000,6 +2006,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bharatr21/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0496-next-greater-element-i](https://github.com/bharatr21/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bharatr21/leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bharatr21/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
