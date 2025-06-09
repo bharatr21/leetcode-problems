@@ -334,6 +334,7 @@
 | [0226-invert-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/bharatr21/leetcode-problems/tree/master/0269-alien-dictionary) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -412,6 +413,7 @@
 | [0200-number-of-islands](https://github.com/bharatr21/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/bharatr21/leetcode-problems/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/bharatr21/leetcode-problems/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -458,6 +460,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/bharatr21/leetcode-problems/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/bharatr21/leetcode-problems/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/bharatr21/leetcode-problems/tree/master/0277-find-the-celebrity) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/bharatr21/leetcode-problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -494,6 +497,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bharatr21/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/bharatr21/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/bharatr21/leetcode-problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/bharatr21/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bharatr21/leetcode-problems/tree/master/0684-redundant-connection) |
