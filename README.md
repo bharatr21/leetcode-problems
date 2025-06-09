@@ -435,6 +435,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/bharatr21/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/bharatr21/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -973,6 +974,7 @@
 | [0952-word-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/bharatr21/leetcode-problems/tree/master/0979-di-string-match) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/bharatr21/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/bharatr21/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bharatr21/leetcode-problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/bharatr21/leetcode-problems/tree/master/1074-high-five) |
@@ -1420,6 +1422,7 @@
 | [0854-making-a-large-island](https://github.com/bharatr21/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/bharatr21/leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/bharatr21/leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/bharatr21/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bharatr21/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
