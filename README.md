@@ -291,6 +291,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/bharatr21/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/bharatr21/leetcode-problems/tree/master/0061-rotate-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bharatr21/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/bharatr21/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bharatr21/leetcode-problems/tree/master/0141-linked-list-cycle) |
@@ -324,6 +325,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bharatr21/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/bharatr21/leetcode-problems/tree/master/0133-clone-graph) |
@@ -412,6 +414,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bharatr21/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/bharatr21/leetcode-problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/bharatr21/leetcode-problems/tree/master/0133-clone-graph) |
@@ -531,6 +534,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bharatr21/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -652,6 +656,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bharatr21/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
