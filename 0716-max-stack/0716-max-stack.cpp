@@ -1,37 +1,37 @@
 class MaxStack {
 public:
-    set<pair<int, int>> st;
     set<pair<int, int>> val;
+    set<pair<int, int>> id;
     int ct;
     MaxStack() {
         ct = 0;
     }
     
     void push(int x) {
-        st.insert({ct, x});
         val.insert({x, ct});
+        id.insert({ct, x});
         ct++;
     }
     
     int pop() {
-        auto [ct, x] = *(--st.end());
-        st.erase(--st.end());
+        auto [ct, x] = *(--id.end());
+        id.erase(--id.end());
         val.erase(val.find({x, ct}));
         return x;
     }
     
     int top() {
-        return (*(--st.end())).second;
+        return (--id.end())->second;
     }
     
     int peekMax() {
-        return (*(--val.end())).first;
+        return (--val.end())->first;
     }
     
     int popMax() {
         auto [x, ct] = *(--val.end());
         val.erase(--val.end());
-        st.erase(st.find({ct, x}));
+        id.erase(id.find({ct, x}));
         return x;
     }
 };
