@@ -35,7 +35,6 @@ public:
         unordered_map<string, int> emailGroup;
         for(int i = 0; i < n; i++) {
             int m = accounts[i].size();
-            string name = accounts[i][0];
             for(int j = 1; j < m; j++) {
                 string email = accounts[i][j];
                 if(emailGroup.count(email)) {
