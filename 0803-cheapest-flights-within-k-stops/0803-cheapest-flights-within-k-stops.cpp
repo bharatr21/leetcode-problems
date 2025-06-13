@@ -17,10 +17,10 @@ public:
                 auto [node, distance] = q.front();
                 q.pop();
                 // Iterate over neighbors of popped node.
-                for (auto& [neighbour, price] : adj[node]) {
-                    if (price + distance >= dist[neighbour]) continue;
-                    dist[neighbour] = price + distance;
-                    q.push({neighbour, dist[neighbour]});
+                for (auto& [neigh, price] : adj[node]) {
+                    if (price + distance >= dist[neigh]) continue;
+                    dist[neigh] = price + distance;
+                    q.push({neigh, dist[neigh]});
                 }
             }
             stops++;
