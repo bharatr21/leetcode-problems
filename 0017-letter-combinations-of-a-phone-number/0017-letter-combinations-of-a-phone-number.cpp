@@ -1,16 +1,15 @@
 class Solution {
 public:
-    void backtrack(string digits, int idx, vector<string>& res, string tmp, unordered_map<char, vector<char>>& digitMap) {
+    void backtrack(string digits, int idx, unordered_map<char, string>& digitMap, string tmp, vector<string>& res) {
         if(idx == digits.size()) {
-            if(!tmp.empty()) res.push_back(tmp);
+            res.push_back(tmp);
             return;
         }
+        if(!digitMap.count(digits[idx])) idx++;
         else {
-            while(!digitMap.count(digits[idx])) idx++;
-            if(idx == digits.size()) return;
-            for(char c: digitMap[digits[idx]]) {
-                tmp += c;
-                backtrack(digits, idx + 1, res, tmp, digitMap);
+            for(char ch: digitMap[digits[idx]]) {
+                tmp += ch;
+                backtrack(digits, idx + 1, digitMap, tmp, res);
                 tmp.pop_back();
             }
         }
@@ -18,17 +17,19 @@ public:
 
     vector<string> letterCombinations(string digits) {
         vector<string> res;
-        unordered_map<char, vector<char>> digitMap;
-        digitMap['2'] = {'a', 'b', 'c'};
-        digitMap['3'] = {'d', 'e', 'f'};
-        digitMap['4'] = {'g', 'h', 'i'};
-        digitMap['5'] = {'j', 'k', 'l'};
-        digitMap['6'] = {'m', 'n', 'o'};
-        digitMap['7'] = {'p', 'q', 'r', 's'};
-        digitMap['8'] = {'t', 'u', 'v'};
-        digitMap['9'] = {'w', 'x', 'y', 'z'};
         string tmp;
-        backtrack(digits, 0, res, tmp, digitMap);
+        unordered_map<char, string> digitMap = {
+            {'2', "abc"},
+            {'3', "def"},
+            {'4', "ghi"},
+            {'5', "jkl"},
+            {'6', "mno"},
+            {'7', "pqrs"},
+            {'8', "tuv"},
+            {'9', "wxyz"}
+        };
+        if(digits.empty()) return res;
+        backtrack(digits, 0, digitMap, tmp, res);
         return res;
     }
 };
