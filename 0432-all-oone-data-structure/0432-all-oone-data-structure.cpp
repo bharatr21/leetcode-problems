@@ -43,11 +43,13 @@ public:
     }
     
     string getMaxKey() {
+        if(freql.empty()) return "";
         auto sset = (--freql.end())->keys.begin();
         return *sset;
     }
     
     string getMinKey() {
+        if(freql.empty()) return "";
         auto sset = (freql.begin())->keys.begin();
         return *sset;
     }
