@@ -1064,6 +1064,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bharatr21/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bharatr21/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2012-process-tasks-using-servers](https://github.com/bharatr21/leetcode-problems/tree/master/2012-process-tasks-using-servers) |
 | [2045-cutting-ribbons](https://github.com/bharatr21/leetcode-problems/tree/master/2045-cutting-ribbons) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bharatr21/leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/bharatr21/leetcode-problems/tree/master/2089-maximum-matrix-sum) |
@@ -1747,6 +1748,7 @@
 | [1074-high-five](https://github.com/bharatr21/leetcode-problems/tree/master/1074-high-five) |
 | [1325-path-with-maximum-probability](https://github.com/bharatr21/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2012-process-tasks-using-servers](https://github.com/bharatr21/leetcode-problems/tree/master/2012-process-tasks-using-servers) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/bharatr21/leetcode-problems/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2434-design-a-number-container-system](https://github.com/bharatr21/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/bharatr21/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
