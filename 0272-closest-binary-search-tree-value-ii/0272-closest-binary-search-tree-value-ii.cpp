@@ -19,12 +19,24 @@ public:
 
     vector<int> closestKValues(TreeNode* root, double target, int k) {
         vector<int> vals, res;
-        if(!root) return res;
+        if(!root || !k) return res;
         inOrder(root, vals);
-        sort(vals.begin(), vals.end(), [target](int a, int b) {
-            return abs(a - target) < abs(b - target);
-        });
-        for(int i = 0; i < k; i++) res.push_back(vals[i]);
+        int n = vals.size();
+        int diff = INT_MAX, st = -1;
+        for(int i = 0; i < n; i++) {
+            if(abs(vals[i] - target) < diff) {
+                diff = abs(vals[i] - target);
+                st = i;
+            }
+        }
+        int left = st, right = st + 1;
+        while(right - left - 1 < k) {
+            if(left < 0) right++;
+            else if(right == n || abs(vals[left] - target) <= abs(vals[right] - target)) {
+                left--;
+            } else right++;
+        }
+        for(int i = left + 1; i < right; i++) res.push_back(vals[i]);
         return res;
     }
 };
