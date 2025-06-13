@@ -486,6 +486,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharatr21/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bharatr21/leetcode-problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1706-min-cost-to-connect-all-points](https://github.com/bharatr21/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bharatr21/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bharatr21/leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bharatr21/leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -523,6 +524,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/bharatr21/leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/bharatr21/leetcode-problems/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bharatr21/leetcode-problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1706-min-cost-to-connect-all-points](https://github.com/bharatr21/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/bharatr21/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -1046,6 +1048,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bharatr21/leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/bharatr21/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
+| [1706-min-cost-to-connect-all-points](https://github.com/bharatr21/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/bharatr21/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bharatr21/leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/bharatr21/leetcode-problems/tree/master/1755-defuse-the-bomb) |
@@ -2076,4 +2079,8 @@
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/bharatr21/leetcode-problems/tree/master/0903-implement-rand10-using-rand7) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/bharatr21/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
