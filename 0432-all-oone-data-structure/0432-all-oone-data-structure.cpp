@@ -1,58 +1,55 @@
+
+
 class AllOne {
 public:
     struct Node {
         int freq;
         unordered_set<string> keys;
     };
-    list<Node> freqList;
+
+    list<Node> freql;
     unordered_map<string, list<Node>::iterator> key2it;
     AllOne() {
         
     }
     
     void inc(string key) {
-        auto nodeIt = key2it.count(key) ? key2it[key] : 
-        freqList.insert(freqList.begin(), Node{0, {}});
-        int f = nodeIt->freq;
-        auto nextNode = next(nodeIt);
-        if(nextNode == freqList.end() || nextNode->freq != f + 1) {
-            nextNode = freqList.insert(nextNode, Node{f + 1, {}});
-        }
-        nextNode->keys.insert(key);
-        key2it[key] = nextNode;
-
-        nodeIt->keys.erase(key);
-        if(nodeIt->keys.empty()) freqList.erase(nodeIt);
+        auto it = key2it.count(key) ? key2it[key] : freql.insert(freql.begin(), Node{0, {}});
+        int f = it->freq;
+        auto nextIt = next(it);
+        if(nextIt == freql.end() || nextIt->freq != f + 1)
+            nextIt = freql.insert(nextIt, Node{f+1, {}});
+        nextIt->keys.insert(key);
+        key2it[key] = nextIt;
+        it->keys.erase(key);
+        if(it->keys.empty()) freql.erase(it);
     }
     
     void dec(string key) {
-        auto mapIt = key2it.find(key);
-        if(mapIt == key2it.end()) return;
-        auto nodeIt = mapIt->second;
-        int f = nodeIt->freq;
+        auto mapit = key2it.find(key);
+        if(mapit == key2it.end()) return;
+        auto it = mapit->second;
+        int f = it->freq;
         if(f > 1) {
-            auto pre = (nodeIt == freqList.begin()) ? freqList.end(): prev(nodeIt);
-
-            if(pre == freqList.end() || pre->freq != f - 1) {
-                pre = freqList.insert(nodeIt, Node{f - 1, {}});
+            auto prevIt = (it == freql.begin()) ? freql.end() : prev(it);
+            if(prevIt == freql.end() || prevIt->freq != f - 1) {
+                prevIt = freql.insert(it, Node{f-1, {}});
             }
-            pre->keys.insert(key);
-            key2it[key] = pre;
-        } else {
-            key2it.erase(mapIt);
-        }
-        nodeIt->keys.erase(key);
-        if(nodeIt->keys.empty()) freqList.erase(nodeIt);
+            prevIt->keys.insert(key);
+            key2it[key] = prevIt;
+        } else key2it.erase(mapit);
+        it->keys.erase(key);
+        if(it->keys.empty()) freql.erase(it);
     }
     
     string getMaxKey() {
-        if (freqList.empty()) return "";
-        return *(freqList.back().keys.begin());
+        auto sset = (--freql.end())->keys.begin();
+        return *sset;
     }
     
     string getMinKey() {
-        if (freqList.empty()) return "";
-        return *(freqList.front().keys.begin());
+        auto sset = (freql.begin())->keys.begin();
+        return *sset;
     }
 };
 
