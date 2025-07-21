@@ -1398,6 +1398,7 @@
 | [1252-break-a-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/1252-break-a-palindrome) |
 | [1283-reformat-date](https://github.com/bharatr21/leetcode-problems/tree/master/1283-reformat-date) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/bharatr21/leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bharatr21/leetcode-problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1345-perform-string-shifts](https://github.com/bharatr21/leetcode-problems/tree/master/1345-perform-string-shifts) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/bharatr21/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
