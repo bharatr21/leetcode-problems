@@ -641,6 +641,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/bharatr21/leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/bharatr21/leetcode-problems/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/bharatr21/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bharatr21/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Recursion
 |  |
@@ -829,6 +830,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/bharatr21/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/bharatr21/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3227-find-missing-and-repeated-values](https://github.com/bharatr21/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/bharatr21/leetcode-problems/tree/master/3254-number-of-divisible-triplet-sums) |
@@ -894,6 +896,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bharatr21/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/bharatr21/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/bharatr21/leetcode-problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Array
 |  |
@@ -1136,6 +1139,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/bharatr21/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bharatr21/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/bharatr21/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/bharatr21/leetcode-problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/bharatr21/leetcode-problems/tree/master/3194-find-words-containing-character) |
@@ -1311,6 +1315,7 @@
 | [2681-put-marbles-in-bags](https://github.com/bharatr21/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2756-buy-two-chocolates](https://github.com/bharatr21/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bharatr21/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/bharatr21/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/bharatr21/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bharatr21/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1946,6 +1951,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bharatr21/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharatr21/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/bharatr21/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3247-number-of-same-end-substrings](https://github.com/bharatr21/leetcode-problems/tree/master/3247-number-of-same-end-substrings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bharatr21/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
