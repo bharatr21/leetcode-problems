@@ -1099,6 +1099,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/bharatr21/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bharatr21/leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2354-minimum-health-to-beat-game](https://github.com/bharatr21/leetcode-problems/tree/master/2354-minimum-health-to-beat-game) |
