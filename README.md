@@ -1460,6 +1460,7 @@
 | [3567-convert-date-to-binary](https://github.com/bharatr21/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bharatr21/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/bharatr21/leetcode-problems/tree/master/3931-process-string-with-special-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -1594,6 +1595,7 @@
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bharatr21/leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/bharatr21/leetcode-problems/tree/master/3447-clear-digits) |
+| [3931-process-string-with-special-operations-i](https://github.com/bharatr21/leetcode-problems/tree/master/3931-process-string-with-special-operations-i) |
 ## Math
 |  |
 | ------- |
