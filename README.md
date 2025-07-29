@@ -636,6 +636,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/bharatr21/leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/bharatr21/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bharatr21/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharatr21/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bharatr21/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/bharatr21/leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
@@ -1112,6 +1113,7 @@
 | [2478-longest-nice-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/bharatr21/leetcode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bharatr21/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bharatr21/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/bharatr21/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bharatr21/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2506-minimize-maximum-value-in-a-grid) |
@@ -1220,6 +1222,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bharatr21/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bharatr21/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bharatr21/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/bharatr21/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1876,6 +1879,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/bharatr21/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bharatr21/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bharatr21/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/bharatr21/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/bharatr21/leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2626-count-the-number-of-good-subarrays) |
