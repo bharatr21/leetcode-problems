@@ -1173,6 +1173,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/bharatr21/leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3780-permutations-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3780-permutations-iii) |
 | [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/bharatr21/leetcode-problems/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -1568,6 +1569,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bharatr21/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/bharatr21/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/bharatr21/leetcode-problems/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Simulation
 |  |
 | ------- |
@@ -1666,6 +1668,7 @@
 | [3567-convert-date-to-binary](https://github.com/bharatr21/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatr21/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3817-maximum-containers-on-a-ship](https://github.com/bharatr21/leetcode-problems/tree/master/3817-maximum-containers-on-a-ship) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/bharatr21/leetcode-problems/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Queue
 |  |
 | ------- |
@@ -2030,6 +2033,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/bharatr21/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bharatr21/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bharatr21/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/bharatr21/leetcode-problems/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Brainteaser
 |  |
 | ------- |
