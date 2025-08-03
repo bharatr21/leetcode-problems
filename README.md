@@ -826,6 +826,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bharatr21/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/bharatr21/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bharatr21/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1128,6 +1129,7 @@
 | [2674-make-the-prefix-sum-non-negative](https://github.com/bharatr21/leetcode-problems/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2681-put-marbles-in-bags](https://github.com/bharatr21/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/bharatr21/leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/bharatr21/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/bharatr21/leetcode-problems/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bharatr21/leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bharatr21/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1276,6 +1278,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/bharatr21/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bharatr21/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/bharatr21/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/bharatr21/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/bharatr21/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
@@ -1323,6 +1326,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bharatr21/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/bharatr21/leetcode-problems/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2681-put-marbles-in-bags](https://github.com/bharatr21/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/bharatr21/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2756-buy-two-chocolates](https://github.com/bharatr21/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bharatr21/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/bharatr21/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
