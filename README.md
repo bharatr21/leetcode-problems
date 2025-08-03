@@ -1228,6 +1228,7 @@
 | [2478-longest-nice-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bharatr21/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bharatr21/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/bharatr21/leetcode-problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/bharatr21/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/bharatr21/leetcode-problems/tree/master/3394-minimum-array-end) |
@@ -1328,6 +1329,7 @@
 | [2674-make-the-prefix-sum-non-negative](https://github.com/bharatr21/leetcode-problems/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2681-put-marbles-in-bags](https://github.com/bharatr21/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/bharatr21/leetcode-problems/tree/master/2689-rearranging-fruits) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/bharatr21/leetcode-problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2756-buy-two-chocolates](https://github.com/bharatr21/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bharatr21/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/bharatr21/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -1572,6 +1574,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bharatr21/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/bharatr21/leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/bharatr21/leetcode-problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2755-extra-characters-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bharatr21/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/bharatr21/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
