@@ -644,6 +644,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/bharatr21/leetcode-problems/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bharatr21/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -1177,6 +1178,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/bharatr21/leetcode-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/bharatr21/leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3780-permutations-iii](https://github.com/bharatr21/leetcode-problems/tree/master/3780-permutations-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3809-properties-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3809-properties-graph) |
 | [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/bharatr21/leetcode-problems/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Backtracking
@@ -1611,6 +1613,7 @@
 | [2846-robot-collisions](https://github.com/bharatr21/leetcode-problems/tree/master/2846-robot-collisions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bharatr21/leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/bharatr21/leetcode-problems/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/bharatr21/leetcode-problems/tree/master/3931-process-string-with-special-operations-i) |
 ## Math
 |  |
@@ -2072,6 +2075,7 @@
 | [0729-my-calendar-i](https://github.com/bharatr21/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2082,6 +2086,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/bharatr21/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/bharatr21/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Interactive
 |  |
 | ------- |
