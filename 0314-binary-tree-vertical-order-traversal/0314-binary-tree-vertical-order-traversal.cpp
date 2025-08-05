@@ -13,19 +13,23 @@ class Solution {
 public:
     vector<vector<int>> verticalOrder(TreeNode* root) {
         vector<vector<int>> res;
-        map<int, vector<int>> levels;
         if(!root) return res;
-        queue<pair<TreeNode*, int>> q;
-        q.push({root, 0});
+        queue<pair<TreeNode*, pair<int, int>>> q;
+        map<int, vector<pair<int, int>>> levels;
+        q.push({root, {0, 0}});
         while(!q.empty()) {
-            auto [node, level] = q.front();
+            auto [node, coords] = q.front();
+            auto [x, y] = coords;
             q.pop();
-            levels[level].push_back(node->val);
-            if(node->left) q.push({node->left, level - 1});
-            if(node->right) q.push({node->right, level + 1});
+            levels[x].push_back({y, node->val});
+            if(node->left) q.push({node->left, {x-1, y+1}});
+            if(node->right) q.push({node->right, {x+1, y+1}});
         }
-        for(auto it: levels) {
-            res.push_back(it.second);
+        for(auto lvl: levels) {
+            // sort(lvl.second.begin(), lvl.second.end());
+            vector<int> tmp;
+            for(auto el: lvl.second) tmp.push_back(el.second);
+            res.push_back(tmp);
         }
         return res;
     }
