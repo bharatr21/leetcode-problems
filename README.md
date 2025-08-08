@@ -654,6 +654,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/bharatr21/leetcode-problems/tree/master/0394-decode-string) |
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
 | [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/bharatr21/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1384,6 +1385,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0320-generalized-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0320-generalized-abbreviation) |
 | [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/bharatr21/leetcode-problems/tree/master/0394-decode-string) |
 | [0408-valid-word-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0408-valid-word-abbreviation) |
 | [0433-minimum-genetic-mutation](https://github.com/bharatr21/leetcode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/bharatr21/leetcode-problems/tree/master/0443-string-compression) |
@@ -1721,6 +1723,7 @@
 | [0272-closest-binary-search-tree-value-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0364-nested-list-weight-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0364-nested-list-weight-sum-ii) |
+| [0394-decode-string](https://github.com/bharatr21/leetcode-problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/bharatr21/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/bharatr21/leetcode-problems/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/bharatr21/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
