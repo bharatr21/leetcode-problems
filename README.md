@@ -754,6 +754,7 @@
 | [0460-lfu-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/bharatr21/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
+| [0554-brick-wall](https://github.com/bharatr21/leetcode-problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bharatr21/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -988,6 +989,7 @@
 | [0500-keyboard-row](https://github.com/bharatr21/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/bharatr21/leetcode-problems/tree/master/0539-minimum-time-difference) |
+| [0554-brick-wall](https://github.com/bharatr21/leetcode-problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/bharatr21/leetcode-problems/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/0566-reshape-the-matrix) |
