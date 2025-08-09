@@ -24,7 +24,7 @@ public:
         if(it != lru.end()) {
             cache.erase(it->second);
         } else {
-            if(lru.size() == cap) {
+            if(cache.size() == cap) {
                 auto [key, val] = cache.back();
                 cache.pop_back();
                 lru.erase(key);
