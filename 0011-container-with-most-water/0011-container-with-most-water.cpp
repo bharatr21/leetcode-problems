@@ -1,13 +1,13 @@
 class Solution {
 public:
-    int maxArea(vector<int>& height) {
-        int res = -1;
-        int left = 0, right = height.size() - 1;
-        while(left <= right) {
-            res = max(res, min(height[left], height[right]) * (right - left));
-            if(height[left] < height[right]) left++;
+    int maxArea(vector<int>& heights) {
+        int n = heights.size();
+        int left = 0, right = n - 1, mx = -1;
+        while(left < right) {
+            mx = max(mx, min(heights[left], heights[right]) * (right - left));
+            if(heights[left] < heights[right]) left++;
             else right--;
         }
-        return res;
+        return mx;
     }
 };
