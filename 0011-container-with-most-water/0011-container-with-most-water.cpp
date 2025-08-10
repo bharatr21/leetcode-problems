@@ -5,8 +5,7 @@ public:
         int left = 0, right = n - 1, mx = -1;
         while(left < right) {
             mx = max(mx, min(heights[left], heights[right]) * (right - left));
-            if(heights[left] < heights[right]) left++;
-            else right--;
+            (heights[left] < heights[right]) ? left++ : right--;
         }
         return mx;
     }
