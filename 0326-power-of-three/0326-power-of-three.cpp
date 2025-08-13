@@ -7,6 +7,6 @@ public:
             if(tmp % 3 && tmp > 1) return false;
             tmp = tmp / 3;
         }
-        return (tmp <= 1);
+        return (tmp == 1);
     }
 };
