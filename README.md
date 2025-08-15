@@ -657,6 +657,7 @@
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/bharatr21/leetcode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/bharatr21/leetcode-problems/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/bharatr21/leetcode-problems/tree/master/0394-decode-string) |
 | [0791-split-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0791-split-bst) |
 | [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -1231,6 +1232,7 @@
 | [0268-missing-number](https://github.com/bharatr21/leetcode-problems/tree/master/0268-missing-number) |
 | [0320-generalized-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0320-generalized-abbreviation) |
 | [0338-counting-bits](https://github.com/bharatr21/leetcode-problems/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/bharatr21/leetcode-problems/tree/master/0342-power-of-four) |
 | [0351-android-unlock-patterns](https://github.com/bharatr21/leetcode-problems/tree/master/0351-android-unlock-patterns) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0465-optimal-account-balancing](https://github.com/bharatr21/leetcode-problems/tree/master/0465-optimal-account-balancing) |
@@ -1659,6 +1661,7 @@
 | [0273-integer-to-english-words](https://github.com/bharatr21/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0319-bulb-switcher](https://github.com/bharatr21/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/bharatr21/leetcode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/bharatr21/leetcode-problems/tree/master/0342-power-of-four) |
 | [0360-sort-transformed-array](https://github.com/bharatr21/leetcode-problems/tree/master/0360-sort-transformed-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bharatr21/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/bharatr21/leetcode-problems/tree/master/0398-random-pick-index) |
