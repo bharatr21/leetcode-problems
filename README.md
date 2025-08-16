@@ -1334,6 +1334,7 @@
 | [1051-shortest-way-to-form-string](https://github.com/bharatr21/leetcode-problems/tree/master/1051-shortest-way-to-form-string) |
 | [1252-break-a-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/1252-break-a-palindrome) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bharatr21/leetcode-problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1448-maximum-69-number](https://github.com/bharatr21/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/bharatr21/leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bharatr21/leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bharatr21/leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1681,6 +1682,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bharatr21/leetcode-problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1345-perform-string-shifts](https://github.com/bharatr21/leetcode-problems/tree/master/1345-perform-string-shifts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bharatr21/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/bharatr21/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/bharatr21/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bharatr21/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
