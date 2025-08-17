@@ -791,6 +791,7 @@
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1098-largest-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1098-largest-unique-number) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/bharatr21/leetcode-problems/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1125-design-file-system](https://github.com/bharatr21/leetcode-problems/tree/master/1125-design-file-system) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/bharatr21/leetcode-problems/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bharatr21/leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
@@ -1436,6 +1437,7 @@
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/bharatr21/leetcode-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bharatr21/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1119-robot-bounded-in-circle](https://github.com/bharatr21/leetcode-problems/tree/master/1119-robot-bounded-in-circle) |
+| [1125-design-file-system](https://github.com/bharatr21/leetcode-problems/tree/master/1125-design-file-system) |
 | [1170-shortest-common-supersequence](https://github.com/bharatr21/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1190-smallest-common-region](https://github.com/bharatr21/leetcode-problems/tree/master/1190-smallest-common-region) |
 | [1197-parsing-a-boolean-expression](https://github.com/bharatr21/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -1797,6 +1799,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/bharatr21/leetcode-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/bharatr21/leetcode-problems/tree/master/0472-concatenated-words) |
+| [1125-design-file-system](https://github.com/bharatr21/leetcode-problems/tree/master/1125-design-file-system) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/bharatr21/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2009-longest-word-with-all-prefixes](https://github.com/bharatr21/leetcode-problems/tree/master/2009-longest-word-with-all-prefixes) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/bharatr21/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1888,6 +1891,7 @@
 | [0859-design-circular-deque](https://github.com/bharatr21/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/bharatr21/leetcode-problems/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/bharatr21/leetcode-problems/tree/master/1023-time-based-key-value-store) |
+| [1125-design-file-system](https://github.com/bharatr21/leetcode-problems/tree/master/1125-design-file-system) |
 | [1366-first-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1366-first-unique-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
