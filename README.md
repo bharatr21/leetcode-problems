@@ -1424,6 +1424,7 @@
 | [0768-partition-labels](https://github.com/bharatr21/leetcode-problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/bharatr21/leetcode-problems/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/bharatr21/leetcode-problems/tree/master/0812-rotate-string) |
+| [0818-similar-rgb-color](https://github.com/bharatr21/leetcode-problems/tree/master/0818-similar-rgb-color) |
 | [0868-push-dominoes](https://github.com/bharatr21/leetcode-problems/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/bharatr21/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bharatr21/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1676,6 +1677,7 @@
 | [0650-2-keys-keyboard](https://github.com/bharatr21/leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0796-reaching-points](https://github.com/bharatr21/leetcode-problems/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/bharatr21/leetcode-problems/tree/master/0797-rabbits-in-forest) |
+| [0818-similar-rgb-color](https://github.com/bharatr21/leetcode-problems/tree/master/0818-similar-rgb-color) |
 | [0866-rectangle-overlap](https://github.com/bharatr21/leetcode-problems/tree/master/0866-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/bharatr21/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/bharatr21/leetcode-problems/tree/master/0903-implement-rand10-using-rand7) |
@@ -2154,6 +2156,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bharatr21/leetcode-problems/tree/master/0204-count-primes) |
+| [0818-similar-rgb-color](https://github.com/bharatr21/leetcode-problems/tree/master/0818-similar-rgb-color) |
 | [0900-reordered-power-of-2](https://github.com/bharatr21/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/bharatr21/leetcode-problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bharatr21/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
