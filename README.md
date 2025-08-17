@@ -1005,6 +1005,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/bharatr21/leetcode-problems/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/0566-reshape-the-matrix) |
+| [0604-design-compressed-string-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0604-design-compressed-string-iterator) |
 | [0605-can-place-flowers](https://github.com/bharatr21/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0636-exclusive-time-of-functions](https://github.com/bharatr21/leetcode-problems/tree/master/0636-exclusive-time-of-functions) |
@@ -1419,6 +1420,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/bharatr21/leetcode-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/bharatr21/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bharatr21/leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0604-design-compressed-string-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0604-design-compressed-string-iterator) |
 | [0664-strange-printer](https://github.com/bharatr21/leetcode-problems/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/bharatr21/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
@@ -1888,6 +1890,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/bharatr21/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/bharatr21/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/bharatr21/leetcode-problems/tree/master/0460-lfu-cache) |
+| [0604-design-compressed-string-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0604-design-compressed-string-iterator) |
 | [0716-max-stack](https://github.com/bharatr21/leetcode-problems/tree/master/0716-max-stack) |
 | [0729-my-calendar-i](https://github.com/bharatr21/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0731-my-calendar-ii) |
@@ -2105,6 +2108,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0251-flatten-2d-vector](https://github.com/bharatr21/leetcode-problems/tree/master/0251-flatten-2d-vector) |
 | [0341-flatten-nested-list-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0604-design-compressed-string-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0604-design-compressed-string-iterator) |
 ## String Matching
 |  |
 | ------- |
