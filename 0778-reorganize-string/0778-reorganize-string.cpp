@@ -2,26 +2,27 @@ class Solution {
 public:
     string reorganizeString(string s) {
         vector<int> fre(26, 0);
+        int n = s.size(), mx = 0;
+        char cur;
         for(char ch: s) fre[ch - 'a']++;
-        int mx = -1, letter = 0;
         for(int i = 0; i < 26; i++) {
             if(mx < fre[i]) {
                 mx = fre[i];
-                letter = i;
+                cur = i + 'a';
             }
         }
-        if(fre[letter] > (s.size() + 1) / 2) return "";
+        if(mx > (n + 1) / 2) return "";
         string res = s;
         int idx = 0;
-        while(fre[letter]) {
-            res[idx] = char(letter + 'a');
+        while(fre[cur - 'a'] > 0) {
+            res[idx] = cur;
             idx += 2;
-            fre[letter]--;
+            fre[cur - 'a']--;
         }
         for(int i = 0; i < 26; i++) {
-            while(fre[i]) {
-                if(idx >= s.size()) idx = 1;
-                res[idx] = char(i + 'a');
+            while(fre[i] > 0) {
+                if(idx >= n) idx = 1;
+                res[idx] = (char)(i + 'a');
                 idx += 2;
                 fre[i]--;
             }
