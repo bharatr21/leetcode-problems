@@ -651,6 +651,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/bharatr21/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/bharatr21/leetcode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/bharatr21/leetcode-problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1319,6 +1320,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bharatr21/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/bharatr21/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -1376,6 +1378,7 @@
 | [0022-generate-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/bharatr21/leetcode-problems/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/bharatr21/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bharatr21/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/bharatr21/leetcode-problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0072-edit-distance) |
@@ -1548,6 +1551,7 @@
 | [0022-generate-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bharatr21/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bharatr21/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/bharatr21/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharatr21/leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bharatr21/leetcode-problems/tree/master/0062-unique-paths) |
