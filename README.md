@@ -604,6 +604,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bharatr21/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bharatr21/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0268-missing-number](https://github.com/bharatr21/leetcode-problems/tree/master/0268-missing-number) |
@@ -965,6 +966,7 @@
 | [0198-house-robber](https://github.com/bharatr21/leetcode-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bharatr21/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/bharatr21/leetcode-problems/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/bharatr21/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/bharatr21/leetcode-problems/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/bharatr21/leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -1940,6 +1942,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatr21/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/bharatr21/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0567-permutation-in-string](https://github.com/bharatr21/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -1971,6 +1974,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bharatr21/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
