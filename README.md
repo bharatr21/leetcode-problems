@@ -1128,6 +1128,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2354-minimum-health-to-beat-game](https://github.com/bharatr21/leetcode-problems/tree/master/2354-minimum-health-to-beat-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/bharatr21/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/bharatr21/leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/bharatr21/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1708,6 +1709,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatr21/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/bharatr21/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/bharatr21/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/bharatr21/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/bharatr21/leetcode-problems/tree/master/2645-pass-the-pillow) |
