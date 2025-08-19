@@ -352,6 +352,7 @@
 | [0364-nested-list-weight-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0364-nested-list-weight-sum-ii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0366-find-leaves-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/bharatr21/leetcode-problems/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bharatr21/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/bharatr21/leetcode-problems/tree/master/0419-battleships-in-a-board) |
 | [0472-concatenated-words](https://github.com/bharatr21/leetcode-problems/tree/master/0472-concatenated-words) |
@@ -436,6 +437,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/bharatr21/leetcode-problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0364-nested-list-weight-sum-ii) |
+| [0399-evaluate-division](https://github.com/bharatr21/leetcode-problems/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bharatr21/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/bharatr21/leetcode-problems/tree/master/0433-minimum-genetic-mutation) |
@@ -480,6 +482,7 @@
 | [0277-find-the-celebrity](https://github.com/bharatr21/leetcode-problems/tree/master/0277-find-the-celebrity) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/bharatr21/leetcode-problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/bharatr21/leetcode-problems/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/bharatr21/leetcode-problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/bharatr21/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bharatr21/leetcode-problems/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/bharatr21/leetcode-problems/tree/master/0744-network-delay-time) |
@@ -518,6 +521,7 @@
 | [0200-number-of-islands](https://github.com/bharatr21/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/bharatr21/leetcode-problems/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/bharatr21/leetcode-problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0399-evaluate-division](https://github.com/bharatr21/leetcode-problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/bharatr21/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bharatr21/leetcode-problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/bharatr21/leetcode-problems/tree/master/0695-max-area-of-island) |
@@ -989,6 +993,7 @@
 | [0362-design-hit-counter](https://github.com/bharatr21/leetcode-problems/tree/master/0362-design-hit-counter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bharatr21/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bharatr21/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/bharatr21/leetcode-problems/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/bharatr21/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/bharatr21/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -1415,6 +1420,7 @@
 | [0320-generalized-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0320-generalized-abbreviation) |
 | [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/bharatr21/leetcode-problems/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/bharatr21/leetcode-problems/tree/master/0399-evaluate-division) |
 | [0408-valid-word-abbreviation](https://github.com/bharatr21/leetcode-problems/tree/master/0408-valid-word-abbreviation) |
 | [0433-minimum-genetic-mutation](https://github.com/bharatr21/leetcode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/bharatr21/leetcode-problems/tree/master/0443-string-compression) |
@@ -1870,6 +1876,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/bharatr21/leetcode-problems/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/bharatr21/leetcode-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bharatr21/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/bharatr21/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
