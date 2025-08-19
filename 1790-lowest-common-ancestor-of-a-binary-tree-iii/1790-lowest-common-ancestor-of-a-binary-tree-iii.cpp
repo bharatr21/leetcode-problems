@@ -28,6 +28,6 @@ public:
             i--;
             j--;
         }
-        return qpath[j+1];
+        return ppath[i+1];
     }
 };
