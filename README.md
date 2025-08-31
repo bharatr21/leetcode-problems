@@ -770,6 +770,7 @@
 | [0554-brick-wall](https://github.com/bharatr21/leetcode-problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatr21/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bharatr21/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bharatr21/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0666-path-sum-iv](https://github.com/bharatr21/leetcode-problems/tree/master/0666-path-sum-iv) |
 | [0721-accounts-merge](https://github.com/bharatr21/leetcode-problems/tree/master/0721-accounts-merge) |
@@ -1018,6 +1019,7 @@
 | [0566-reshape-the-matrix](https://github.com/bharatr21/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0604-design-compressed-string-iterator](https://github.com/bharatr21/leetcode-problems/tree/master/0604-design-compressed-string-iterator) |
 | [0605-can-place-flowers](https://github.com/bharatr21/leetcode-problems/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0636-exclusive-time-of-functions](https://github.com/bharatr21/leetcode-problems/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -1289,6 +1291,7 @@
 | [0360-sort-transformed-array](https://github.com/bharatr21/leetcode-problems/tree/master/0360-sort-transformed-array) |
 | [0414-third-maximum-number](https://github.com/bharatr21/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/bharatr21/leetcode-problems/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bharatr21/leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/bharatr21/leetcode-problems/tree/master/0721-accounts-merge) |
@@ -1342,6 +1345,7 @@
 | [0134-gas-station](https://github.com/bharatr21/leetcode-problems/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/bharatr21/leetcode-problems/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/bharatr21/leetcode-problems/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/bharatr21/leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/bharatr21/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
@@ -1858,6 +1862,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bharatr21/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/bharatr21/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/bharatr21/leetcode-problems/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/bharatr21/leetcode-problems/tree/master/0778-reorganize-string) |
@@ -2035,6 +2040,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bharatr21/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/bharatr21/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/bharatr21/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/bharatr21/leetcode-problems/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/bharatr21/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bharatr21/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
