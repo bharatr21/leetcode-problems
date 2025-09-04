@@ -1745,6 +1745,7 @@
 | [3567-convert-date-to-binary](https://github.com/bharatr21/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatr21/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3817-maximum-containers-on-a-ship](https://github.com/bharatr21/leetcode-problems/tree/master/3817-maximum-containers-on-a-ship) |
+| [3830-find-closest-person](https://github.com/bharatr21/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/bharatr21/leetcode-problems/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Queue
 |  |
