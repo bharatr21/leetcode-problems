@@ -1269,6 +1269,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bharatr21/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/bharatr21/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/bharatr21/leetcode-problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/bharatr21/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/bharatr21/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bharatr21/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/bharatr21/leetcode-problems/tree/master/3394-minimum-array-end) |
@@ -2131,6 +2132,7 @@
 | ------- |
 | [0319-bulb-switcher](https://github.com/bharatr21/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bharatr21/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/bharatr21/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Iterator
 |  |
 | ------- |
@@ -2198,6 +2200,7 @@
 | [1656-count-good-triplets](https://github.com/bharatr21/leetcode-problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bharatr21/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bharatr21/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/bharatr21/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3548-find-the-count-of-good-integers](https://github.com/bharatr21/leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/bharatr21/leetcode-problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Database
