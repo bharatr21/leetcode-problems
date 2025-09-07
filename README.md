@@ -1076,6 +1076,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/bharatr21/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bharatr21/leetcode-problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1366-first-unique-number](https://github.com/bharatr21/leetcode-problems/tree/master/1366-first-unique-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/bharatr21/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bharatr21/leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bharatr21/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1717,6 +1718,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bharatr21/leetcode-problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1345-perform-string-shifts](https://github.com/bharatr21/leetcode-problems/tree/master/1345-perform-string-shifts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bharatr21/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/bharatr21/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/bharatr21/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bharatr21/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/bharatr21/leetcode-problems/tree/master/1500-count-largest-group) |
