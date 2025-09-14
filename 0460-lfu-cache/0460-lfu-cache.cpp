@@ -45,6 +45,7 @@ public:
             if(kv.size() == cap) {
                 int rmkey = freq2keys[minf].back();
                 freq2keys[minf].pop_back();
+                if(freq2keys[minf].empty()) freq2keys.erase(minf);
                 key2it.erase(rmkey);
                 kf.erase(rmkey);
                 kv.erase(rmkey);
