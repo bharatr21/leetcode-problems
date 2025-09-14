@@ -1,50 +1,60 @@
 class LFUCache {
 public:
-    unordered_map<int, list<pair<int, int>>> frequencies; 
-    unordered_map<int, pair<int, list<pair<int, int>>::iterator>> cache;
+    unordered_map<int, int> kv;
+    unordered_map<int, int> kf;
+    unordered_map<int, list<int>::iterator> key2it;
+    unordered_map<int, list<int>> freq2keys;
+
     int cap;
     int minf;
     LFUCache(int capacity) {
         cap = capacity;
-        minf = 0;
-    }
-
-    void insert(int key, int freq, int val) {
-        frequencies[freq].push_back({key, val});
-        cache[key] = {freq, --frequencies[freq].end()};
+        minf = capacity;
     }
     
     int get(int key) {
-        auto it = cache.find(key);
-        if(it == cache.end()) return -1;
-        auto [f, iter] = it->second;
-        pair<int, int> kv = *iter;
-        frequencies[f].erase(iter);
-        if(frequencies[f].empty()) {
-            frequencies.erase(f);
-            if(minf == f) minf++;
+        if(!kv.count(key)) return -1;
+        int val = kv[key];
+        int f = kf[key];
+        kf[key] = f + 1;
+        freq2keys[f].erase(key2it[key]);
+        if(freq2keys[f].empty()) {
+            freq2keys.erase(f);
+            if(minf == f) minf = f + 1;
         }
-        insert(key, f + 1, kv.second);
-        return kv.second;
+        if(!freq2keys.count(f+1)) freq2keys[f+1] = {};
+        freq2keys[f+1].push_front(key);
+        key2it[key] = freq2keys[f+1].begin();
+        return val;
     }
     
     void put(int key, int value) {
-        if(cap <= 0) return;
-        auto it = cache.find(key);
-        if(it != cache.end()) {
-            auto iter = it->second;
-            auto kv = iter.second;
-            kv->second = value;
-            get(key);
-            return;
+        if(kv.count(key)) {
+            int f = kf[key];
+            kf[key] = f + 1;
+            kv[key] = value;
+            freq2keys[f].erase(key2it[key]);
+            if(freq2keys[f].empty()) {
+                freq2keys.erase(f);
+                if(minf == f) minf = f + 1;
+            }
+            if(!freq2keys.count(f+1)) freq2keys[f+1] = {};
+            freq2keys[f+1].push_front(key);
+            key2it[key] = freq2keys[f+1].begin();
+        } else {
+            if(kv.size() == cap) {
+                int rmkey = freq2keys[minf].back();
+                freq2keys[minf].pop_back();
+                key2it.erase(rmkey);
+                kf.erase(rmkey);
+                kv.erase(rmkey);
+            }
+            freq2keys[1].push_front(key);
+            kv[key] = value;
+            kf[key] = 1;
+            key2it[key] = freq2keys[1].begin();
+            minf = 1;
         }
-        if(cap == cache.size()) {
-            cache.erase(frequencies[minf].front().first);
-            frequencies[minf].pop_front();
-            if(frequencies[minf].empty()) frequencies.erase(minf);
-        }
-        minf = 1;
-        insert(key, 1, value);
     }
 };
 
