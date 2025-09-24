@@ -29,6 +29,7 @@ public:
     }
     
     int execTop() {
+        if(tpq.empty()) return -1;
         auto [priority, taskId] = *tpq.begin();
         tpq.erase(tpq.begin());
         auto [pr, userId] = tmap[taskId];
