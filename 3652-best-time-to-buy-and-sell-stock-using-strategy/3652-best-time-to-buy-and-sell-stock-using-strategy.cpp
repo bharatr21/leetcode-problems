@@ -1,7 +1,8 @@
 class Solution {
 public:
-    int calcProfit(vector<int>& prices, vector<int>& strategy) {
-        int n = prices.size(), profit = 0;
+    long long calcProfit(vector<int>& prices, vector<int>& strategy) {
+        int n = prices.size();
+        long long profit = 0;
         for(int i = 0; i < n; i++) profit += strategy[i] * prices[i];
         return profit;
     }
@@ -9,9 +10,9 @@ public:
     long long maxProfit(vector<int>& prices, vector<int>& strategy, int k) {
         vector<int> orig = strategy;
         int n = prices.size();
-        int profit = calcProfit(prices, strategy);
+        long long profit = calcProfit(prices, strategy);
         // cout << "Original Profit: " << profit << endl;
-        int maxProfit = profit;
+        long long maxProfit = profit;
         for(int i = 0; i < k; i++) {
             if(i < k/2) strategy[i] = 0;
             else strategy[i] = 1;
