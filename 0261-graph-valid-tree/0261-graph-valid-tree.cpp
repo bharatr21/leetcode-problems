@@ -1,29 +1,32 @@
 class Solution {
 public:
-    bool cycle = false;
-    void dfs(int idx, vector<vector<int>>& adj, unordered_set<int>& vis, vector<int>& parent) {
-        vis.insert(idx);
-        for(auto& neigh: adj[idx]) {
-            if(!vis.count(neigh)) {
-                parent[neigh] = idx;
-                dfs(neigh, adj, vis, parent);
-            } else if(parent[idx] != neigh && parent[idx] != -1) {
-                cycle = true;
-                break;
+    void dfs(int v, vector<vector<int>>& adj, vector<bool>& vis, int& sz) {
+        vis[v] = true;
+        for(auto& u: adj[v]) {
+            if(!vis[u]) {
+                sz++;
+                dfs(u, adj, vis, sz);
             }
         }
     }
-
     bool validTree(int n, vector<vector<int>>& edges) {
+        if(edges.size() != n - 1) return false;
         vector<vector<int>> adj(n);
-        unordered_set<int> vis;
-        vector<int> parent(n, -1);
-        for(vector<int>& e: edges) {
+        vector<bool> vis(n, false);
+        int sz;
+        for(auto& e: edges) {
             int a = e[0], b = e[1];
             adj[a].push_back(b);
             adj[b].push_back(a);
         }
-        dfs(0, adj, vis, parent);
-        return (vis.size() == n && !cycle);
+        int ct = 0;
+        for(int i = 0; i < n; i++) {
+            if(!vis[i]) {
+                ct++;
+                sz = 0;
+                dfs(i, adj, vis, sz);
+            }
+        }
+        return (ct == 1 && sz == n - 1);
     }
 };
