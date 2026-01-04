@@ -17,9 +17,6 @@ public:
         int res = 0;
         for(int el: nums) {
             vector<int> divi = checkFourDivisors(el);
-            // cout << "Divisors for: " << el << endl;
-            // for(int ele: divi) cout << ele << ' ';
-            // cout << endl;
             if(!divi.empty()) res += accumulate(divi.begin(), divi.end(), 0);
         }
         return res;
