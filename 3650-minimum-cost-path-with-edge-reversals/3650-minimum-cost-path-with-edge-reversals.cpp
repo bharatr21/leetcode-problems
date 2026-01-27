@@ -3,6 +3,7 @@ public:
     int minCost(int n, vector<vector<int>>& edges) {
         vector<vector<pair<int, int>>> adj(n);
         vector<int> dist(n, INT_MAX);
+        vector<bool> vis(n, false);
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
         for(vector<int>& e: edges) {
             int a = e[0], b = e[1], w = e[2];
@@ -15,7 +16,8 @@ public:
             auto [w, src] = pq.top();
             pq.pop();
             if(src == n - 1) return w;
-
+            if(vis[src]) continue;
+            vis[src] = true;
             for(auto& [cost, dst]: adj[src]) {
                 if(w + cost < dist[dst]) {
                     dist[dst] = w + cost;
