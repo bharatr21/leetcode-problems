@@ -1,74 +1,79 @@
+// two multisets maintain the first k smallest values
+class Container {
+public:
+    Container(int k) : k(k), sm(0) {}
+
+    // adjust the size of the ordered set to ensure that the first k smallest
+    // values are all in st1
+    void adjust() {
+        while (st1.size() < k && st2.size() > 0) {
+            int x = *(st2.begin());
+            st1.emplace(x);
+            sm += x;
+            st2.erase(st2.begin());
+        }
+        while (st1.size() > k) {
+            int x = *prev(st1.end());
+            st2.emplace(x);
+            st1.erase(prev(st1.end()));
+            sm -= x;
+        }
+    }
+
+    // insert element x
+    void add(int x) {
+        if (!st2.empty() && x >= *(st2.begin())) {
+            st2.emplace(x);
+        } else {
+            st1.emplace(x);
+            sm += x;
+        }
+        adjust();
+    }
+
+    // delete element x
+    void erase(int x) {
+        auto it = st1.find(x);
+        if (it != st1.end()) {
+            st1.erase(it), sm -= x;
+        } else {
+            st2.erase(st2.find(x));
+        }
+        adjust();
+    }
+
+    // sum of the first k smallest elements
+    long long sum() { return sm; }
+
+private:
+    int k;
+    // st1 saves the k smallest values, st2 saves the other values
+    multiset<int> st1, st2;
+    // sm represents the sum of the first k smallest elements
+    long long sm;
+};
+
 class Solution {
 public:
-    struct SmartWindow{
-        int K;
-        multiset<int> low, high;
-        long long sumLow = 0;
-
-        SmartWindow(int k) : K(k) {}
-
-        int windowSize() const{
-            return (int)low.size() + (int)high.size();
-        }
-        void rebalance() {
-            int need = min(K, windowSize());
-
-            while((int)low.size() > need){
-                auto it = prev(low.end());
-                int x = *it;
-                low.erase(it);
-                sumLow -= x;
-                high.insert(x);
-            }
-            while((int)low.size() < need && !high.empty()){
-                auto it = high.begin();
-                int x = *it;
-                high.erase(it);
-                low.insert(x);
-                sumLow += x;
-            }
-        }
-        void add(int x){
-            if(low.empty() || x <= *prev(low.end())){
-                low.insert(x);
-                sumLow += x;
-            }
-            else{
-                high.insert(x);
-            }
-            rebalance();
-        }
-        void remove(int x){
-            auto itLow = low.find(x);
-            if(itLow != low.end()){
-                low.erase(itLow);
-                sumLow -= x;
-            }
-            else{
-                auto itHigh = high.find(x);
-                if(itHigh != high.end()){
-                    high.erase(itHigh);
-                }
-            }
-            rebalance();
-        }
-        long long query() const{
-            return sumLow;
-        }
-    };
     long long minimumCost(vector<int>& nums, int k, int dist) {
-        int n = (int)nums.size();
-        k -= 1;
-        SmartWindow window(k);
-        for(int i = 1; i <= 1 + dist; i ++){
-            window.add(nums[i]);
+        int n = nums.size();
+        // sliding window initialization
+        Container cnt(k - 2);
+        for (int i = 1; i < k - 1; i++) {
+            cnt.add(nums[i]);
         }
-        long long ans = window.query();
-        for(int i = 2; i + dist < n; i ++){
-            window.remove(nums[i - 1]);
-            window.add(nums[i + dist]);
-            ans = min(ans, window.query());
+
+        long long ans = cnt.sum() + nums[k - 1];
+        // enumerate the beginning of the last array
+        for (int i = k; i < n; i++) {
+            int j = i - dist - 1;
+            if (j > 0) {
+                cnt.erase(nums[j]);
+            }
+            cnt.add(nums[i - 1]);
+            ans = min(ans, cnt.sum() + nums[i]);
         }
+
         return ans + nums[0];
     }
 };
