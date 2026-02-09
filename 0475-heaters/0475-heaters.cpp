@@ -3,7 +3,8 @@ public:
     int findRadius(vector<int>& houses, vector<int>& heaters) {
         sort(heaters.begin(), heaters.end());
         int m = heaters.size(), n = houses.size(), mx = 0;
-        for(int house: houses) {
+        for(int i = 0; i < n; i++) {
+            int house = houses[i];
             auto ub = upper_bound(heaters.begin(), heaters.end(), house);
             int tmp = 1e9 + 1; 
             if(ub != heaters.end()) tmp = abs(house - *ub);
