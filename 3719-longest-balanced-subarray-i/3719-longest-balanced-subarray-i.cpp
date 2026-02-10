@@ -2,8 +2,9 @@ class Solution {
 public:
     int longestBalanced(vector<int>& nums) {
         int mx = 0, n = nums.size();
+        unordered_set<int> odd, even;
         for(int i = 0; i < n; i++) {
-            unordered_set<int> odd, even;
+            odd.clear(); even.clear();
             for(int j = i; j < n; j++) {
                 if(nums[j] & 1) odd.insert(nums[j]);
                 else even.insert(nums[j]);
