@@ -1,26 +1,14 @@
 class Solution {
 public:
-    bool isBal(vector<int>& nums, int st, int en) {
-        unordered_set<int> ev, od;
-        for(int i = st; i <= en; i++) {
-            if(nums[i] % 2) od.insert(nums[i]);
-            else ev.insert(nums[i]);
-        }
-        return (od.size() == ev.size());
-    }
-
     int longestBalanced(vector<int>& nums) {
         int mx = 0, n = nums.size();
-        bool flag = false;
-        for(int sz = n - 1; sz > 0; sz--) {
-            for(int i = 0; i + sz < n; i++) {
-                if(isBal(nums, i, i + sz)) {
-                    mx = sz + 1;
-                    flag = true;
-                    break;
-                }
+        for(int i = 0; i < n; i++) {
+            unordered_set<int> odd, even;
+            for(int j = i; j < n; j++) {
+                if(nums[j] & 1) odd.insert(nums[j]);
+                else even.insert(nums[j]);
+                if(odd.size() == even.size()) mx = max(mx, j - i + 1);
             }
-            if(flag) break;
         }
         return mx;
     }
