@@ -8,28 +8,30 @@ public:
     }
     
     int get(int key) {
-        auto it = lru.find(key);
-        if(it != lru.end()) {
-            auto cache_it = it->second;
-            int val = cache_it->second;
-            cache.erase(cache_it);
-            cache.push_front({key, val});
-            lru[key] = cache.begin();
-            return val;
-        } else return -1;
+        if(!lru.count(key)) return -1;
+        auto it = lru[key];
+        int val = it->second;
+        cache.erase(it);
+        cache.push_front({key, val});
+        lru[key] = cache.begin();
+        return val;
     }
     
     void put(int key, int value) {
         if(lru.count(key)) {
-            auto cache_it = lru[key];
-            cache.erase(cache_it);
-        } else if(cache.size() == cap) {
-            auto [bkey, bval] = cache.back();
-            lru.erase(bkey);
-            cache.pop_back();
+            auto it = lru[key];
+            int val = it->second;
+            cache.erase(it);
+        } else {
+            if(cache.size() == cap) {
+                auto it = cache.back();
+                int delKey = it.first;
+                cache.pop_back();
+                lru.erase(delKey);
+            }
         }
         cache.push_front({key, value});
-        lru[key] = cache.begin();   
+        lru[key] = cache.begin();
     }
 };
 
