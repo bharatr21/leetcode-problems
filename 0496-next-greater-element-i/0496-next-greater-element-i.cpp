@@ -1,27 +1,23 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        stack<int> stack;
-        unordered_map<int, int> hashmap;
-
-        for (int num : nums2) {
-            while (!stack.empty() && num > stack.top()) {
-                hashmap[stack.top()] = num;
-                stack.pop();
+        vector<int> res;
+        unordered_map<int, int> nge;
+        stack<int> st;
+        for(auto el: nums2) {
+            while(!st.empty() && el > st.top()) {
+                nge[st.top()] = el;
+                st.pop();
             }
-            stack.push(num);
+            st.push(el);
         }
-
-        while (!stack.empty()) {
-            hashmap[stack.top()] = -1;
-            stack.pop();
+        while(!st.empty()) {
+            nge[st.top()] = -1;
+            st.pop();
         }
-
-        vector<int> ans;
-        for (int num : nums1) {
-            ans.push_back(hashmap[num]);
+        for(auto el: nums1) {
+            res.push_back(nge[el]);
         }
-
-        return ans;
+        return res;
     }
 };
