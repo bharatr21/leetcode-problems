@@ -15,9 +15,7 @@ public:
             nge[st.top()] = -1;
             st.pop();
         }
-        for(auto el: nums1) {
-            res.push_back(nge[el]);
-        }
+        transform(nums1.begin(), nums1.end(), back_inserter(res), [&nge](int x){return nge[x];});
         return res;
     }
 };
