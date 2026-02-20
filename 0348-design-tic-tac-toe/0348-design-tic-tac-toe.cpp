@@ -58,7 +58,7 @@ public:
         grid[row][col] = player;
         auto [rstatus, rwinner] = winRow(row, n, grid);
         if(rstatus) return rwinner;
-        auto [cstatus, cwinner] = winCol(row, n, grid);
+        auto [cstatus, cwinner] = winCol(col, n, grid);
         if(cstatus) return cwinner;
         if(row == col || row + col == n - 1) {
             auto [dstatus, dwinner] = winDiag(grid);
