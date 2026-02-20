@@ -11,25 +11,22 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int ptr = -1;
-        int k = lists.size();
-        ListNode* head = new ListNode(-1);
-        ListNode* node = head;
-        if(k == 0) return nullptr;
-        bool changed = true;
-        int mn = 10000;
+        if(lists.empty()) return nullptr;
+        ListNode* head = new ListNode(0);
+        ListNode* res = head;
+        int k = lists.size(), idx = 0, mn = 10000;
         while(mn < 10001) {
             mn = 10001;
             for(int i = 0; i < k; i++) {
-                if(lists[i] && mn > lists[i]->val) {
+                if(lists[i] && lists[i]->val < mn) {
                     mn = lists[i]->val;
-                    ptr = i;
+                    idx = i;
                 }
             }
             if(mn < 10001) {
-                node->next = new ListNode(mn);
-                node = node->next;
-                if(lists[ptr]) lists[ptr] = lists[ptr]->next;
+                res->next = new ListNode(mn);
+                res = res->next;
+                if(lists[idx]) lists[idx] = lists[idx]->next;
             }
         }
         return head->next;
