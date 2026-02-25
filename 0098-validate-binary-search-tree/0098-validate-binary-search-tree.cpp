@@ -11,15 +11,15 @@
  */
 class Solution {
 public:
-    bool isValid(TreeNode* root, long mn, long mx) {
-        if(!root) return true;
-        if(root->val <= mn || root->val >= mx) return false;
-        bool lt = isValid(root->left, mn, root->val);
-        bool rt = isValid(root->right, root->val, mx);
-        return lt && rt;
+    bool isValid(TreeNode* root, TreeNode* low, TreeNode* high) {
+        bool res = true;
+        if((low && root->val <= low->val) || (high && root->val >= high->val)) return false;
+        if(root->left) res = res && isValid(root->left, low, root);
+        if(root->right) res = res && isValid(root->right, root, high);
+        return res;
     }
     bool isValidBST(TreeNode* root) {
         if(!root) return true;
-        return isValid(root, LONG_MIN, LONG_MAX);
+        return isValid(root, nullptr, nullptr);
     }
 };
