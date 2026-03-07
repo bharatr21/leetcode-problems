@@ -24,8 +24,8 @@ public:
             cache.erase(it);
         } else {
             if(cache.size() == cap) {
-                auto it = cache.back();
-                int delKey = it.first;
+                auto el = cache.back();
+                int delKey = el.first;
                 cache.pop_back();
                 lru.erase(delKey);
             }
