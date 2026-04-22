@@ -8,6 +8,6 @@ class Solution:
         for q in queries:
             for word in dictionary:
                 if twoEdits(q, word, n):
-                    if q not in res:
-                        res.append(q)
+                    res.append(q)
+                    break
         return res
